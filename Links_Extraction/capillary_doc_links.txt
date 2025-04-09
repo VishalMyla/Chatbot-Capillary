@@ -1,0 +1,1348 @@
+# Capillary Tech Documentation Links
+
+
+## GetTING Started (3 links):
+- Introduction: https://docs.capillarytech.com/docs/introduction
+- Accessing Capillary: https://docs.capillarytech.com/docs/accessing-capillary
+- Home page tour: https://docs.capillarytech.com/docs/home-page-tour
+
+## Engage+ (122 links):
+- Introduction to Engage+: https://docs.capillarytech.com/docs/introduction-to-engage
+- Engage+ Overview: https://docs.capillarytech.com/docs/engage-overview
+- Getting Started: https://docs.capillarytech.com/docs/getting-started
+- Create a Campaign (Old UI): https://docs.capillarytech.com/docs/campaigns-1
+- Create a Campaign (New UI): https://docs.capillarytech.com/docs/create-a-campaign
+- Schedule message: https://docs.capillarytech.com/docs/schedule-message
+- Search/Filter campaigns: https://docs.capillarytech.com/docs/searchfilter-campaigns
+- MLP Scope in Campaign: https://docs.capillarytech.com/docs/mlp-scope-in-campaign
+- Key Social Media KPI Definitions: https://docs.capillarytech.com/docs/key-social-media-kpi-definitions
+- Marketing objective: https://docs.capillarytech.com/docs/marketing-objective
+- Modify a campaign: https://docs.capillarytech.com/docs/modify-a-campaign
+- Creatives: https://docs.capillarytech.com/docs/creatives
+- Create email template: https://docs.capillarytech.com/docs/create-email-template
+- Create SMS template: https://docs.capillarytech.com/docs/create-sms-template
+- Create mobile push template: https://docs.capillarytech.com/docs/create-mobile-push-template
+- Create WeChat template: https://docs.capillarytech.com/docs/create-wechat-template
+- Create call task template: https://docs.capillarytech.com/docs/create-call-task-template
+- Create line template: https://docs.capillarytech.com/docs/create-line-template
+- Create viber template: https://docs.capillarytech.com/docs/create-viber-template
+- Create RCS template: https://docs.capillarytech.com/docs/create-rcs-template
+- Create WhatsApp template: https://docs.capillarytech.com/docs/create-whatsapp-template
+- Create Zalo template: https://docs.capillarytech.com/docs/create-zalo-template
+- In-app message: https://docs.capillarytech.com/docs/in-app-message
+- Campaign settings: https://docs.capillarytech.com/docs/campaign-settings
+- Delivery settings: https://docs.capillarytech.com/docs/delivery-settings
+- Enable tracking of clicked links: https://docs.capillarytech.com/docs/enable-tracking-of-clicked-links
+- Incentive related settings: https://docs.capillarytech.com/docs/incentive-related-settings
+- Report notification and failure alert settings: https://docs.capillarytech.com/docs/report-notification-and-failure-alert-settings
+- Create test user group: https://docs.capillarytech.com/docs/create-test-user-group
+- Create custom labels for call tasks: https://docs.capillarytech.com/docs/create-custom-labels-for-call-tasks
+- Communication Limit: https://docs.capillarytech.com/docs/communication-limit
+- WhatsApp setup: https://docs.capillarytech.com/docs/whatsapp-setup
+- Email setup: https://docs.capillarytech.com/docs/email-setup
+- Advanced settings: https://docs.capillarytech.com/docs/advanced-settings
+- Cart promotions: https://docs.capillarytech.com/docs/cart-promotions
+- Gift Vouchers: https://docs.capillarytech.com/docs/gift-vouchers-1
+- Referral Configuration: https://docs.capillarytech.com/docs/referral-configuration
+- Message optimization strategies: https://docs.capillarytech.com/docs/message-personalization
+- Channel priority: https://docs.capillarytech.com/docs/channel-priority
+- Audience management: https://docs.capillarytech.com/docs/audience-management
+- Audience group filters: https://docs.capillarytech.com/docs/audience-group-filters
+- Loyalty information based filters: https://docs.capillarytech.com/docs/loyalty-information-based-filter
+- Transaction based filters: https://docs.capillarytech.com/docs/transaction-based-filters
+- Campaigns & coupons based filters: https://docs.capillarytech.com/docs/campaigns-coupons-based-filters
+- User profile based filters: https://docs.capillarytech.com/docs/user-profile-based-filters
+- Common filter options (in filters): https://docs.capillarytech.com/docs/common-filter-optionsin-filters
+- Lead based filters: https://docs.capillarytech.com/docs/lead-based-filters
+- AI powered filters: https://docs.capillarytech.com/docs/ai-powered-filters
+- Purchase pattern/behavior based filters: https://docs.capillarytech.com/docs/purchase-patternbehavior-based-filters
+- Audience Reachability: https://docs.capillarytech.com/docs/audience-reachability
+- Split Audience List: https://docs.capillarytech.com/docs/split-audience-list
+- Content management: https://docs.capillarytech.com/docs/content-management
+- Create SMS content: https://docs.capillarytech.com/docs/create-sms-content
+- Create email content: https://docs.capillarytech.com/docs/create-email-content
+- Barcode in email: https://docs.capillarytech.com/docs/barcode-generation
+- Create mobile push content: https://docs.capillarytech.com/docs/create-mobile-push-content
+- Create call task content: https://docs.capillarytech.com/docs/create-call-task-content
+- Create line content: https://docs.capillarytech.com/docs/create-line-content
+- Create viber content: https://docs.capillarytech.com/docs/create-viber-content
+- Create WhatsApp content: https://docs.capillarytech.com/docs/create-whatsapp-content
+- Create RCS content: https://docs.capillarytech.com/docs/create-rcs-content
+- Create wechat content: https://docs.capillarytech.com/docs/create-wechat-content
+- Partner broadcast campaigns: https://docs.capillarytech.com/docs/partner-broadcast-campaigns
+- Personalisation: https://docs.capillarytech.com/docs/labels
+- Add Dynamic Content Using Liquid: https://docs.capillarytech.com/docs/liquid-language-in-messages
+- Add Dynamic Content Using Custom Fields: https://docs.capillarytech.com/docs/add-dynamic-content-using-custom-fields
+- Incentive management: https://docs.capillarytech.com/docs/incentive-management
+- Points strategy: https://docs.capillarytech.com/docs/points-strategy
+- Cart Promotions: https://docs.capillarytech.com/docs/cart-catalog-promotions
+- Gift vouchers: https://docs.capillarytech.com/docs/gift-vouchers
+- Badges in campaigns: https://docs.capillarytech.com/docs/badges-in-campaigns
+- Offers: https://docs.capillarytech.com/docs/offer-
+- Introduction to Offers: https://docs.capillarytech.com/docs/introduction-to-offers
+- Getting Started: https://docs.capillarytech.com/docs/create-offer-1
+- Coupon Management: https://docs.capillarytech.com/docs/manage-coupons
+- Using Offers in Campaigns: https://docs.capillarytech.com/docs/using-offers-in-campaigns
+- Event Notifications: https://docs.capillarytech.com/docs/offer-event-notifications
+- Reporting: https://docs.capillarytech.com/docs/offer-reporting
+- FAQ: https://docs.capillarytech.com/docs/faq-1
+- Message Schedule: https://docs.capillarytech.com/docs/message-schedule
+- Options to schedule messages: https://docs.capillarytech.com/docs/options-to-schedule-messages
+- Time personalization: https://docs.capillarytech.com/docs/time-personalization
+- Blackout time: https://docs.capillarytech.com/docs/blackout-time
+- Campaign message management: https://docs.capillarytech.com/docs/campaign-message-management
+- Create message: https://docs.capillarytech.com/docs/create-message
+- Approve message: https://docs.capillarytech.com/docs/approve-message
+- Reject message: https://docs.capillarytech.com/docs/reject-message
+- Stop message: https://docs.capillarytech.com/docs/stop-message
+- View details: https://docs.capillarytech.com/docs/view-details-failed-messages
+- Reports: https://docs.capillarytech.com/docs/view-campaign-reports
+- Journeys: https://docs.capillarytech.com/docs/journeys
+- Create journey: https://docs.capillarytech.com/docs/create-journeys
+- Configure journey: https://docs.capillarytech.com/docs/configure-journey
+- Building blocks of a journey: https://docs.capillarytech.com/docs/building-blocks-of-a-journey
+- A/B Testing: https://docs.capillarytech.com/docs/ab-testing_overview
+- Duplicate journey: https://docs.capillarytech.com/docs/duplicate-journey
+- Store CSV upload: https://docs.capillarytech.com/docs/store-csv-upload
+- Journey Versions: https://docs.capillarytech.com/docs/journey-versions
+- Test Journey: https://docs.capillarytech.com/docs/testpreview-journey
+- Block-Level Reporting in Journeys: https://docs.capillarytech.com/docs/block-level-report-of-journeys
+- Search User Journey History: https://docs.capillarytech.com/docs/search-user-journey-history
+- Configure Cart Promotions and Gift Vouchers: https://docs.capillarytech.com/docs/create-cart-or-catalog-promotions
+- Configure Earning Condition: https://docs.capillarytech.com/docs/configure-earning-condition
+- Configure Earning Condition (for Rewards Promotion): https://docs.capillarytech.com/docs/configure-earning-condition-for-rewards-promotion
+- Define Cart Evaluation & Cart Promotion Benefits: https://docs.capillarytech.com/docs/define-cart-evaluation-promotion-benefits
+- Add Meta Information: https://docs.capillarytech.com/docs/add-meta-information
+- Cart Promotion Earning & Expiry Communications: https://docs.capillarytech.com/docs/promotion-earning-expiry-communications
+- Configure gift vouchers: https://docs.capillarytech.com/docs/configure-gift-vouchers
+- FAQs: https://docs.capillarytech.com/docs/faqs-1
+- Communication Channels: https://docs.capillarytech.com/docs/communication-channels
+- LINE: https://docs.capillarytech.com/docs/line-overview
+- Getting Started: https://docs.capillarytech.com/docs/line-prerequisites
+- Configuration: https://docs.capillarytech.com/docs/line-configuration
+- Sending Campaign Messages: https://docs.capillarytech.com/docs/line-sending-campaign-messages
+- Frequently Asked Questions: https://docs.capillarytech.com/docs/line-faqs
+- Push Notifications: https://docs.capillarytech.com/docs/push-notifications
+- Creating and Sending Push Notifications: https://docs.capillarytech.com/docs/creating-and-sending-push-notifications
+- Optimizing delivery: https://docs.capillarytech.com/docs/optimizing-delivery
+- Frequently Asked Questions: https://docs.capillarytech.com/docs/frequently-asked-questions
+- WhatsApp: https://docs.capillarytech.com/docs/whatsapp
+- Sending messages based on subscription status: https://docs.capillarytech.com/docs/whatsapp-subscription-managment
+- Use case: https://docs.capillarytech.com/docs/campaign-use-cases
+
+## Insights+ (118 links):
+- Getting started: https://docs.capillarytech.com/docs/insights_overview
+- Product navigation: https://docs.capillarytech.com/docs/insights-product-navigation
+- Terms and abbreviations: https://docs.capillarytech.com/docs/terms-and-abbreviations
+- KPI and dimensions: https://docs.capillarytech.com/docs/kpi-and-dimensions
+- List of KPIs and Dimensions: https://docs.capillarytech.com/docs/list-of-kpis-and-dimesions
+- Charts: https://docs.capillarytech.com/docs/create-normal-migration-charts
+- Create Chart: https://docs.capillarytech.com/docs/create-chart
+- View Chart Details: https://docs.capillarytech.com/docs/view-chart-details
+- Edit Chart: https://docs.capillarytech.com/docs/edit-or-modify-chart
+- Delete Chart: https://docs.capillarytech.com/docs/delete-chart
+- Advanced Filter: https://docs.capillarytech.com/docs/advanced-filter
+- Reporting: https://docs.capillarytech.com/docs/reports-and-charts
+- Types of Reports: https://docs.capillarytech.com/docs/overview-1
+- Standard Report: https://docs.capillarytech.com/docs/reporting-standard-report
+- Custom Report: https://docs.capillarytech.com/docs/reporting-custom-report
+- Overview: https://docs.capillarytech.com/docs/custom-reports-overview
+- Create and Publish Custom Report: https://docs.capillarytech.com/docs/create
+- Edit or Delete Custom Report: https://docs.capillarytech.com/docs/edit-or-delete
+- Share Custom Report: https://docs.capillarytech.com/docs/share-report
+- Archive Custom Report: https://docs.capillarytech.com/docs/insights-archive-report
+- Managing Reports: https://docs.capillarytech.com/docs/managing-reports
+- View or Access Report: https://docs.capillarytech.com/docs/view-or-access-report
+- Analyse reports Based on Audience Groups: https://docs.capillarytech.com/docs/add-audience-group
+- Download Report: https://docs.capillarytech.com/docs/download-report
+- Explore Charts in Reports (Explore Mode): https://docs.capillarytech.com/docs/explore-charts-in-reports-explore-mode
+- Apply Dimensions to Charts: https://docs.capillarytech.com/docs/apply-dimensions-to-charts
+- Target Setting & Tracking at KPI level: https://docs.capillarytech.com/docs/target-setting
+- Schedule Report: https://docs.capillarytech.com/docs/insights-schedule-report
+- Share Report URL: https://docs.capillarytech.com/docs/share-report-url
+- Filters: https://docs.capillarytech.com/docs/date-range-filter-comparison-with-previous-period-1
+- Apply filters in report: https://docs.capillarytech.com/docs/apply-filters-in-report-1
+- Audience group filter in reports: https://docs.capillarytech.com/docs/audience-group-filter-in-reports
+- Fact & Dimension Tables: https://docs.capillarytech.com/docs/fact-dimension-tables
+- Fact tables: https://docs.capillarytech.com/docs/fact-tables
+- Bill Line Items Fact Table: https://docs.capillarytech.com/docs/bill-line-items-fact-table
+- Daily Till Summary Fact Table: https://docs.capillarytech.com/docs/daily-till-summary-fact-table
+- Payment Details Fact Table: https://docs.capillarytech.com/docs/payment-details-fact
+- Return Bill Line Item Fact Table: https://docs.capillarytech.com/docs/return-bill-line-item-fact-table
+- Customer Summary Fact Table: https://docs.capillarytech.com/docs/customer-summary-members-fact-table
+- Profile Users Fact Table: https://docs.capillarytech.com/docs/profile-users-fact-table
+- Registration Event Fact Table: https://docs.capillarytech.com/docs/fact_registration-event
+- Nsadmin Messages Fact Table: https://docs.capillarytech.com/docs/nsadmin-messages-fact-table
+- Goodwill Requests Fact Table: https://docs.capillarytech.com/docs/goodwill-requests-fact-table
+- Points Fact Tables: https://docs.capillarytech.com/docs/points-fact-table
+- Coupons Fact Table: https://docs.capillarytech.com/docs/coupons-fact-table
+- Badges Fact Table: https://docs.capillarytech.com/docs/badges-fact-table
+- Streaks Fact Table: https://docs.capillarytech.com/docs/fact_streaks
+- Journeys Fact Table: https://docs.capillarytech.com/docs/journeys-fact-table
+- Milestones Fact Table: https://docs.capillarytech.com/docs/fact_milestones
+- Rewards Fact Tables: https://docs.capillarytech.com/docs/rewards-fact-table
+- Invitation Sent Fact Table: https://docs.capillarytech.com/docs/invitation-sent-fact-table
+- Referrals Fact Table: https://docs.capillarytech.com/docs/referrals-fact-table
+- Referrers Fact Table: https://docs.capillarytech.com/docs/referrers-fact-table
+- Contact Info Fact Table: https://docs.capillarytech.com/docs/contact-info-fact-table
+- Response Info Fact Table: https://docs.capillarytech.com/docs/response-info-fact-table
+- Communication Credits Log Fact Table: https://docs.capillarytech.com/docs/communication-credits-log-fact-table
+- Email Click Stats Fact Table: https://docs.capillarytech.com/docs/email-click-stats-fact-table
+- Custom Field Data Fact Table: https://docs.capillarytech.com/docs/custom-field-data-fact-table
+- Customer Merge Log Fact Table: https://docs.capillarytech.com/docs/customer-merge-log-fact-table
+- Customer Notes Fact Table: https://docs.capillarytech.com/docs/customer-notes-fact-table
+- Issue Tracker Fact Table: https://docs.capillarytech.com/docs/issue-tracker-fact-table
+- Call Task Customer Status Fact Table: https://docs.capillarytech.com/docs/call-task-customer-status-fact-table
+- Slab Change Log Fact Table: https://docs.capillarytech.com/docs/slab-change-log-fact-table
+- Dimension tables: https://docs.capillarytech.com/docs/dimension-tables
+- Use case based schema explain: https://docs.capillarytech.com/docs/1-points-awardeddeducted-scenarios
+- Return after redemption scenarios: https://docs.capillarytech.com/docs/return-after-redemption-scenarios
+- Customer Segmentation: https://docs.capillarytech.com/docs/customer-segmentation
+- Create segments through file upload: https://docs.capillarytech.com/docs/create-segments-through-file-upload
+- Create segments using scheduled FTP upload: https://docs.capillarytech.com/docs/create-segments-using-scheduled-ftp-upload
+- Create segments using filters: https://docs.capillarytech.com/docs/create-segments-using-filters
+- Data export: https://docs.capillarytech.com/docs/export
+- Data export FAQs: https://docs.capillarytech.com/docs/data-export-faqs
+- Standard templates: https://docs.capillarytech.com/docs/standard-templates-1
+- Return Transactions Standard Export Template: https://docs.capillarytech.com/docs/return-transactions-standard-export-template
+- Responsed Standard Export Template: https://docs.capillarytech.com/docs/response-info-standard-export-template
+- Contacted Standard Export Template: https://docs.capillarytech.com/docs/contacted-standard-export-template
+- Transactions Standard Export Template: https://docs.capillarytech.com/docs/transactions-standard-export-template
+- Payment Mode Standard Export Template: https://docs.capillarytech.com/docs/payment-mode-standard-export-template
+- Tracker Value Standard Export Template: https://docs.capillarytech.com/docs/tracker-value-standard-export-template
+- Customer Merge Event Log Standard Export Template: https://docs.capillarytech.com/docs/customer-merge-event-log-standard-export-template
+- Slab Change Log Standard Export Template: https://docs.capillarytech.com/docs/slab-change-log-standard-export-template
+- Issue Trackers Standard Export Template: https://docs.capillarytech.com/docs/issue-trackers-standard-export-template
+- Messages Standard Export Template: https://docs.capillarytech.com/docs/messages-standard-export-template
+- Call Tasks Standard Export Template: https://docs.capillarytech.com/docs/call-tasks-standard-export-template
+- Footfall Standard Export Template: https://docs.capillarytech.com/docs/footfall-standard-export-template
+- Profiles Standard Export Template: https://docs.capillarytech.com/docs/profiles-2-standard-export-template
+- Points Standard Export Templates: https://docs.capillarytech.com/docs/points-standard-export-template
+- Members Standard Export Template: https://docs.capillarytech.com/docs/members-standard-export-template
+- Coupons Standard Export Template: https://docs.capillarytech.com/docs/coupons-standard-export-template
+- Badges Standard Export Templates: https://docs.capillarytech.com/docs/badges-standard-export-template
+- Registration Event Standard Export Template: https://docs.capillarytech.com/docs/registration-event-standard-export-template
+- Goodwill Requests Standard Export Template: https://docs.capillarytech.com/docs/goodwill-requests-standard-export-template
+- Invitation Sent Standard Export Template: https://docs.capillarytech.com/docs/invitation-sent-standard-export-template
+- Dimensions & attributes: https://docs.capillarytech.com/docs/dimensions-attributes
+- Custom templates: https://docs.capillarytech.com/docs/custom-templates
+- Configure SFTP server for data export: https://docs.capillarytech.com/docs/configure-ftp-server-for-data-export
+- Schedule an export job & fetch details: https://docs.capillarytech.com/docs/schedule-an-export-job-fetch-details
+- Create an export job (Step 1 of 3): https://docs.capillarytech.com/docs/create-an-export-job-step-1-of-3
+- Select data templates (Step 2 of 3): https://docs.capillarytech.com/docs/select-data-templates-step-2-of-3
+- Modifying template & creating schedule (Step 3 of 3): https://docs.capillarytech.com/docs/modifying-template-creating-schedule-step-3-of-3
+- Editing an export job: https://docs.capillarytech.com/docs/editing-an-export-job
+- Reuse an export job (duplicate): https://docs.capillarytech.com/docs/reuse-an-export-job-duplicate
+- Exporting audience group: https://docs.capillarytech.com/docs/exporting-audience-group
+- Use cases on data export: https://docs.capillarytech.com/docs/use-cases-on-data-export
+- External Facts: https://docs.capillarytech.com/docs/external_facts
+- Fraud Management: https://docs.capillarytech.com/docs/fraud-management-insights
+- Fraud Detection Rules: https://docs.capillarytech.com/docs/fraud-detection-rules
+- Methodology: https://docs.capillarytech.com/docs/methodology
+- Use Case for Score Calculation: https://docs.capillarytech.com/docs/use-case-for-score-calculation
+- FAQs: https://docs.capillarytech.com/docs/faqs-10
+- BI Tool Connector: https://docs.capillarytech.com/docs/bi-tool-connector
+- Steps to connect to BI Tool (PowerBi, Tableau): https://docs.capillarytech.com/docs/steps-to-connect-to-bi-tool-powerbi-tableau
+- FAQ: https://docs.capillarytech.com/docs/bi-tool-connector-faq
+- Custom Namespace for Organisation: https://docs.capillarytech.com/docs/configure-custom-namespace-for-organisation
+- Databricks: https://docs.capillarytech.com/docs/getting-started-databricks
+- Mask Data in Databricks: https://docs.capillarytech.com/docs/mask-data-in-databricks
+- Running Databricks jobs automatically after ETL completion: https://docs.capillarytech.com/docs/automated-notebook-execution-based-on-etl-completion
+- Data Encryption Settings: https://docs.capillarytech.com/docs/data-encryption-settings
+
+## Capillary Data Platform (111 links):
+- Entities Management: https://docs.capillarytech.com/docs/data-entities
+- Customer entity: https://docs.capillarytech.com/docs/customer_entity
+- Setup Store hierarchy: https://docs.capillarytech.com/docs/store-hierarchy
+- Setup Transactions: https://docs.capillarytech.com/docs/set-transactions
+- Handling of rejected transactions: https://docs.capillarytech.com/docs/handling-of-rejected-transactions
+- Setup Behavioral events: https://docs.capillarytech.com/docs/setup-test-behavioral-events
+- Setup Cards: https://docs.capillarytech.com/docs/card
+- Setup User Groups: https://docs.capillarytech.com/docs/user-group
+- Setup Customer Hierarchy: https://docs.capillarytech.com/docs/hierarchy
+- Setup Entities and Fields: https://docs.capillarytech.com/docs/data-fields
+- Create Search Filter for Entities: https://docs.capillarytech.com/docs/create-search-filter
+- Member Care: https://docs.capillarytech.com/docs/member-care
+- Register customers: https://docs.capillarytech.com/docs/register-customers
+- Search customer/coupon: https://docs.capillarytech.com/docs/search-customercoupon
+- Issue & update cards: https://docs.capillarytech.com/docs/issue-update-cards
+- Manage ID change requests: https://docs.capillarytech.com/docs/manage-change-request
+- Issue goodwill points & coupons: https://docs.capillarytech.com/docs/issue-goodwill-points-coupons
+- Retro transactions: https://docs.capillarytech.com/docs/tag-not-interested-transactions
+- Reallocate mobile numbers: https://docs.capillarytech.com/docs/reallocate-mobile-numbers
+- Manage customer feedback: https://docs.capillarytech.com/docs/manage-customer-feedback-1
+- Member Care New UI: https://docs.capillarytech.com/docs/member-care-new-ui
+- Customer overview: https://docs.capillarytech.com/docs/customer_overview
+- Loyalty details: https://docs.capillarytech.com/docs/view-loyalty_details
+- Event details: https://docs.capillarytech.com/docs/view-event_details
+- Incentive details: https://docs.capillarytech.com/docs/view-incentive_details
+- Communication details: https://docs.capillarytech.com/docs/view-communication_details
+- Identifier change request: https://docs.capillarytech.com/docs/manage-id-change_requests
+- Points & coupons request: https://docs.capillarytech.com/docs/issue-goodwill-points_coupons
+- Retro transaction request: https://docs.capillarytech.com/docs/retro_transaction
+- Session Logs: https://docs.capillarytech.com/docs/session_logs
+- Group view: https://docs.capillarytech.com/docs/group_view
+- Advanced points breakup view: https://docs.capillarytech.com/docs/advanced-points-breakup_view
+- Connect+: https://docs.capillarytech.com/docs/connectplus_overview
+- Getting started: https://docs.capillarytech.com/docs/connectplus_getting_started
+- Using  expressions for data transformation: https://docs.capillarytech.com/docs/know-about-expressions-in-connect
+- Configure blocks: https://docs.capillarytech.com/docs/configure-blocks-connectplus
+- Connect to Source: https://docs.capillarytech.com/docs/connect-to-source
+- Decrypt Data: https://docs.capillarytech.com/docs/decrypt-data
+- Connect to Destination: https://docs.capillarytech.com/docs/connect-to-destination
+- Transform Data: https://docs.capillarytech.com/docs/transform-data
+- Join Data: https://docs.capillarytech.com/docs/join-data
+- CSV-To-XML-Converter: https://docs.capillarytech.com/docs/csv-to-xml-converter
+- Push to S3: https://docs.capillarytech.com/docs/push-to-s3
+- Encrypt Data: https://docs.capillarytech.com/docs/encrypt-data
+- Schedule Trigger: https://docs.capillarytech.com/docs/schedule-trigger
+- Rebuild Headers / Define Headers and Transform Data: https://docs.capillarytech.com/docs/rebuild-headers-define-headers-and-transform-data
+- Mask Contents in a CSV: https://docs.capillarytech.com/docs/mask-contents-in-a-csv
+- Invoke Neo Iteratively: https://docs.capillarytech.com/docs/invoke-neo-iteratively
+- Convert JSON to CSV/Avro Format: https://docs.capillarytech.com/docs/convert-json-to-csvavro-format
+- Convert CSV to JSON: https://docs.capillarytech.com/docs/convert-csv-to-json
+- Event Notification Block: https://docs.capillarytech.com/docs/event-notification-block-
+- Explore templates: https://docs.capillarytech.com/docs/explore-templates
+- Test and control template: https://docs.capillarytech.com/docs/test_and_control
+- Add transaction template: https://docs.capillarytech.com/docs/add_transaction
+- File transfer templates: https://docs.capillarytech.com/docs/file-transfer-templates
+- Data reconciliation template: https://docs.capillarytech.com/docs/data_reconciliation_template
+- Transaction line item merge template: https://docs.capillarytech.com/docs/transaction-line-item-merge
+- PII cleanup template: https://docs.capillarytech.com/docs/pii_cleanup_template
+- Add customer template: https://docs.capillarytech.com/docs/customer_v2_add
+- Create or update Badges: https://docs.capillarytech.com/docs/create_badges
+- Import Earned Badges of Customer in Bulk: https://docs.capillarytech.com/docs/import-earned-badges-of-customer-template
+- CSV to XML conversion template: https://docs.capillarytech.com/docs/csv_to_xml_conversion
+- Coupon redeem template: https://docs.capillarytech.com/docs/coupon-redeem
+- Workspace & user management: https://docs.capillarytech.com/docs/workspace-user-management
+- Audience Reload from FTP: https://docs.capillarytech.com/docs/audience-reload-from-ftp
+- Onboard users to Intouch: https://docs.capillarytech.com/docs/onboard-users-to-intouch
+- Card update template: https://docs.capillarytech.com/docs/card-update-template
+- FTP to S3: https://docs.capillarytech.com/docs/ftp-to-s3
+- Behavioural events ingestion: https://docs.capillarytech.com/docs/behavioural-events-ingestion
+- Goodwill points issue template: https://docs.capillarytech.com/docs/goodwill-points-issue-template
+- Earned badges for customer template: https://docs.capillarytech.com/docs/earned-badges-for-customer-template
+- Retro transaction template: https://docs.capillarytech.com/docs/retro-transaction-template
+- Create Rewards Template: https://docs.capillarytech.com/docs/create-rewards_connectplus-template
+- Update Rewards Template: https://docs.capillarytech.com/docs/update-reward-connectplus
+- Force generate barcode template: https://docs.capillarytech.com/docs/force-generate-barcode-template
+- Databricks job trigger template: https://docs.capillarytech.com/docs/connectplus-databricks-job-trigger-template
+- SFTP to SFTP with Headers Definition: https://docs.capillarytech.com/docs/sftp-to-sftp-with-headers-definition
+- Pull Data from API: https://docs.capillarytech.com/docs/pull-data-from-api
+- Analyse dataflow performance: https://docs.capillarytech.com/docs/analyse-dataflow-performance
+- Troubleshooting guide: https://docs.capillarytech.com/docs/troubleshooting-guide-connectplus
+- DIY Templates: https://docs.capillarytech.com/docs/diy-templates-connectplus
+- Data import: https://docs.capillarytech.com/docs/data-import-
+- Transactions profiles: https://docs.capillarytech.com/docs/transactions-profiles
+- Customer profiles: https://docs.capillarytech.com/docs/customer-profiles
+- Inventory profiles: https://docs.capillarytech.com/docs/inventory-profiles
+- Org entities: https://docs.capillarytech.com/docs/org-entities
+- Points & Slabs: https://docs.capillarytech.com/docs/points-slabs
+- Points deductions: https://docs.capillarytech.com/docs/points-deductions
+- Points expiry: https://docs.capillarytech.com/docs/points-expiry
+- Other import profiles: https://docs.capillarytech.com/docs/other-import-profiles
+- Data cleanup: https://docs.capillarytech.com/docs/data-cleanup
+- Target loyalty: https://docs.capillarytech.com/docs/target-loyalty-1
+- Company: https://docs.capillarytech.com/docs/company
+- View import jobs: https://docs.capillarytech.com/docs/view-import-jobs-1
+- Fetch import details by import ID: https://docs.capillarytech.com/docs/fetching-import-details-by-import-id
+- Downloading reports (After temp DB import): https://docs.capillarytech.com/docs/downloading-reports-after-temp-db-import
+- Mark stores as inactive using the data import: https://docs.capillarytech.com/docs/mark-stores-as-inactive-using-the-data-import
+- Event notification: https://docs.capillarytech.com/docs/configure_event_notification
+- Add event notification account: https://docs.capillarytech.com/docs/add-event-notification-account
+- Edit/Delete event notification: https://docs.capillarytech.com/docs/editdelete-event-notification
+- Consuming event notifications: https://docs.capillarytech.com/docs/consuming-event-notifications
+- Event schema (Payload): https://docs.capillarytech.com/docs/event-schema-payload
+- Fraud Management: https://docs.capillarytech.com/docs/fraud-detection
+- (New) Request Workflow: https://docs.capillarytech.com/docs/new-request-workflow
+- Introduction: https://docs.capillarytech.com/docs/new-request-flow-introduction
+- Configuring Request workflow for Customer Enrolment: https://docs.capillarytech.com/docs/configuring-issue-badges-request-workflow
+- Configuring Request Workflow for Badge Issuance: https://docs.capillarytech.com/docs/configuring-earn-badge-request-workflow
+- Configuring Request Workflow for Customer Status Change: https://docs.capillarytech.com/docs/configuring-customer-status-change-request-workflow
+- Configuring Points Redemption Request Workflow: https://docs.capillarytech.com/docs/configuring-points-redemption-request-workflow
+- Configuring Goodwill Points Request Workflow: https://docs.capillarytech.com/docs/configuring-goodwill-points-request-workflow
+- FAQ: https://docs.capillarytech.com/docs/new-request-workflow-faq
+
+## Loyalty+ (139 links):
+- Introduction to Loyalty+: https://docs.capillarytech.com/docs/loyalty-overview
+- Features of loyalty+: https://docs.capillarytech.com/docs/features-of-loyalty
+- Types of Loyalty Programs we support: https://docs.capillarytech.com/docs/types-of-loyalty-programs-we-support
+- Glossary: https://docs.capillarytech.com/docs/glossary-1
+- FAQs: https://docs.capillarytech.com/docs/faqs
+- Loyalty guides: https://docs.capillarytech.com/docs/loyalty-guides
+- Retro guide: https://docs.capillarytech.com/docs/retro-guide
+- Loyalty Settings: https://docs.capillarytech.com/docs/loyalty-settings-2
+- Points Promotion: https://docs.capillarytech.com/docs/points-promotion
+- Points rolling expiry: https://docs.capillarytech.com/docs/points-rolling-expiry
+- Advanced Loyalty Features: https://docs.capillarytech.com/docs/create-a-multi-loyalty-program
+- User Group loyalty: https://docs.capillarytech.com/docs/group-loyalty
+- Behavioral Loyalty: https://docs.capillarytech.com/docs/behavioral-loyalty
+- Referral Programs: https://docs.capillarytech.com/docs/referral-programs
+- Subscription program: https://docs.capillarytech.com/docs/subscription-program
+- Coalition program: https://docs.capillarytech.com/docs/coalition-program
+- Milestones (also known as Target loyalty): https://docs.capillarytech.com/docs/milestones-new-flow
+- Unified target/milestones: https://docs.capillarytech.com/docs/unified-milestones
+- Alternate Currencies: https://docs.capillarytech.com/docs/alternate-currencies
+- Streaks: https://docs.capillarytech.com/docs/streaks
+- Overview: https://docs.capillarytech.com/docs/overview-streaks
+- Configure Streaks: https://docs.capillarytech.com/docs/configure-streaks
+- Connect the streak to loyalty promotions: https://docs.capillarytech.com/docs/connect-the-streak-to-loyalty-promotions
+- FAQ: https://docs.capillarytech.com/docs/faq
+- Loyalty+ Reporting: https://docs.capillarytech.com/docs/point-conditions
+- Loyalty Standard Report: https://docs.capillarytech.com/docs/loyalty-standard-report
+- Loyalty Sales Report: https://docs.capillarytech.com/docs/standard-loyalty-reports
+- Loyalty Customer Summary Report: https://docs.capillarytech.com/docs/loyalty-customer-summary-report
+- Points: https://docs.capillarytech.com/docs/points-2
+- Points Report (new): https://docs.capillarytech.com/docs/points-report-new
+- Non Member Report: https://docs.capillarytech.com/docs/loyalty-sales-report
+- Points Redemption Custom Fields: https://docs.capillarytech.com/docs/redemption-custom-field
+- Programs Home Page: https://docs.capillarytech.com/docs/dashboard
+- Loyalty+ settings: https://docs.capillarytech.com/docs/loyalty-settings-1
+- Strategies: https://docs.capillarytech.com/docs/building-blocks-of-loyalty
+- Tiers: https://docs.capillarytech.com/docs/strategies_tiers
+- Tier Upgrade: https://docs.capillarytech.com/docs/tier-upgrade
+- Tier Renewal & Downgrade: https://docs.capillarytech.com/docs/tier-downgrade-renewal
+- View tier configuration: https://docs.capillarytech.com/docs/view-tier-configuration
+- Create Tiers and Configure Tier Upgrade Conditions: https://docs.capillarytech.com/docs/create-tiers-and-configure-tier-upgrade-conditions
+- Configure Validity and Renewal Conditions: https://docs.capillarytech.com/docs/configure-renewal-conditions
+- Configure Tier Downgrade: https://docs.capillarytech.com/docs/configure-tier-downgrade
+- Use Cases: https://docs.capillarytech.com/docs/use-cases
+- Integrations: https://docs.capillarytech.com/docs/integrations
+- FAQs: https://docs.capillarytech.com/docs/faqs-tier
+- Points: https://docs.capillarytech.com/docs/points
+- Communication: https://docs.capillarytech.com/docs/communication
+- Offers/Coupons: https://docs.capillarytech.com/docs/create-and-configure-offers-condition
+- Advanced Settings: https://docs.capillarytech.com/docs/loyalty-org-settingsdf
+- Trackers: https://docs.capillarytech.com/docs/trackers
+- Workflows: https://docs.capillarytech.com/docs/workflows
+- Customer Activities: https://docs.capillarytech.com/docs/activities
+- Auto points conversion to reward: https://docs.capillarytech.com/docs/auto-points-conversion-to-reward
+- Actions: https://docs.capillarytech.com/docs/actions
+- Rule Writing: https://docs.capillarytech.com/docs/rule-writing
+- Advanced Capping: https://docs.capillarytech.com/docs/advanced-capping
+- Profiles & attributes: https://docs.capillarytech.com/docs/profiles
+- Profile : Current Customer: https://docs.capillarytech.com/docs/avgbasket-size
+- Attributes - Customer Identity: https://docs.capillarytech.com/docs/attributes-namefirst-namelast-name
+- Attributes - KPIs (Customer Points): https://docs.capillarytech.com/docs/attributes-current-customer-points
+- Attributes - Custom Field: https://docs.capillarytech.com/docs/attributes-custom-field
+- Attributes - Slab Information: https://docs.capillarytech.com/docs/attribute-slab-information
+- Attributes - User Segment (EI): https://docs.capillarytech.com/docs/user-segment-ei-attributes
+- Attributes - KPIs (Transaction Data): https://docs.capillarytech.com/docs/attributes-kpis
+- Attributes - Registration Date: https://docs.capillarytech.com/docs/attribute-joindate
+- Attributes - Other: https://docs.capillarytech.com/docs/attribute-loyalty-information-1
+- Attributes - Customer status & label: https://docs.capillarytech.com/docs/attribute-customer-status-label
+- Profile : Current Transaction: https://docs.capillarytech.com/docs/profile-current-transactioncurrenttxn
+- Attributes - KPI (Basket): https://docs.capillarytech.com/docs/a
+- Attributes - Transaction Number/ID: https://docs.capillarytech.com/docs/attributes-based-on-customer-identity
+- Attributes - Custom Fields (Transaction): https://docs.capillarytech.com/docs/attributes-custom-fields
+- Attribute - Transaction Value: https://docs.capillarytech.com/docs/attribute-transaction-value
+- Attribute - Discount: https://docs.capillarytech.com/docs/attribute-discount
+- Attribute - Date: https://docs.capillarytech.com/docs/attribute-date-transactionpurchase-date
+- Attribute - Note: https://docs.capillarytech.com/docs/attribute-using-standard-field
+- Profile : Current Line Item: https://docs.capillarytech.com/docs/profile-current-line-item
+- Attribute - Line Item Information: https://docs.capillarytech.com/docs/attribute-line-item-information
+- Attributes - discount & discPercentage: https://docs.capillarytech.com/docs/attribute-discount-1
+- Attributes - Line Item Properties: https://docs.capillarytech.com/docs/attributes-line-item-properties
+- Profile : Current Event: https://docs.capillarytech.com/docs/current-event
+- Attribute - Target Based: https://docs.capillarytech.com/docs/attribute-target-based
+- Attribute - Loyalty Information: https://docs.capillarytech.com/docs/attribute-loyalty-information
+- Attributes - Custom Field: https://docs.capillarytech.com/docs/attributes-custom-field-1
+- Profile : Current Store: https://docs.capillarytech.com/docs/profile-current-store
+- Attribute : Code: https://docs.capillarytech.com/docs/attribute-code
+- Profile : Current Tracker: https://docs.capillarytech.com/docs/profile-currenttracker
+- Attributes - Tracker: https://docs.capillarytech.com/docs/attributes-tracker
+- Loyalty+ Promotions: https://docs.capillarytech.com/docs/loyalty-promotions-basic-and-advanced
+- Getting started: https://docs.capillarytech.com/docs/loyalty-promotions
+- Types of promotions: https://docs.capillarytech.com/docs/advanced-loyalty-promotions
+- Available to Issue loyalty promotion: https://docs.capillarytech.com/docs/available-to-issue-promotion
+- Direct issue loyalty promotion: https://docs.capillarytech.com/docs/direct-issue-loyalty-promotion
+- Enrol & Issue loyalty promotion: https://docs.capillarytech.com/docs/enrol-issue-loyalty-promotion
+- Loyalty Promotion Priority Order & Stacking Strategy: https://docs.capillarytech.com/docs/loyalty-promotion-priority-order-stacking-strategy
+- RBAC (Role-based access control): https://docs.capillarytech.com/docs/rbac-role-based-access-control
+- Workflow simulation: https://docs.capillarytech.com/docs/cart-event-simulation
+- Transaction Add: https://docs.capillarytech.com/docs/simulate-transaction-add
+- Badges: https://docs.capillarytech.com/docs/customer_badges
+- Introduction to Badges: https://docs.capillarytech.com/docs/introduction-to-badges
+- Type of Badges: https://docs.capillarytech.com/docs/type-of-badges
+- Getting Started: https://docs.capillarytech.com/docs/getting-started-badges
+- Enabling & Creating a Badge: https://docs.capillarytech.com/docs/enabling-creating-a-badge
+- Viewing Badges: https://docs.capillarytech.com/docs/viewing-badges
+- Glossary of Terms: https://docs.capillarytech.com/docs/glossary-of-terms
+- Configuration for Badges: https://docs.capillarytech.com/docs/configuration-for-badges
+- Custom Field Information for Badges: https://docs.capillarytech.com/docs/custom-field-information-for-badges
+- Grouping and Ranking of Badges: https://docs.capillarytech.com/docs/grouping-and-ranking-of-badges
+- Managing Badges: https://docs.capillarytech.com/docs/managing-badges
+- Deactivating and Activating Badges: https://docs.capillarytech.com/docs/activating-and-deactivating-badges
+- Issuing Badges and Revoking via Loyalty Workflows and Promotions: https://docs.capillarytech.com/docs/issuing-badges-and-revoking-via-loyalty-workflows-and-promotions
+- Enrolling and Issuing Badges from Campaigns: https://docs.capillarytech.com/docs/enrolling-and-issuing-badges-from-campaigns
+- Enrolling and Issuing Badges from Journeys: https://docs.capillarytech.com/docs/enrolling-and-issuing-badges-from-journeys
+- Historical Data Migration of Badges: https://docs.capillarytech.com/docs/historical-data-migration-of-badges
+- Retro Enrolment and Issue of Badges: https://docs.capillarytech.com/docs/retro-enrolment-and-issue-of-badges
+- Badges Event Notification: https://docs.capillarytech.com/docs/badges-event-notification
+- Badges Reporting: https://docs.capillarytech.com/docs/badges-reporting
+- Badges in Membercare: https://docs.capillarytech.com/docs/badges-in-membercare
+- Rewards Catalog: https://docs.capillarytech.com/docs/rewards-catalog
+- Getting Started with Rewards Catalog: https://docs.capillarytech.com/docs/getting-started-with-rewards-catalog
+- Sample Rewards Catalog for Various Verticals: https://docs.capillarytech.com/docs/sample-rewards-catalog-for-various-verticals
+- Optimizing Your Rewards Budget & Catalog Inventory: https://docs.capillarytech.com/docs/optimizing-your-rewards-budget-catalog-inventory
+- Enhancing Rewards Catalog with Custom Fields: https://docs.capillarytech.com/docs/enhancing-rewards-catalog-with-custom-fields
+- Running Attractive Discounts on Rewards Catalog: https://docs.capillarytech.com/docs/running-attractive-discounts-on-rewards-catalog
+- Point Redemption for Unified Multiple Loyalty Programs: https://docs.capillarytech.com/docs/point-redemption-for-unified-multiple-loyalty-programs
+- Viewing Rewards Catalog Events in MemberCare: https://docs.capillarytech.com/docs/viewing-rewards-catalog-events-in-membercare
+- Reducing Reward Checkout Failures: https://docs.capillarytech.com/docs/reducing-reward-checkout-failures
+- Personalizing the Rewards Catalog: https://docs.capillarytech.com/docs/personalizing-the-catalog-with-program-tier-scope
+- Redeeming Points from User Groups: https://docs.capillarytech.com/docs/redeeming-points-from-user-groups
+- Ownership concept in Rewards Catalog: https://docs.capillarytech.com/docs/ownership-concept-in-rewards-catalog
+- Grouping and Ranking in Rewards Catalog: https://docs.capillarytech.com/docs/grouping-and-ranking-in-rewards-catalog
+- Point Redemption Controls for the Catalog: https://docs.capillarytech.com/docs/point-redemption-controls-for-the-catalog
+- Different payment modes for rewards in the catalog: https://docs.capillarytech.com/docs/pointscash-journeys-in-rewards-catalog
+- Reward Tracking with Status and Custom Fields in Reward Fulfillment: https://docs.capillarytech.com/docs/reward-tracking-with-status-and-custom-fields-in-reward-fulfillment
+- Rewards Event Notification: https://docs.capillarytech.com/docs/rewards-event-notification
+- Issue Catalog Reward from Loyalty Workflow: https://docs.capillarytech.com/docs/issue-catalog-reward-from-loyalty-workflow
+- Games: https://docs.capillarytech.com/docs/games_overview
+- CataBoom games: https://docs.capillarytech.com/docs/cataboom-games
+- Customerglu games: https://docs.capillarytech.com/docs/customerglu
+- Marvel games: https://docs.capillarytech.com/docs/marvel-games
+
+## ADMIN CONTROLS (29 links):
+- Organization: https://docs.capillarytech.com/docs/organization-management
+- Org management: https://docs.capillarytech.com/docs/org-management
+- (Old) User management: https://docs.capillarytech.com/docs/user-management
+- (New) User Management: https://docs.capillarytech.com/docs/new-user-management-overview
+- Types of Users in the Organisation: https://docs.capillarytech.com/docs/types-of-users-in-the-organisation
+- Managing Permissions for the Users: https://docs.capillarytech.com/docs/managing-permissions
+- List of Standard Permission Sets: https://docs.capillarytech.com/docs/list-of-standard-permission-sets
+- Manage Custom Permission Sets: https://docs.capillarytech.com/docs/custom-permission-sets
+- Assigning Permission Set to Users: https://docs.capillarytech.com/docs/assigning-permission-set-to-users
+- Managing Permission for Users in Multiple Orgs: https://docs.capillarytech.com/docs/managing-permission-for-users-in-multiple-orgs
+- Onboarding and Managing Users: https://docs.capillarytech.com/docs/onboarding-user
+- FAQs on User Management: https://docs.capillarytech.com/docs/faqs-on-user-management
+- Credit management: https://docs.capillarytech.com/docs/credit-management
+- Setup Localization: https://docs.capillarytech.com/docs/language
+- Localisation management: https://docs.capillarytech.com/docs/translation-management
+- Single Sign On (SSO): https://docs.capillarytech.com/docs/sso-integration
+- API Gateway Integration with CIAM Platforms: https://docs.capillarytech.com/docs/api-gateway-integration-with-ciam-platforms
+- API security: https://docs.capillarytech.com/docs/api-access
+- Authentication: https://docs.capillarytech.com/docs/api-client
+- Authorization: https://docs.capillarytech.com/docs/access-group
+- Data privacy: https://docs.capillarytech.com/docs/subscription-management-1
+- Unified subscription: https://docs.capillarytech.com/docs/setup-unified-subscription
+- Setup OTP verification Rules: https://docs.capillarytech.com/docs/setup-otp-verification-rules
+- Mask OTPs: https://docs.capillarytech.com/docs/mask-otps
+- PII deletion: https://docs.capillarytech.com/docs/pii-configuration
+- Classify Potentially Sensitive Information (PSI): https://docs.capillarytech.com/docs/classify-potentially-sensitive-information-psi
+- Encrypt PII data: https://docs.capillarytech.com/docs/encrypt-pii-data
+- Channel configuration: https://docs.capillarytech.com/docs/channel-configuration
+- Reset Password Using Import: https://docs.capillarytech.com/docs/reset-password-using-import
+
+## Developer DOcs (51 links):
+- Extension: https://docs.capillarytech.com/docs/extension
+- Quickstart for Neo Extension: https://docs.capillarytech.com/docs/neo-quick-start
+- Introduction: https://docs.capillarytech.com/docs/introduction-to-extension-platform
+- Overview: https://docs.capillarytech.com/docs/overview-neo
+- Enabling & Managing Access to Neo: https://docs.capillarytech.com/docs/access-management-neo
+- Introduction to the UI: https://docs.capillarytech.com/docs/introduction-to-the-ui-neo
+- Core Concepts: https://docs.capillarytech.com/docs/core-concepts
+- Dataflow & Building Blocks: https://docs.capillarytech.com/docs/dataflows
+- Tags & Filters in Dataflow: https://docs.capillarytech.com/docs/tags-filters-in-dataflow
+- Block Libraries: https://docs.capillarytech.com/docs/block-libraries
+- Configuration & Setup: https://docs.capillarytech.com/docs/configuration-setup
+- Configuring Conditions: https://docs.capillarytech.com/docs/configuring-conditions
+- Configuring Relations: https://docs.capillarytech.com/docs/configuring-relations
+- Configuring Caching: https://docs.capillarytech.com/docs/configuring-caching
+- Building Block Configuration: https://docs.capillarytech.com/docs/building-block-configuration
+- Trigger Block: https://docs.capillarytech.com/docs/trigger
+- Schema Block: https://docs.capillarytech.com/docs/json-schema-block
+- Script Block: https://docs.capillarytech.com/docs/script-block
+- API Request Block: https://docs.capillarytech.com/docs/api-request-block
+- GET Mongo Block: https://docs.capillarytech.com/docs/get-mongo
+- PUT Mongo Block: https://docs.capillarytech.com/docs/put-mongo
+- Bulk Upsert Mongo Block: https://docs.capillarytech.com/docs/bulk-upsert-mongo
+- Redis Evict Block: https://docs.capillarytech.com/docs/redis-evict
+- Kafka Block: https://docs.capillarytech.com/docs/neo-kafka-block
+- HMAC Block: https://docs.capillarytech.com/docs/hmac-block
+- Encrypt Block: https://docs.capillarytech.com/docs/encrypt-block
+- Decrypt Block: https://docs.capillarytech.com/docs/decrypt-block
+- OAuth Block: https://docs.capillarytech.com/docs/capillarys-oauth-block
+- OrgContextSwitch Block: https://docs.capillarytech.com/docs/orgcontextswitch-block
+- Manage Dataflow: https://docs.capillarytech.com/docs/manage-dataflow
+- Composing a Dataflow: https://docs.capillarytech.com/docs/composing-a-neo_dataflow
+- Editing a Dataflow: https://docs.capillarytech.com/docs/editing-a-dataflow
+- Deactivating and Activating a Dataflow: https://docs.capillarytech.com/docs/deactivating-a-dataflow
+- Viewing Dataflow List: https://docs.capillarytech.com/docs/viewing-dataflow-list
+- Neo DAO Functions: https://docs.capillarytech.com/docs/neo-dao-functions
+- Execution & Monitoring: https://docs.capillarytech.com/docs/execution-monitoring
+- Advanced Features: https://docs.capillarytech.com/docs/advanced-features
+- Access Sensitive Data in Neo Dataflows Using Configuration Manager: https://docs.capillarytech.com/docs/configuration-manager
+- Approval Flow & Versioning: https://docs.capillarytech.com/docs/approval-flow
+- API Extension Catalogue: https://docs.capillarytech.com/docs/api_extension_catalogue_intro
+- Adding Extensions to the Catalogue: https://docs.capillarytech.com/docs/adding-extensions-to-the-catalogue
+- Punches Calculator Extension: https://docs.capillarytech.com/docs/punches-calculator-extension-1
+- Airmiles Calculator Extension: https://docs.capillarytech.com/docs/airmiles-calculator-extension
+- Dev Console: https://docs.capillarytech.com/docs/dev-console
+- Introduction: https://docs.capillarytech.com/docs/introduction-dev-console
+- Handle Deployment: https://docs.capillarytech.com/docs/handle-deployment
+- View API Logs: https://docs.capillarytech.com/docs/log-viewer
+- View API Performance Metrics: https://docs.capillarytech.com/docs/platform-metrics
+- Save Extension Configurations: https://docs.capillarytech.com/docs/extension-configuration
+- Connect and Manage DB: https://docs.capillarytech.com/docs/db-management
+- FAQs: https://docs.capillarytech.com/docs/faqs-13
+
+## Smart Store+ (52 links):
+- InStore application: https://docs.capillarytech.com/docs/instore
+- System requirements for installing InStore: https://docs.capillarytech.com/docs/system-requirements-for-installing-instore
+- General questions: https://docs.capillarytech.com/docs/general-questions
+- Instore installation guide: https://docs.capillarytech.com/docs/instore-installation-guide
+- How to's: https://docs.capillarytech.com/docs/how-tos
+- URLs to be whitelisted for InStore installation: https://docs.capillarytech.com/docs/urls-to-be-whitelisted-for-instore-installation
+- FAQs - store center and InStore: https://docs.capillarytech.com/docs/faqs-store-center-and-instore
+- Troubleshooting guide: https://docs.capillarytech.com/docs/troubleshooting-guide
+- Upload logs from InStore (for staff): https://docs.capillarytech.com/docs/upload-logs-from-instore-for-staff
+- Instore Web-App: https://docs.capillarytech.com/docs/instore-web-app
+- Store center: https://docs.capillarytech.com/docs/store-center
+- Store center web service integration document: https://docs.capillarytech.com/docs/store-center-web-service-integration-document
+- Store center - data sync details document: https://docs.capillarytech.com/docs/store-center-data-sync-details-document
+- Lead management system: https://docs.capillarytech.com/docs/lead-management-system-1
+- Visitor metrix: https://docs.capillarytech.com/docs/visitor-metrix
+- Determining the mounting location: https://docs.capillarytech.com/docs/determining-the-mounting-location
+- Installing the device: https://docs.capillarytech.com/docs/installing-the-device
+- Setting up WiFi connection to the device: https://docs.capillarytech.com/docs/setting-up-wifi-connection-to-the-device
+- Configuring VisitorMetrix through InStore: https://docs.capillarytech.com/docs/configuring-visitormetrix-through-instore
+- Configuring the staff counter switch: https://docs.capillarytech.com/docs/configuring-the-staff-counter-switch
+- VisitorMetrix FAQs: https://docs.capillarytech.com/docs/visitormetrix-faqs
+- Troubleshooting VisitorMetrix: https://docs.capillarytech.com/docs/troubleshooting-visitormetrix
+- VisitorMetrix Best Practices: https://docs.capillarytech.com/docs/visitormetrix-best-practices
+- VisitorMetrix- Installation: https://docs.capillarytech.com/docs/visitormetrix-installation
+- VisitorMetrix Configuration for InStore, Bypass and FFCR: https://docs.capillarytech.com/docs/visitormetrix-configuration-for-instore-bypass-and-ffcr
+- VisitorSense: https://docs.capillarytech.com/docs/visitorsense
+- Installing VisitorMetrix: https://docs.capillarytech.com/docs/installing-visitormetrix
+- Installing CaptureEdge: https://docs.capillarytech.com/docs/installing-captureedge
+- Configuring VisitorSense: https://docs.capillarytech.com/docs/configuring-visitorsense
+- Configuring the Staff Counter Switch: https://docs.capillarytech.com/docs/configuring-the-staff-counter-switch-1
+- VisitorSense FAQs: https://docs.capillarytech.com/docs/visitorsense-faqs
+- VisitorMetrix Troubleshooting Guide: https://docs.capillarytech.com/docs/visitormetrix-troubleshooting-guide
+- VisitorTrax Overview: https://docs.capillarytech.com/docs/visitortrax-overview
+- Device Installation: https://docs.capillarytech.com/docs/device-installation
+- Device Configuration: https://docs.capillarytech.com/docs/device-configuration
+- Zone Configuration: https://docs.capillarytech.com/docs/zone-configuration
+- VisitorTrax Report: https://docs.capillarytech.com/docs/visitortrax-report
+- Store2Door+: https://docs.capillarytech.com/docs/store2door
+- Create & Activate Staff Account: https://docs.capillarytech.com/docs/create-activate-staff-account
+- Create Call Task: https://docs.capillarytech.com/docs/create-call-task
+- Setup WhatsApp Business Account: https://docs.capillarytech.com/docs/setup-whatsapp-business-account
+- Create Store-Level Custom Fields for S2D+: https://docs.capillarytech.com/docs/create-store-level-custom-fields-for-s2d
+- Send Task Messages through StoreMax: https://docs.capillarytech.com/docs/send-task-messages-through-storemax
+- Create Order on Anywhere Commerce Platform(ACP): https://docs.capillarytech.com/docs/create-order-on-anywhere-commerce-platformacp
+- S2D+ FAQs - Internal: https://docs.capillarytech.com/docs/s2d-faqs-internal
+- S2D+ FAQs - Client: https://docs.capillarytech.com/docs/s2d-faqs-client
+- View Leaderboard: https://docs.capillarytech.com/docs/view-leaderboard
+- View and Manage Tasks: https://docs.capillarytech.com/docs/view-and-manage-tasks
+- View Reports: https://docs.capillarytech.com/docs/view-reports
+- Register a customer: https://docs.capillarytech.com/docs/register-a-customer
+- Add or sell products: https://docs.capillarytech.com/docs/add-or-sell-products
+- Other Features: https://docs.capillarytech.com/docs/other-features
+
+## Announcements (105 links):
+- Product Highlights: https://docs.capillarytech.com/docs/product-highlights
+- Loyalty alone won’t increase ACV. This will.: https://docs.capillarytech.com/docs/loyalty-alone-wont-increase-acv-this-will
+- Your Customers Want Rewards—And So Do Their Friends 💰: https://docs.capillarytech.com/docs/your-customers-want-rewardsand-so-do-their-friends
+- An easy fix for app-onboarding drop-offs: https://docs.capillarytech.com/docs/an-easy-fix-for-app-onboarding-drop-offs
+- Finalists at the Oscars (you can too!): https://docs.capillarytech.com/docs/finalists-at-the-oscars-you-can-too
+- Is your loyalty program social?: https://docs.capillarytech.com/docs/is-your-loyalty-program-social
+- Your customers want more points 💰: https://docs.capillarytech.com/docs/your-customers-want-more-points
+- Loyalty program differentiation in 3 tested ways: https://docs.capillarytech.com/docs/loyalty-program-differentiation-in-3-tested-ways
+- Avoid these 2 loyalty program mistakes: https://docs.capillarytech.com/docs/avoid-these-2-loyalty-program-mistakes
+- 3 common loyalty blindspots: https://docs.capillarytech.com/docs/3-common-loyalty-blindspots
+- Do you really need a loyalty app? 🤔: https://docs.capillarytech.com/docs/do-you-really-need-a-loyalty-app
+- Want to build emotional loyalty? Some tactical advice.: https://docs.capillarytech.com/docs/want-to-build-emotional-loyalty-some-tactical-advice
+- One trick to 3X the odds of customer conversion: https://docs.capillarytech.com/docs/one-trick-to-3x-the-odds-of-customer-conversion
+- Is your loyalty program the best–everywhere?: https://docs.capillarytech.com/docs/is-your-loyalty-program-the-besteverywhere
+- Does your gamified loyalty program have surprises?: https://docs.capillarytech.com/docs/does-your-gamified-loyalty-program-have-surprises
+- Struggling to procure customer data from IT? Do this: https://docs.capillarytech.com/docs/struggling-to-procure-customer-data-from-it-do-this
+- Reward redemptions low? Try this.: https://docs.capillarytech.com/docs/reward-redemptions-low-try-this
+- You’re missing out on insights to grow your loyalty program 👀: https://docs.capillarytech.com/docs/youre-missing-out-on-insights-to-grow-your-loyalty-program
+- Using Milestones? Think beyond gamification 🎮: https://docs.capillarytech.com/docs/using-milestones-think-beyond-gamification
+- Cookies delivered! Is traditional marketing back?: https://docs.capillarytech.com/docs/cookies-delivered-is-traditional-marketing-back
+- Improve customers’ experiences without collecting more data: https://docs.capillarytech.com/docs/improve-customers-experiences-without-collecting-more-data
+- Sending personalized marketing comms the better way 📨: https://docs.capillarytech.com/docs/sending-personalized-marketing-comms-the-better-way
+- Money Saving Tip: Terminate your WhatsApp BSP Partnership 💸: https://docs.capillarytech.com/docs/money-saving-tip-terminate-your-whatsapp-bsp-partnership
+- Want to improve loyalty program ROI? 🤔: https://docs.capillarytech.com/docs/want-to-improve-loyalty-program-roi
+- Your loyalty program needs a capable data platform: https://docs.capillarytech.com/docs/your-loyalty-program-needs-a-capable-data-platform
+- Successfully moved a billion records (& reduced downtime for you!): https://docs.capillarytech.com/docs/successfully-moved-a-billion-records-reduced-downtime-for-you
+- Engagement pays with Milestones 💸: https://docs.capillarytech.com/docs/engagement-pays-with-milestones
+- Try Connect+ for 7 days. No change? We make it better.: https://docs.capillarytech.com/docs/try-connect-for-7-days-no-change-we-make-it-better
+- Defining Loyalty ROI of 2024: Clarissa Schealer’s expert guidance: https://docs.capillarytech.com/docs/defining-loyalty-roi-of-2024-clarissa-schealers-expert-guidance
+- A letter from Aira: Campaign setups got blazingly fast ⚡: https://docs.capillarytech.com/docs/a-letter-from-aira-campaign-setups-got-blazingly-fast
+- Can badges alone facilitate long-term loyalty? 🤔: https://docs.capillarytech.com/docs/can-badges-alone-facilitate-long-term-loyalty
+- Do your customers care about badges? 🤔: https://docs.capillarytech.com/docs/do-your-customers-care-about-badges
+- 2 ways to increase repeat purchases with Capillary Journeys!: https://docs.capillarytech.com/docs/2-ways-to-increase-repeat-purchases-with-capillary-journeys
+- 2 ways reel in buyers beyond the festive season🤠 | Mobile SDK: https://docs.capillarytech.com/docs/2-ways-reel-in-buyers-beyond-the-festive-season-mobile-sdk
+- Introducing Rewards+: Where Loyalty Meets Rewards!: https://docs.capillarytech.com/docs/introducing-rewards-where-loyalty-meets-rewards
+- Code: LEAKPUTTY?CONFIGURATION: https://docs.capillarytech.com/docs/code-leakputtyconfiguration
+- Your guide to overcoming the next customer data crisis ⚠️: https://docs.capillarytech.com/docs/your-guide-to-overcoming-the-next-customer-data-crisis-%EF%B8%8F
+- Gamify brand experiences in four interesting ways! 🏓: https://docs.capillarytech.com/docs/gamify-brand-experiences-in-four-interesting-ways
+- Focus on customer engagement this economic downturn 🤫: https://docs.capillarytech.com/docs/focus-on-customer-engagement-this-economic-downturn
+- Engagement = 0? 🥹 Our product can help.: https://docs.capillarytech.com/docs/engagement-0-our-product-can-help
+- Protect your loyalty program from fraud🔐: https://docs.capillarytech.com/docs/protect-your-loyalty-program-from-fraud
+- Clearing crumbs 🍪 | CDP in a cookieless world: https://docs.capillarytech.com/docs/clearing-crumbs-cdp-in-a-cookieless-world
+- One Rewards Catalog, Multiple Reward Structures 🤹: https://docs.capillarytech.com/docs/one-rewards-catalog-multiple-reward-structures
+- We have a tool to hook your buyers to your brand 🔗: https://docs.capillarytech.com/docs/we-have-a-tool-to-hook-your-buyers-to-your-brand
+- A good Loyalty Program is your brand’s REAL hero!: https://docs.capillarytech.com/docs/a-good-loyalty-program-is-your-brands-real-hero
+- We’re expanding Aira’s capabilities: https://docs.capillarytech.com/docs/were-expanding-airas-capabilities
+- Ask Captain Bhuvanesh Gogineni - Senior Engagement Manager, Customer Success!: https://docs.capillarytech.com/docs/ask-captain-bhuvanesh-gogineni-senior-engagement-manager-customer-success
+- Want to increase your WhatsApp Engagement? Try using Buttons!: https://docs.capillarytech.com/docs/want-to-increase-your-whatsapp-engagement-try-using-buttons
+- Industry Tailored Data Management: https://docs.capillarytech.com/docs/industry-tailored-data-management
+- Ads personalization: https://docs.capillarytech.com/docs/ads-personalization
+- How a Capillary Marketer uses Engage+: https://docs.capillarytech.com/docs/how-a-capillary-marketer-uses-engage
+- Capillary's interactive Email builder: https://docs.capillarytech.com/docs/capillarys-interactive-email-builder
+- The Art of Emotional Loyalty, and how to ace it 🧘: https://docs.capillarytech.com/docs/the-art-of-emotional-loyalty-and-how-to-ace-it
+- Meet AskAira: your ROI-boosting AI genie!: https://docs.capillarytech.com/docs/meet-askaira-your-roi-boosting-ai-genie
+- Success story: The secret to delicious customer experiences: https://docs.capillarytech.com/docs/success-story-the-secret-to-delicious-customer-experiences
+- Ask Captain Siew Hoon – Senior Manager, Presales: https://docs.capillarytech.com/docs/ask-captain-siew-hoon-senior-manager-presales
+- Analyze, experiment, and execute with ease with the most powerful segmentation tools!: https://docs.capillarytech.com/docs/analyze-experiment-and-execute-with-ease-with-the-most-powerful-segmentation-tools
+- Build your dream campaigns!: https://docs.capillarytech.com/docs/build-your-dream-campaigns
+- Activate data in the most interesting ways!: https://docs.capillarytech.com/docs/activate-data-in-the-most-interesting-ways
+- Looking for a win-win engagement? We’ve got you!: https://docs.capillarytech.com/docs/looking-for-a-win-win-engagement-weve-got-you
+- Loyalty, Engage, Platforms & Insights - the holy trifecta!: https://docs.capillarytech.com/docs/loyalty-engage-platforms-inisghts-the-holy-trifecta
+- Capillary’s creative studio: https://docs.capillarytech.com/docs/capillarys-creative-studio
+- Create favorable customer habits with infinte loops: https://docs.capillarytech.com/docs/create-favorable-customer-habits-with-infinte-loops
+- Success Story - Milestone Loyalty: https://docs.capillarytech.com/docs/success-story-milestone-loyalty
+- Multiple Loyalty Programs: https://docs.capillarytech.com/docs/multiple-loyalty-programs
+- Customer first Data Guardians: https://docs.capillarytech.com/docs/customer-first-data-guardians
+- Gold Standard Enterprise Readiness: https://docs.capillarytech.com/docs/gold-standard-enterprise-readiness
+- Playtime for Marketers: https://docs.capillarytech.com/docs/playtime-for-marketers
+- Experiential Loyalty: https://docs.capillarytech.com/docs/experiential-loyalty
+- 2023 Product Vision: https://docs.capillarytech.com/docs/2023-product-vision
+- Campaigns- Seal the deal with the best upselling strategy: https://docs.capillarytech.com/docs/campaigns-seal-the-deal-with-the-best-upselling-strategy
+- Personalising campaigns with Capillary: https://docs.capillarytech.com/docs/personalising-campaigns-with-capillary
+- Capillary's Funnel Chart: https://docs.capillarytech.com/docs/capillarys-funnel-chart
+- Migration Charts with Insights+: https://docs.capillarytech.com/docs/migration-charts-with-insights
+- Multi Loyalty Program: https://docs.capillarytech.com/docs/multi-loyalty-program
+- Capillary's Emotional Loyalty: https://docs.capillarytech.com/docs/capillarys-emotional-loyalty
+- Capillary's User Documentation: https://docs.capillarytech.com/docs/capillarys-user-documentation
+- Customer Segmentation with Capillary Insights+: https://docs.capillarytech.com/docs/customer-segmentation-with-capillary-insights
+- CRM Ads: https://docs.capillarytech.com/docs/crm-ads
+- Capillary's Group Loyalty: https://docs.capillarytech.com/docs/capillarys-group-loyalty
+- Cart Promotions: https://docs.capillarytech.com/docs/cart-promotions-2
+- Capillary's Coalition Loyalty: https://docs.capillarytech.com/docs/capillarys-coalition-loyalty
+- All new Member Care UI experience: https://docs.capillarytech.com/docs/all-new-member-care-ui-experience
+- Introducing Navigation Panel in Insights+: https://docs.capillarytech.com/docs/introducing-navigation-panel-in-insights
+- WhatsApp Marketing: https://docs.capillarytech.com/docs/whatsapp-marketing
+- Nudges: https://docs.capillarytech.com/docs/nudges
+- Subscription-based loyalty: https://docs.capillarytech.com/docs/subscription-based-loyalty
+- Release Notes: https://docs.capillarytech.com/docs/2025
+- 2025: https://docs.capillarytech.com/docs/january-february-march-2025
+- 2024: https://docs.capillarytech.com/docs/january-february-march24
+- April-May-June 2024: https://docs.capillarytech.com/docs/april-may-june24
+- July-August-September 2024: https://docs.capillarytech.com/docs/july-august-september24
+- October-November-December 2024: https://docs.capillarytech.com/docs/october-november-december24
+- 2023: https://docs.capillarytech.com/docs/january-february-march23
+- April-May-June 2023: https://docs.capillarytech.com/docs/april-may-june23
+- July-August-September 2023: https://docs.capillarytech.com/docs/july-august-september23
+- October-November-December 2023: https://docs.capillarytech.com/docs/october-november-december23
+- 2022: https://docs.capillarytech.com/docs/january-february-march22
+- April-May-June 2022: https://docs.capillarytech.com/docs/april-may-june22
+- July-August-September 2022: https://docs.capillarytech.com/docs/july-august-september22
+- October-November-December 2022: https://docs.capillarytech.com/docs/october-november-december22
+- 2021: https://docs.capillarytech.com/docs/january-february-march21
+- April-May-June 2021: https://docs.capillarytech.com/docs/april-may-june21
+- July-August-September 2021: https://docs.capillarytech.com/docs/july-august-september21
+- October-November-December 2021: https://docs.capillarytech.com/docs/october-november-december21
+
+## Rewards+ (1 links):
+- Overview: https://docs.capillarytech.com/docs/overview-rewards_plus
+
+## api documentation (552 links):
+- Getting Started: https://docs.capillarytech.com/reference/apioverview
+- API reference index: https://docs.capillarytech.com/reference/api-index
+- Authentication: https://docs.capillarytech.com/reference/authentication
+- OAuth: https://docs.capillarytech.com/reference/oauth
+- Basic authentication: https://docs.capillarytech.com/reference/basic-authentication
+- Auth for consumer or end-customer apps: https://docs.capillarytech.com/reference/auth-for-consumer-or-end-customer-apps
+- Authorisation: https://docs.capillarytech.com/reference/authorisation
+- Rate limits: https://docs.capillarytech.com/reference/rate-limits
+- API status codes: https://docs.capillarytech.com/reference/errors-and-warnings
+- Timezone Management: https://docs.capillarytech.com/reference/timezone-management
+- Make your first API request: https://docs.capillarytech.com/reference/make-your-first-api-call
+- Customer (V1): https://docs.capillarytech.com/reference/customer
+- Recommendations: https://docs.capillarytech.com/reference/recommendations
+- Get User Recommendationsget: https://docs.capillarytech.com/reference/get-user-recommendations
+- Get Item Recommendationsget: https://docs.capillarytech.com/reference/get-item-recommendations
+- Get Cart Recommendationsget: https://docs.capillarytech.com/reference/get-cart-recommendations
+- Change identifier on Auth enginepost: https://docs.capillarytech.com/reference/change_identifier-on-auth-engine
+- Add Customerpost: https://docs.capillarytech.com/reference/add-customer
+- Update customer detailsput: https://docs.capillarytech.com/reference/update-customer-details_v1api
+- Update Customer Identifierput: https://docs.capillarytech.com/reference/update-customer-identifiers-1
+- Search Customersget: https://docs.capillarytech.com/reference/search-customers
+- Get customer detailsget: https://docs.capillarytech.com/reference/get-customer-details-v1api
+- Get Customer Transactionsget: https://docs.capillarytech.com/reference/get-customer-transactions
+- Get Customer Redemptionsget: https://docs.capillarytech.com/reference/get-customer-redemptions
+- Add/Update Customer Notespost: https://docs.capillarytech.com/reference/addupdate-customer-notes
+- Get Customer Notesget: https://docs.capillarytech.com/reference/get-customer-notes
+- Get Customer Interactionsget: https://docs.capillarytech.com/reference/get-customer-interactions
+- Add Ticketpost: https://docs.capillarytech.com/reference/add-ticket
+- Get Ticket Detailsget: https://docs.capillarytech.com/reference/get-ticket-details
+- Get Referral Detailsget: https://docs.capillarytech.com/reference/get-referral-details
+- Add/Update Customer Preferencespost: https://docs.capillarytech.com/reference/addupdate-customer-preferences
+- Get Customer Preferencesget: https://docs.capillarytech.com/reference/get-customer-preferences
+- Update Subscription Detailspost: https://docs.capillarytech.com/reference/update-subscription-details-1
+- Get Subscription Detailsget: https://docs.capillarytech.com/reference/get-subscription-details-1
+- Customer (V2): https://docs.capillarytech.com/reference/customer-1
+- Add Customerpost: https://docs.capillarytech.com/reference/v2-add-customer
+- Get Customer IDget: https://docs.capillarytech.com/reference/get-customer-id
+- Update Identifier/Issue Cardpost: https://docs.capillarytech.com/reference/update-identifiersissue-card
+- Upsert customerpost: https://docs.capillarytech.com/reference/customer-upsert-api
+- Associate Customerpost: https://docs.capillarytech.com/reference/associate-customer
+- Get Customer Detailsget: https://docs.capillarytech.com/reference/get-customer-details-v2
+- Get customer hierarchy in a user groupget: https://docs.capillarytech.com/reference/customer-hierarchy
+- Update Customer Detailsput: https://docs.capillarytech.com/reference/update-customer-detail
+- Update association detailsput: https://docs.capillarytech.com/reference/update-association-details
+- Search Customersget: https://docs.capillarytech.com/reference/search-customers-1
+- Update Subscription Detailspost: https://docs.capillarytech.com/reference/update-subscription-details
+- Get Subscription Detailsget: https://docs.capillarytech.com/reference/get-subscription-details-1-1
+- Get Customer Tracker Detailsget: https://docs.capillarytech.com/reference/get_v2-customers-customerid-trackers
+- Get Points Expiry Scheduleget: https://docs.capillarytech.com/reference/get-points-expiry-schedule
+- Get Points Expiry Schedule (Light API)get: https://docs.capillarytech.com/reference/get-points-expiry-schedule-light-api
+- Get Loyalty Eventsget: https://docs.capillarytech.com/reference/get-loyalty-events
+- Get Loyalty Detailsget: https://docs.capillarytech.com/reference/get-loyalty-details-1
+- Get Points Transfer Summaryget: https://docs.capillarytech.com/reference/get-points-transfer-summary
+- Get Points Balanceget: https://docs.capillarytech.com/reference/get-points-balance
+- Get Customer Tierget: https://docs.capillarytech.com/reference/get-customer-tier
+- Get Points Conversion Scheduleget: https://docs.capillarytech.com/reference/get-points-conversion-schedule
+- Get Detailed Customer Coupon Dataget: https://docs.capillarytech.com/reference/get-customer-coupons-detailed
+- Get Retro Requestsget: https://docs.capillarytech.com/reference/get-retro-requests
+- Get Identifier Change Requestsget: https://docs.capillarytech.com/reference/get-identifier-change-requests
+- Get Goodwill Requestsget: https://docs.capillarytech.com/reference/get-goodwill-requests
+- Request Goodwill points (Group)post: https://docs.capillarytech.com/reference/get-goodwill-request-group
+- Add Customer Imagepost: https://docs.capillarytech.com/reference/add-customer-image
+- Delete Customer Imagedelete: https://docs.capillarytech.com/reference/delete-customer-image
+- Link/Delink Cardpost: https://docs.capillarytech.com/reference/linkdelink-card
+- Get Customer Status Logget: https://docs.capillarytech.com/reference/get-status-log-1
+- Get Customer Subscription Logget: https://docs.capillarytech.com/reference/get-customer-subscription-log
+- Get Customer Imageget: https://docs.capillarytech.com/reference/get-customer-image
+- Get user group customer tracker detailsget: https://docs.capillarytech.com/reference/get-user-group-customer-tracker-details
+- Get customer transactionsget: https://docs.capillarytech.com/reference/v2api-get-customer-transactions
+- Get Customer Interactionsget: https://docs.capillarytech.com/reference/v2get-customer-interactions
+- Status codes: https://docs.capillarytech.com/reference/status-codes-customer
+- Customer (V2 Lookup): https://docs.capillarytech.com/reference/customer-lookup
+- Update Customer Detailsput: https://docs.capillarytech.com/reference/update-customers-lookup
+- Get Customer Detailsget: https://docs.capillarytech.com/reference/get-customer-details
+- Update Customer Statusput: https://docs.capillarytech.com/reference/update-customer-status
+- Get Subscription Detailsget: https://docs.capillarytech.com/reference/get-subscription-details
+- Get Customer Loyalty Detailsget: https://docs.capillarytech.com/reference/get-customer-loyalty-details
+- Get Retro Requestsget: https://docs.capillarytech.com/reference/get-retro-requests-1
+- Add Customer Imagepost: https://docs.capillarytech.com/reference/set-customer-image-1
+- Get Referrals (Lookup)get: https://docs.capillarytech.com/reference/get-referrals-lookup
+- Get Customer Recommendationsget: https://docs.capillarytech.com/reference/get-customer-recommendations
+- Get Points Balanceget: https://docs.capillarytech.com/reference/get_points_balance
+- Get Customer Tierget: https://docs.capillarytech.com/reference/get-customer-tier-1
+- Get Points Conversion Scheduleget: https://docs.capillarytech.com/reference/get-points-conversion-schedule-1
+- Customer Labels: https://docs.capillarytech.com/reference/customer-labels
+- Add Labelspost: https://docs.capillarytech.com/reference/add-labels
+- Get Org Labelsget: https://docs.capillarytech.com/reference/get-org-labels
+- Tag Customers (to Labels)post: https://docs.capillarytech.com/reference/tag-customers-to-labels
+- Get Customer Labelsget: https://docs.capillarytech.com/reference/get-customer-labels
+- Search Customers by Labelget: https://docs.capillarytech.com/reference/search-customers-by-labels
+- Transaction: https://docs.capillarytech.com/reference/transaction
+- Add Transactionpost: https://docs.capillarytech.com/reference/add-transaction
+- Add Transaction with Local Currencypost: https://docs.capillarytech.com/reference/add-transaction-with-local-currency
+- Update Transaction Detailspost: https://docs.capillarytech.com/reference/update-transaction-details
+- Cancel Transaction Lineitempost: https://docs.capillarytech.com/reference/cancel-transaction-lineitem
+- Get Transaction Detailsget: https://docs.capillarytech.com/reference/get_transaction_detailsv1
+- Return Transactionpost: https://docs.capillarytech.com/reference/return-transaction
+- Retro Transactionpost: https://docs.capillarytech.com/reference/retro-transaction
+- Transaction (V2): https://docs.capillarytech.com/reference/transaction_apis
+- Add/Return transaction (single)post: https://docs.capillarytech.com/reference/add-transaction-single
+- Add/Return Transaction(bulk)post: https://docs.capillarytech.com/reference/addreturn-transaction-bulk
+- Update Transactionput: https://docs.capillarytech.com/reference/update-transaction
+- Update Transactions in Bulkput: https://docs.capillarytech.com/reference/update-transaction-bulk
+- Get Transaction Detailsget: https://docs.capillarytech.com/reference/get-transaction-details
+- Get transaction details using bill numberget: https://docs.capillarytech.com/reference/retrieve-transaction-details-with-bill-number
+- Simulation transaction addpost: https://docs.capillarytech.com/reference/simulate_transactionadd
+- Expose Evaluation log for an eventpost: https://docs.capillarytech.com/reference/expose-evaluation-log-for-an-event
+- Status codes: https://docs.capillarytech.com/reference/transaction-status-codes
+- Transaction rejection: https://docs.capillarytech.com/reference/getrejectedtransactions
+- getReTriggerStatusget: https://docs.capillarytech.com/reference/getretriggerstatus
+- markFailedput: https://docs.capillarytech.com/reference/markfailed
+- retriggerTransactionAddpost: https://docs.capillarytech.com/reference/retriggertransactionadd
+- Coupon: https://docs.capillarytech.com/reference/coupon-1
+- Issue Couponpost: https://docs.capillarytech.com/reference/issue-coupon-1
+- Resend Couponget: https://docs.capillarytech.com/reference/resend-coupon
+- Redeem Couponpost: https://docs.capillarytech.com/reference/redeem-coupon
+- Get Coupon detailsget: https://docs.capillarytech.com/reference/get-coupon-detail
+- Get Customer Couponsget: https://docs.capillarytech.com/reference/get-customer-coupons
+- Is Coupon Redeemableget: https://docs.capillarytech.com/reference/is-coupon-redeemable
+- Get Coupon series detailsget: https://docs.capillarytech.com/reference/get-coupon-series-details-1
+- Coupon (V2 APIs): https://docs.capillarytech.com/reference/coupon
+- Create coupon seriespost: https://docs.capillarytech.com/reference/create-coupon-series
+- Update coupon seriesput: https://docs.capillarytech.com/reference/update-coupon-series
+- Get coupon series detailsget: https://docs.capillarytech.com/reference/get-coupon-series-details
+- Issue single couponpost: https://docs.capillarytech.com/reference/issue-single-coupon
+- Issue bulk couponspost: https://docs.capillarytech.com/reference/issue-bulk-coupons
+- Issue multiple coupons to a customer from a seriespost: https://docs.capillarytech.com/reference/issue-bulk-coupon-with-count-from-series
+- Redeem single couponpost: https://docs.capillarytech.com/reference/redeem-single-coupon
+- Redeem bulk couponspost: https://docs.capillarytech.com/reference/redeem-bulk-coupons
+- Check if coupon is Redeemableget: https://docs.capillarytech.com/reference/check-if-coupon-is-redeemable
+- Reactivate redeemed couponpost: https://docs.capillarytech.com/reference/reactivate-redeemed-coupon
+- Get coupon detailsget: https://docs.capillarytech.com/reference/get-coupon-details
+- Get All Customer Couponsget: https://docs.capillarytech.com/reference/get-customer-coupons-basic
+- Update coupon redeem fieldput: https://docs.capillarytech.com/reference/update-coupon-redeem-field
+- Update coupon code expiry dateput: https://docs.capillarytech.com/reference/update-coupon-code-expiry-date
+- Revoke couponpost: https://docs.capillarytech.com/reference/revoke-coupon
+- Coupon Upload (V1 APIs): https://docs.capillarytech.com/reference/coupon-upload
+- Upload Coupons (Batch)post: https://docs.capillarytech.com/reference/upload-coupons-batch
+- Upload Redeemed Couponspost: https://docs.capillarytech.com/reference/upload-redeemed-coupons
+- Get Uploaded Coupons' Statusget: https://docs.capillarytech.com/reference/get-uploaded-coupons-status
+- Get Status of Redeemed Couponsget: https://docs.capillarytech.com/reference/get-status-of-redeemed-coupons
+- Points: https://docs.capillarytech.com/reference/points-v2-api
+- Check if Points Transferablepost: https://docs.capillarytech.com/reference/-customer-points-transferrable
+- Transfer Customer Pointspost: https://docs.capillarytech.com/reference/transfer-points-customer
+- Get Points Transfer Detailsget: https://docs.capillarytech.com/reference/get-points-transfer-details
+- Reverse Redeemed Pointspost: https://docs.capillarytech.com/reference/reverse-redeemed-points
+- Group Points Transferrablepost: https://docs.capillarytech.com/reference/group-points-transferrable
+- Transfer Group Pointspost: https://docs.capillarytech.com/reference/transfer-group-points
+- Convert Promised Pointspost: https://docs.capillarytech.com/reference/points-unlock-api
+- Update redeem pointsput: https://docs.capillarytech.com/reference/update-redeem-points
+- Deduct points and alternate currencies from userpost: https://docs.capillarytech.com/reference/deduct-points-and-alternatecurrencies-from-user
+- Deduct points and alternate currencies from user using userIdpost: https://docs.capillarytech.com/reference/deduct-points-and-alternatecurrencies-from-user-using-userid
+- Points (v1.1): https://docs.capillarytech.com/reference/points-v11-api
+- Check If Points Redeemableget: https://docs.capillarytech.com/reference/check-if-points-redeemable
+- Issue Validation Code (to redeem points)get: https://docs.capillarytech.com/reference/issue-validation-code
+- Redeem Pointspost: https://docs.capillarytech.com/reference/redeem-points
+- Points Ledger: https://docs.capillarytech.com/reference/points-ledger
+- Get Customer Ledger Balanceget: https://docs.capillarytech.com/reference/get-customer-ledger-balance
+- Get Points Ledger Informationget: https://docs.capillarytech.com/reference/get-ledger-information
+- Get Points Ledger Explode infoget: https://docs.capillarytech.com/reference/get-points-ledger-explode-info
+- Connected Org APIs: https://docs.capillarytech.com/reference/connectedorgs-get-customer-ledger-info
+- Get Points Ledger Explode Info in Connected Orgsget: https://docs.capillarytech.com/reference/connectedorgs-get-customer-ledger-explode-info
+- Cards: https://docs.capillarytech.com/reference/cards
+- Generate Cardspost: https://docs.capillarytech.com/reference/generate-cards
+- Get Card Generation Logget: https://docs.capillarytech.com/reference/get-card-generation-log
+- Add Card (Single)post: https://docs.capillarytech.com/reference/add-card-details-single
+- Update Card Details (Single)put: https://docs.capillarytech.com/reference/update-card-details-single
+- Update Card Details (Bulk)put: https://docs.capillarytech.com/reference/update-card-details-bulk
+- Get Card Detailsget: https://docs.capillarytech.com/reference/get-card-details
+- Get Status Logget: https://docs.capillarytech.com/reference/get-status-log
+- Limit Active Cards per Customerpost: https://docs.capillarytech.com/reference/limit-active-cards-per-customer
+- Add Card Number to a Card Seriespost: https://docs.capillarytech.com/reference/add-card-number-to-a-card-series
+- Add External Reference ID to Cardput: https://docs.capillarytech.com/reference/add-external-reference-id-to-card
+- Search APIs: https://docs.capillarytech.com/reference/create-meta-search
+- Retrieve search criteria detailsget: https://docs.capillarytech.com/reference/get-meta
+- Enable search index of older datapost: https://docs.capillarytech.com/reference/enable-bulk-trigger
+- Perform searchpost: https://docs.capillarytech.com/reference/perform-search
+- Deactivate search criteriadelete: https://docs.capillarytech.com/reference/deactivate-search-criteria
+- Badges: https://docs.capillarytech.com/reference/badges
+- Create badgespost: https://docs.capillarytech.com/reference/create-badges-org
+- Fixed Window Restriction in Badges: https://docs.capillarytech.com/reference/fixed-window-use-case
+- Update badgesput: https://docs.capillarytech.com/reference/update-badges
+- Get badge by IDget: https://docs.capillarytech.com/reference/get-badge-by-id
+- Get all badgesget: https://docs.capillarytech.com/reference/get-all-badges
+- Get fixed window detailsget: https://docs.capillarytech.com/reference/get-fixed-window-details
+- Claim badgepost: https://docs.capillarytech.com/reference/claim-badge
+- Unclaim badgepost: https://docs.capillarytech.com/reference/unclaim-badge
+- Update activation status of badgeput: https://docs.capillarytech.com/reference/update-the-activation-status-of-badge
+- Enrol customers for badgespost: https://docs.capillarytech.com/reference/enrol-customers-for-badges
+- Issue badge (earn)post: https://docs.capillarytech.com/reference/issue-badge-to-the-customer
+- Multiple Badge Issuances: https://docs.capillarytech.com/reference/multiple-badge-issuances
+- Issue badge to multiple customerspost: https://docs.capillarytech.com/reference/issue-badge-to-multiple-customers
+- Import earned (issued) badges of customerpost: https://docs.capillarytech.com/reference/import-earned-badges-of-customer
+- Revoke enrolled badgespost: https://docs.capillarytech.com/reference/revoke-enrolment-of-a-badge
+- Revoke issued badgepost: https://docs.capillarytech.com/reference/revoke-issual-of-a-badge
+- Get badges for customerget: https://docs.capillarytech.com/reference/get-badges-for-customer
+- Get all customer badgesget: https://docs.capillarytech.com/reference/get-all-customer-badges
+- Get individual badge details of a customerget: https://docs.capillarytech.com/reference/get-individual-badge-details-of-a-customer
+- Create badges grouppost: https://docs.capillarytech.com/reference/create-badges-group
+- Update badges groupput: https://docs.capillarytech.com/reference/update-badges-group
+- Get group by IDget: https://docs.capillarytech.com/reference/get-group-by-id
+- Get all groupsget: https://docs.capillarytech.com/reference/get-all-groups
+- Create custom field for badgespost: https://docs.capillarytech.com/reference/create-custom-field
+- Update badge custom fieldput: https://docs.capillarytech.com/reference/update-custom-field-badge
+- Get badge custom field by IDget: https://docs.capillarytech.com/reference/get-custom-field-by-id
+- Get all badge custom fieldsget: https://docs.capillarytech.com/reference/get-all-custom-fields
+- Rewards Catalog: https://docs.capillarytech.com/reference/rewards-catalog-api
+- Create Reward Categorypost: https://docs.capillarytech.com/reference/create-reward-category
+- Update Reward Categoryput: https://docs.capillarytech.com/reference/update-reward-category
+- Get Reward Categoryget: https://docs.capillarytech.com/reference/get-reward-category
+- Create rewardpost: https://docs.capillarytech.com/reference/post-create-reward
+- Adding revenue metadata against a reward: https://docs.capillarytech.com/reference/adding-revenue-metadata-against-a-reward
+- Update Rewardput: https://docs.capillarytech.com/reference/put-update-reward
+- Claim Rewardpost: https://docs.capillarytech.com/reference/claim-reward
+- Issue single rewardpost: https://docs.capillarytech.com/reference/post-issue-user-reward
+- Reward Issuance with Quantity and Redemption Value Details: https://docs.capillarytech.com/reference/reward-issuance-with-quantity-and-calculation-scenarios
+- Issue bulk rewardpost: https://docs.capillarytech.com/reference/issue-bulk-reward
+- Idempotency Check for Issuing Reward: https://docs.capillarytech.com/reference/idempotency-check-for-issuing-reward
+- Get rewards for userget: https://docs.capillarytech.com/reference/get-rewards-for-user
+- Get all brand rewards using Brand IDget: https://docs.capillarytech.com/reference/get-reward-list
+- Get reward details by IDget: https://docs.capillarytech.com/reference/get-reward-details-by-id
+- Get brand rewardsget: https://docs.capillarytech.com/reference/get-brands-rewards
+- Get purchased rewards for user (New API)get: https://docs.capillarytech.com/reference/get-rewards-for-user-new-api
+- Get available reward details for user by idget: https://docs.capillarytech.com/reference/get-user-brand-specific-rewards
+- Get all reward transactions for a userget: https://docs.capillarytech.com/reference/get-all-reward-transactions-for-a-user
+- Get Reward Transaction Details using Reward Transaction IDget: https://docs.capillarytech.com/reference/get-transaction-details-by-reward-transaction-id
+- Create catalog promotionpost: https://docs.capillarytech.com/reference/post-create-catalog-promotion
+- Update catalog promotionput: https://docs.capillarytech.com/reference/put-update-catalog-promotion
+- Get catalog promotion detailsget: https://docs.capillarytech.com/reference/get-catalog-promotion-details
+- Get list of promotionsget: https://docs.capillarytech.com/reference/get-list-of-promotions
+- Disable promotionput: https://docs.capillarytech.com/reference/put-disable-promotion
+- Get available brand rewardsget: https://docs.capillarytech.com/reference/get-available-brand-rewards
+- Create custom field for rewardpost: https://docs.capillarytech.com/reference/post-create-custom-field
+- Update reward custom fieldput: https://docs.capillarytech.com/reference/update-custom-field
+- Get all custom fieldsget: https://docs.capillarytech.com/reference/get-custom-field
+- Create reward grouppost: https://docs.capillarytech.com/reference/create-group-reward
+- Update rewards groupput: https://docs.capillarytech.com/reference/update-group-reward
+- Get rewards groupget: https://docs.capillarytech.com/reference/get-group-rewards
+- Get rewards group by IDget: https://docs.capillarytech.com/reference/get-rewards-group-by-id
+- Create points restrictionpost: https://docs.capillarytech.com/reference/create-points-restriction
+- Update points restrictionput: https://docs.capillarytech.com/reference/update-points-restriction
+- Get points constraintsget: https://docs.capillarytech.com/reference/get-points-constraints
+- Organisation Level Configuration for Rewards Catalogpost: https://docs.capillarytech.com/reference/organisation-level-configuration-for-rewards-catalog
+- Get Organisation Level Configurationget: https://docs.capillarytech.com/reference/retrieve-organisation-level-configuration-for-rewards-catalog
+- Create a Vendorpost: https://docs.capillarytech.com/reference/createvendor
+- Enable or Disable a Vendorput: https://docs.capillarytech.com/reference/enable-disable-vendor
+- Create Vendor Redemptionpost: https://docs.capillarytech.com/reference/create-vendor-redemption
+- Get all vendor redemptionsget: https://docs.capillarytech.com/reference/get-vendor-redemptions-details
+- Get Vendor list for specific brandget: https://docs.capillarytech.com/reference/get-vendor-list-for-specific-brand
+- Get Vendor Detailsget: https://docs.capillarytech.com/reference/get-vendor-explode-info
+- Upload images to file servicepost: https://docs.capillarytech.com/reference/post-images-to-file-service
+- Create fulfillment statuspost: https://docs.capillarytech.com/reference/create-fulfillment-status
+- Update fulfillment statusput: https://docs.capillarytech.com/reference/update-fulfillment-status
+- Get fulfillment statusget: https://docs.capillarytech.com/reference/get-fulfillment-status
+- Update fulfilment status and transaction custom fields for issued rewardsput: https://docs.capillarytech.com/reference/update-fulfilment-status-and-txn-custom-fields
+- Create Reward Expiry Reminderpost: https://docs.capillarytech.com/reference/create-reward-expiry-reminder
+- Update Reward Expiry Reminderput: https://docs.capillarytech.com/reference/update-reward-expiry-reminder
+- Get Reward Expiry Reminderget: https://docs.capillarytech.com/reference/get-reward-expiry-reminder
+- Connected Org APIs: https://docs.capillarytech.com/reference/get-all-available-rewards-for-user-in-a-connected-org
+- Get reward details by ID in connected orgsget: https://docs.capillarytech.com/reference/get-reward-details-by-id-in-a-connected-org
+- Issue Reward in connected orgspost: https://docs.capillarytech.com/reference/issue-bulk-reward-connected-org
+- Get purchased rewards for user in connected orgsget: https://docs.capillarytech.com/reference/get-purchased-rewards-for-user-connected-org
+- Get all reward transactions for a user in connected orgsget: https://docs.capillarytech.com/reference/get-all-reward-transactions-for-a-user-in-connected-orgs
+- Get transaction details by reward transaction ID in connected orgsget: https://docs.capillarytech.com/reference/get-transaction-details-by-reward-transaction-id-in-connected-orgs
+- Merge User Rewardspost: https://docs.capillarytech.com/reference/merge-user-rewards
+- Get User Reward Merge Detailsget: https://docs.capillarytech.com/reference/get-user-rewards-merge-details
+- Target/Milestone: https://docs.capillarytech.com/reference/target-milestones
+- Milestone & Streaks APIs: https://docs.capillarytech.com/reference/target-group-1
+- Create target groupspost: https://docs.capillarytech.com/reference/create-target-groups
+- Update target groupput: https://docs.capillarytech.com/reference/update-target-group
+- Get target groups based on IDget: https://docs.capillarytech.com/reference/get-target-groups-id
+- Get associated target groups of a userget: https://docs.capillarytech.com/reference/getusertargetgroupdetails
+- Get Promotion Dataget: https://docs.capillarytech.com/reference/get-promotion-data-new
+- Get active targetsget: https://docs.capillarytech.com/reference/get-active-targets
+- Get all target groupsget: https://docs.capillarytech.com/reference/get-target-groups-all
+- Get target periodsget: https://docs.capillarytech.com/reference/get-target-periods
+- Get targets detailsget: https://docs.capillarytech.com/reference/get-targets
+- Get target communication templateget: https://docs.capillarytech.com/reference/get-target-communication-template
+- Upsert target communicationpost: https://docs.capillarytech.com/reference/get-target-upload-file
+- Get target channelsget: https://docs.capillarytech.com/reference/get-target-channels
+- Delete target groupdelete: https://docs.capillarytech.com/reference/delete-target-group
+- Create target periodpost: https://docs.capillarytech.com/reference/create-target-period
+- Update target periodput: https://docs.capillarytech.com/reference/update-target-period
+- Create targets (milestone)post: https://docs.capillarytech.com/reference/create-targets
+- Modify targetsput: https://docs.capillarytech.com/reference/modify-target
+- Deactivate targetdelete: https://docs.capillarytech.com/reference/get-all-target-groups
+- Create unified target grouppost: https://docs.capillarytech.com/reference/create-unified-targets
+- Update unified targetput: https://docs.capillarytech.com/reference/update-unified-target
+- Create streakspost: https://docs.capillarytech.com/reference/create-streak
+- Edit streakput: https://docs.capillarytech.com/reference/edit-streaks
+- Create target based on Behavioural eventpost: https://docs.capillarytech.com/reference/create-target-group-based-on-behavioural-event
+- Create target based on EMF eventpost: https://docs.capillarytech.com/reference/create-target-based-on-emf-eventss
+- Create target group based on alternate currenciespost: https://docs.capillarytech.com/reference/create-target-based-on-alternate-currencies
+- Get all milestones (target)get: https://docs.capillarytech.com/reference/get-all-milestones
+- Enrol/Re-enrol a customer to a milestone/streakpost: https://docs.capillarytech.com/reference/enrol-customer-to-a-milestone
+- Unenrol users from a milestone and streakpost: https://docs.capillarytech.com/reference/un-enrol-users-into-a-milestonestreak
+- Check the Validity of Milestone / Target Namepost: https://docs.capillarytech.com/reference/check-validity-of-milestone-name
+- Get target eventsget: https://docs.capillarytech.com/reference/get-target-events
+- User-Created Challenges: https://docs.capillarytech.com/reference/user-created-challenges
+- Connected Org APIs: https://docs.capillarytech.com/reference/connected-org-apis
+- Enroll/Re-Enroll a Customer to a Milestone or Streakpost: https://docs.capillarytech.com/reference/connectedorgs-enroll-customer-milestone-or-streak
+- Unenroll a Customer to from Milestone or Streakpost: https://docs.capillarytech.com/reference/connectedorgs-unenroll-customer-milestone-or-streak
+- Get Associated Target Groups of a Userget: https://docs.capillarytech.com/reference/connectedorgs-get-associated-target-groups-of-a-user
+- Data Scopes: https://docs.capillarytech.com/reference/connected-orgs-data-scopes
+- Leaderboards: https://docs.capillarytech.com/reference/leaderboards
+- Get top ranked usersget: https://docs.capillarytech.com/reference/get-top-ranked-users
+- Get user rank across target groupsget: https://docs.capillarytech.com/reference/get-user-ranks-across-target-groups
+- Loyalty Promotion: https://docs.capillarytech.com/reference/promotion
+- Enrol and Issue Promotionpost: https://docs.capillarytech.com/reference/enrol-and-issue-promotion
+- Revoke Enrolled and Issued Promotionspost: https://docs.capillarytech.com/reference/revoke-enrolled-and-issued-promotion
+- Connected Org APIs: https://docs.capillarytech.com/reference/connectedorgs-get-promotion-data
+- User Created Challenge: https://docs.capillarytech.com/reference/create-promotion-for-ucc
+- Get promotion by IDget: https://docs.capillarytech.com/reference/get-promotion-by-id
+- Get details of all promotionsget: https://docs.capillarytech.com/reference/get-promotion-details
+- Get Promotion Data of a Specific Customerget: https://docs.capillarytech.com/reference/get-promotion-data
+- Cart Promotions: https://docs.capillarytech.com/reference/loyalty-cart-promotions
+- Get Cart Promotion Settingsget: https://docs.capillarytech.com/reference/get-promotion-settings
+- Get Promotion Redemptionsget: https://docs.capillarytech.com/reference/get-promotion-redemptions
+- Get Cart Promotions code APIget: https://docs.capillarytech.com/reference/get-promotions-code-api
+- Get Cart Promotions for a particular tillget: https://docs.capillarytech.com/reference/get-promotions-for-a-particular-till
+- Get Lock unlock -Pending cartsget: https://docs.capillarytech.com/reference/get-lock-unlock-pending-carts
+- Get Cart Promotions Config APIget: https://docs.capillarytech.com/reference/get-promotions-config-api
+- Create Cart Promotionpost: https://docs.capillarytech.com/reference/create-promotion-1
+- Set Cart Promotion Settingspost: https://docs.capillarytech.com/reference/set-promotion-settings
+- Earn Cart Promotionpost: https://docs.capillarytech.com/reference/earn-promotion
+- Deactivate Cart Promotionpost: https://docs.capillarytech.com/reference/deactivate-promotion
+- Activate Cart Promotionpost: https://docs.capillarytech.com/reference/activate-promotion
+- Post Revoke Earned Cart Promotionpost: https://docs.capillarytech.com/reference/post-revoke-earned-promotion
+- Post Earn Cart Promotions in Bulkpost: https://docs.capillarytech.com/reference/post-earn-promotions-in-bulk
+- Post Evaluate Cart Promotionspost: https://docs.capillarytech.com/reference/post-evaluate-promotions
+- Cancel Cart Evaluationput: https://docs.capillarytech.com/reference/post-cancel-cart-evaluation
+- Post Cart Promotions Code link APIpost: https://docs.capillarytech.com/reference/post-promotions-code-link-api
+- Get Cart Promotions for a Customerget: https://docs.capillarytech.com/reference/get-promotions-for-a-customer
+- Issue Cart Promotionpost: https://docs.capillarytech.com/reference/issue-cart-promotion
+- User Group: https://docs.capillarytech.com/reference/add-group
+- Update User Groupput: https://docs.capillarytech.com/reference/update-user-group
+- Search user groups by name, ID, and mobile numberget: https://docs.capillarytech.com/reference/get-user-group-details
+- Delete User Groupdelete: https://docs.capillarytech.com/reference/delete-user-group
+- Join Member to Grouppost: https://docs.capillarytech.com/reference/join-member-to-group
+- Remove group memberdelete: https://docs.capillarytech.com/reference/remove-group-member
+- Transfer Group Memberpost: https://docs.capillarytech.com/reference/transfer-group-member
+- Get group transactionsget: https://docs.capillarytech.com/reference/get-group-transactions
+- Retrieve user group members listget: https://docs.capillarytech.com/reference/retrieve-user-group-member-details
+- Retrieve user group members list with cards & status detailsget: https://docs.capillarytech.com/reference/retrieve-user-group-members-list-with-cards-status-details
+- Retrieve Primary & Secondary Member Detailsget: https://docs.capillarytech.com/reference/retrieve-primary-secondary-member-details
+- Retrieve group slab/tier log historyget: https://docs.capillarytech.com/reference/retrieve-group-tier-log-history
+- Retrieve points expiry schedule of a groupget: https://docs.capillarytech.com/reference/get-points-expiry-schedule-of-a-group
+- Retrieve points conversion scheduleget: https://docs.capillarytech.com/reference/retrieve-points-conversion-schedule
+- Status codes: https://docs.capillarytech.com/reference/user-group-status-codes
+- Update permissionsput: https://docs.capillarytech.com/reference/update-user-group-permission
+- Search for groups using the extended fieldspost: https://docs.capillarytech.com/reference/search-for-groups-using-the-extended-fields
+- Organization: https://docs.capillarytech.com/reference/organization
+- Get Org Detailsget: https://docs.capillarytech.com/reference/get-org-details
+- Get Org Entitiesget: https://docs.capillarytech.com/reference/get-org-entities
+- Get Org Configurationsget: https://docs.capillarytech.com/reference/get-org-configurations
+- Get Org Statisticsget: https://docs.capillarytech.com/reference/get-org-statistics
+- Get Top Selling Itemsget: https://docs.capillarytech.com/reference/get-top-selling-items
+- Get Org Custom Fieldsget: https://docs.capillarytech.com/reference/get-org-custom-fields-1
+- Retrieve Brand IDpost: https://docs.capillarytech.com/reference/retrieve-brand-id
+- Get Org Payment Modesget: https://docs.capillarytech.com/reference/get-org-payment-modes
+- Organization (V2): https://docs.capillarytech.com/reference/organization-api
+- Add Tillpost: https://docs.capillarytech.com/reference/add-till-with-new-custom-fields
+- Update Till with Custom Fieldsput: https://docs.capillarytech.com/reference/update-till-with-custom-field-info
+- Get Custom Fieldsget: https://docs.capillarytech.com/reference/get-org-custom-fields
+- Get Config Key Valuesget: https://docs.capillarytech.com/reference/get-organization-configs
+- Get org till detailsget: https://docs.capillarytech.com/reference/get-tills
+- Get Active Tillsget: https://docs.capillarytech.com/reference/get-active-tills
+- Get Loyalty Programsget: https://docs.capillarytech.com/reference/get-loyalty-programs
+- Add Storepost: https://docs.capillarytech.com/reference/add-store
+- Retrieve org hierarchy detailsget: https://docs.capillarytech.com/reference/retrieve-org-hierarchy-details
+- Add Store in bulkpost: https://docs.capillarytech.com/reference/add-store-in-bulk
+- Communications (v2): https://docs.capillarytech.com/reference/v2-send-communication-message
+- Error code: https://docs.capillarytech.com/reference/error-code-copy
+- Communications (v1): https://docs.capillarytech.com/reference/communications
+- Send communication messagepost: https://docs.capillarytech.com/reference/send-communication-message
+- Error code: https://docs.capillarytech.com/reference/error-code
+- Custom Fields: https://docs.capillarytech.com/reference/create-a-custom-field
+- Get Custom Fieldsget: https://docs.capillarytech.com/reference/get-custom-fields
+- Tag Custom Field to an Entitypost: https://docs.capillarytech.com/reference/tag-custom-field-to-an-entity
+- Audit logs: https://docs.capillarytech.com/reference/audit-logs
+- Get audit logs of entitiesget: https://docs.capillarytech.com/reference/get-entity-audit-logs
+- Get Audit Logs by event nameget: https://docs.capillarytech.com/reference/get-audit-logs
+- PII deletion: https://docs.capillarytech.com/reference/pii-deletion
+- Add a PII deletion requestpost: https://docs.capillarytech.com/reference/add-a-pii-deletion-request
+- Update PII deletion statusput: https://docs.capillarytech.com/reference/update-pii-deletion-status
+- Retrieve request status of PII deletionget: https://docs.capillarytech.com/reference/retrieve-pii-deletion-request-status
+- Retrieve PII deletion request detailsget: https://docs.capillarytech.com/reference/retrieve-pii-deletion-request-details
+- Error codes: https://docs.capillarytech.com/reference/pii-deletion-error-codes
+- Leads: https://docs.capillarytech.com/reference/leads
+- Add Leadpatch: https://docs.capillarytech.com/reference/add-lead-1
+- Add Lead Substatuspost: https://docs.capillarytech.com/reference/create-lead-substatus
+- Update Lead Statusput: https://docs.capillarytech.com/reference/update-lead-status
+- Update Lead Followupspost: https://docs.capillarytech.com/reference/update-lead-followups
+- Update Leadput: https://docs.capillarytech.com/reference/update-lead
+- Configure lead reasonspost: https://docs.capillarytech.com/reference/set-lead-reasons
+- Get Lead Status Logget: https://docs.capillarytech.com/reference/get-lead-status-log
+- Get Lead follow-upsget: https://docs.capillarytech.com/reference/get-lead-follow-ups
+- Get Lead Reasonsget: https://docs.capillarytech.com/reference/get-lead-reasons
+- Get Lead Detailsget: https://docs.capillarytech.com/reference/get-lead-details
+- Get Lead Substatusget: https://docs.capillarytech.com/reference/get-lead-substatus
+- Assign Leadget: https://docs.capillarytech.com/reference/assign-lead
+- Search leadget: https://docs.capillarytech.com/reference/search-lead
+- Staff: https://docs.capillarytech.com/reference/staff
+- Add Staff Accountpost: https://docs.capillarytech.com/reference/add-staff-account
+- Get Access Tokenpost: https://docs.capillarytech.com/reference/get-access-token
+- Edit Staff Detailspost: https://docs.capillarytech.com/reference/edit-staff-details
+- Get Staff Detailsget: https://docs.capillarytech.com/reference/get-staff-details
+- Change Account Passwordpost: https://docs.capillarytech.com/reference/change-account-password
+- Send OTPpost: https://docs.capillarytech.com/reference/send-otp
+- Validate OTPpost: https://docs.capillarytech.com/reference/validate-otp-1
+- Change Identifier (Send OTP)post: https://docs.capillarytech.com/reference/change-identifier-send-otp
+- Change Identifier (Validate OTP)post: https://docs.capillarytech.com/reference/change-identifier-validate-otp
+- Transfer Staff Userpost: https://docs.capillarytech.com/reference/transfer-staff-user
+- Get Staff of Store/Zoneget: https://docs.capillarytech.com/reference/get-staff-of-storezone
+- Logout Staff Accountget: https://docs.capillarytech.com/reference/logout-staff-account
+- Remove Staff Accountpost: https://docs.capillarytech.com/reference/remove-staff-account
+- Behavioral Events: https://docs.capillarytech.com/reference/behavioral-events-and-status-code
+- Create Event (Custom)post: https://docs.capillarytech.com/reference/create-event-custom-be
+- Update Event (Custom)put: https://docs.capillarytech.com/reference/update-event-custom
+- Get Org Eventsget: https://docs.capillarytech.com/reference/get-org-all-events
+- Get Running Events Statusget: https://docs.capillarytech.com/reference/get-running-event-status
+- Get Customer Eventsget: https://docs.capillarytech.com/reference/get-customer-events-data
+- Disable Eventput: https://docs.capillarytech.com/reference/disable-event
+- Add Webhookpost: https://docs.capillarytech.com/reference/add-webhook
+- Get Events Logsget: https://docs.capillarytech.com/reference/get-events-logs
+- Get Events Metaget: https://docs.capillarytech.com/reference/get-events-meta
+- Get event data using request IDget: https://docs.capillarytech.com/reference/get-specific-event-data
+- Search eventsget: https://docs.capillarytech.com/reference/search-events
+- Post Eventpost: https://docs.capillarytech.com/reference/post-event
+- Event notification logs: https://docs.capillarytech.com/reference/event-logs
+- Get Event Log (by Request ID)get: https://docs.capillarytech.com/reference/get-event-log-by-request-id-
+- Get Event Log (by Reference ID)get: https://docs.capillarytech.com/reference/get-event-log-by-reference-id-
+- Get Event Log (by Event ID)get: https://docs.capillarytech.com/reference/get-event-log-by-event-id
+- Response code: https://docs.capillarytech.com/reference/response-codes
+- Company: https://docs.capillarytech.com/reference/company-1
+- Add Companypost: https://docs.capillarytech.com/reference/add-company
+- Update Companyput: https://docs.capillarytech.com/reference/update-company
+- Get Company Detailsget: https://docs.capillarytech.com/reference/get-company-details
+- Remove Companydelete: https://docs.capillarytech.com/reference/remove-company
+- Get Org Companiesget: https://docs.capillarytech.com/reference/get-org-companies
+- Get Companies by Extended Field Valuesget: https://docs.capillarytech.com/reference/get-companies-by-extended-field-values
+- Request (V1): https://docs.capillarytech.com/reference/request
+- Add Requestpost: https://docs.capillarytech.com/reference/add-request
+- Approve Requestspost: https://docs.capillarytech.com/reference/approve-requests
+- Reject Requestspost: https://docs.capillarytech.com/reference/reject-requests
+- Get Request Detailsget: https://docs.capillarytech.com/reference/get-request-details
+- Get Request Logsget: https://docs.capillarytech.com/reference/get-request-log
+- Requests (V2): https://docs.capillarytech.com/reference/requests
+- Add transaction requestpost: https://docs.capillarytech.com/reference/add-transaction-request
+- Update transaction requestput: https://docs.capillarytech.com/reference/update-transaction-request
+- Retrieve transaction request statusget: https://docs.capillarytech.com/reference/retrieve-transaction-request-status
+- Retrieve  transaction request detailsget: https://docs.capillarytech.com/reference/retrieve-transaction-request-details
+- Status event notification: https://docs.capillarytech.com/reference/request-event-notification
+- Error codes: https://docs.capillarytech.com/reference/error-codes
+- (New) Request workflow: https://docs.capillarytech.com/reference/request-workflow
+- Create a request: https://docs.capillarytech.com/reference/create-a-request
+- Change customer status requestpost: https://docs.capillarytech.com/reference/change-customer-status
+- Points redemption requestpost: https://docs.capillarytech.com/reference/points-redemption
+- Issue goodwill points requestpost: https://docs.capillarytech.com/reference/issue-goodwill-points
+- Issue/Earn badge requestpost: https://docs.capillarytech.com/reference/earn-badge-issue-badge-to-single-customercustomer-earns-the-badge
+- Enrol customers for badgespost: https://docs.capillarytech.com/reference/issue-badge-enrol-customers-for-badges
+- Retro transaction - Claim transactionpost: https://docs.capillarytech.com/reference/retro-transaction-claim-transaction
+- Approve or reject a requestput: https://docs.capillarytech.com/reference/approve-or-reject-a-request
+- Get details of all requestsget: https://docs.capillarytech.com/reference/get-all-requests
+- Get details of a particular requestget: https://docs.capillarytech.com/reference/get-request-info
+- Error codes: https://docs.capillarytech.com/reference/error-codes-request-workflow
+- Partner Program: https://docs.capillarytech.com/reference/partner-program
+- Link Customer to Partner Programpost: https://docs.capillarytech.com/reference/link-customer-to-partner-program
+- Update Customerpost: https://docs.capillarytech.com/reference/update-customer
+- Delink Customerpost: https://docs.capillarytech.com/reference/delink-customer
+- Get Customer Activityget: https://docs.capillarytech.com/reference/get-customer-activity
+- Get customer activity historyget: https://docs.capillarytech.com/reference/customeractivityhistories
+- User Authentication: https://docs.capillarytech.com/reference/user-authentication
+- Register Userpost: https://docs.capillarytech.com/reference/register-users
+- Authorize Userpost: https://docs.capillarytech.com/reference/authorize-user
+- Update Passwordput: https://docs.capillarytech.com/reference/update-password
+- OTP: https://docs.capillarytech.com/reference/otp
+- Generate OTPpost: https://docs.capillarytech.com/reference/generate-otp
+- OTP template guidelines: https://docs.capillarytech.com/reference/otp-template-guidelines
+- Validate OTPpost: https://docs.capillarytech.com/reference/validate-otp
+- Get OTPget: https://docs.capillarytech.com/reference/get-otp
+- Success and error codes: https://docs.capillarytech.com/reference/success-and-error-codes
+- Product: https://docs.capillarytech.com/reference/add-product
+- Get Product Detailsget: https://docs.capillarytech.com/reference/get-product-details
+- Search Productsget: https://docs.capillarytech.com/reference/search-products
+- Add Product Attributespost: https://docs.capillarytech.com/reference/add-product-attributes
+- Get Product Attributesget: https://docs.capillarytech.com/reference/get-product-attributes
+- Get Product Categoriesget: https://docs.capillarytech.com/reference/get-product-categories
+- Get Product Brandsget: https://docs.capillarytech.com/reference/get-product-brands
+- Get Product Colorsget: https://docs.capillarytech.com/reference/get-product-colors
+- Get Product Sizesget: https://docs.capillarytech.com/reference/get-product-sizes
+- Get Product Meta Sizesget: https://docs.capillarytech.com/reference/get-product-meta-sizes
+- Response codes: https://docs.capillarytech.com/reference/response-codes-1
+- Store: https://docs.capillarytech.com/reference/store
+- Get Store Detailsget: https://docs.capillarytech.com/reference/get-store-details
+- Get Store Staff Detailsget: https://docs.capillarytech.com/reference/get-store-staff-details
+- Get Store Tasksget: https://docs.capillarytech.com/reference/get-store-tasks
+- Verify Store Login Credentialsget: https://docs.capillarytech.com/reference/verify-store-login-credentials
+- Upload Store Logspost: https://docs.capillarytech.com/reference/upload-store-logs
+- Upload Store Reportspost: https://docs.capillarytech.com/reference/upload-store-reports
+- Get Store Reportsget: https://docs.capillarytech.com/reference/get-store-reports
+- Get Store Configurationsget: https://docs.capillarytech.com/reference/get-store-configurations
+- Verify Login Credentialsget: https://docs.capillarytech.com/reference/verify-login-credentials
+- Task: https://docs.capillarytech.com/reference/task
+- Add Taskspost: https://docs.capillarytech.com/reference/add-tasks
+- Update Taskspost: https://docs.capillarytech.com/reference/update-tasks
+- Get Tasks Metadataget: https://docs.capillarytech.com/reference/get-tasks-metadata
+- Get Task Logsget: https://docs.capillarytech.com/reference/get-task-logs
+- Update Status Mappingspost: https://docs.capillarytech.com/reference/update-status-mappings
+- Get Status Mappingsget: https://docs.capillarytech.com/reference/get-status-mappings
+- Get Task Remindersget: https://docs.capillarytech.com/reference/get-task-reminders
+- Create/Update Task Reminderspost: https://docs.capillarytech.com/reference/createupdate-task-reminders
+- Retrieve Individual Task Detailsget: https://docs.capillarytech.com/reference/retrieve-individual-task-details
+- Customer Authentication (Web/Mobile): https://docs.capillarytech.com/reference/first-factor-authentication
+- First factor authentication: https://docs.capillarytech.com/reference/generate-authentication-tokenapi
+- Generate OTPpost: https://docs.capillarytech.com/reference/generate-otp-api
+- Validate OTPpost: https://docs.capillarytech.com/reference/validate-otp-api
+- Validate Passwordpost: https://docs.capillarytech.com/reference/validate-password
+- Regenerate Authentication Tokenpost: https://docs.capillarytech.com/reference/regenerate-authentication-token
+- Change Passwordpost: https://docs.capillarytech.com/reference/change-password
+- Forget Passwordpost: https://docs.capillarytech.com/reference/forget-password
+- Status codes: https://docs.capillarytech.com/reference/status-codes
+- Multi-factor authentication: https://docs.capillarytech.com/reference/multi-factor-authentication
+- Generate MFA tokenpost: https://docs.capillarytech.com/reference/generate-mfa-token
+- Generate MFA OTPpost: https://docs.capillarytech.com/reference/generate-otp-mfa
+- Validate MFA OTPpost: https://docs.capillarytech.com/reference/validate-mfa-otp
+- MFA password flow: https://docs.capillarytech.com/reference/mfa-password-flow
+- Validate passwordpost: https://docs.capillarytech.com/reference/validate-mfa-password
+- Change passwordpost: https://docs.capillarytech.com/reference/change-mfa-password
+- Forgot passwordpost: https://docs.capillarytech.com/reference/mfa-forgot-password
+- Regenerate tokenpost: https://docs.capillarytech.com/reference/regenerate-token
+- Delete tokendelete: https://docs.capillarytech.com/reference/delete-token
+- Authentication configurations: https://docs.capillarytech.com/reference/authentication-configurations
+- Referral: https://docs.capillarytech.com/reference/refer-customer
+- Get Referral Codeget: https://docs.capillarytech.com/reference/get-referrals
+- Validate Referral Codeget: https://docs.capillarytech.com/reference/validate-referral-code
+- DIY Template APIs: https://docs.capillarytech.com/reference/diy-template-apis
+- Create DIY Templatepost: https://docs.capillarytech.com/reference/post-create-api-diy-template-connectplus
+- Retrieve Workspacesget: https://docs.capillarytech.com/reference/get-workspaces-diy-connectplus-template
+- Retrieve Blocks Supported by the Templateget: https://docs.capillarytech.com/reference/get-processor-diy-connectplus-template
+- Other APIs: https://docs.capillarytech.com/reference/get-transaction-earning
+- Trigger Walk-in Notifications on InStoreget: https://docs.capillarytech.com/reference/trigger-walk-in-notifications-on-instore
+- Update Currency Ratiopost: https://docs.capillarytech.com/reference/update-currency-ratio
+- Generate Card/customer External IDget: https://docs.capillarytech.com/reference/generate-card-external-id
+- Configure Org Extended Fieldpost: https://docs.capillarytech.com/reference/configure-org-extended-field
+- Get Org Extended Fieldsget: https://docs.capillarytech.com/reference/get-org-extended-fields
+- Create Store Associatespost: https://docs.capillarytech.com/reference/create-store-associates
+- Feed (Scan Event)post: https://docs.capillarytech.com/reference/feed-scan-event
+- Get Configured Card Limit per Customerget: https://docs.capillarytech.com/reference/get-configured-card-limit-per-customer
+- Get Org Sourcesget: https://docs.capillarytech.com/reference/get-org-sources
+- Get org configsget: https://docs.capillarytech.com/reference/get-org-config-key-values
+- Retrieve extended field config detailsget: https://docs.capillarytech.com/reference/retrieve-extended-field-config-details
+
+## VULCAN (9 links):
+- Introduction: https://docs.capillarytech.com/reference/introduction-5
+- Getting Started: https://docs.capillarytech.com/reference/vulcan-getting-started
+- Application Development Process: https://docs.capillarytech.com/reference/application-development-process
+- API Management on Vulcan: https://docs.capillarytech.com/reference/api_management_on_vulcan
+- Examples: https://docs.capillarytech.com/reference/examples-of-ui-creation
+- Creating a Microsite Using Vulcan: https://docs.capillarytech.com/reference/creating-a-microsite-using-vulcan
+- Customising the Member Care UI: https://docs.capillarytech.com/reference/customizing-the-member-care-ui
+- Troubleshooting: https://docs.capillarytech.com/reference/vulcan-troubleshooting
+- FAQs: https://docs.capillarytech.com/reference/vulcan_faq
+
+## mobile SDKs (24 links):
+- Android SDK: https://docs.capillarytech.com/reference/overview_android-sdk
+- Configure firebase: https://docs.capillarytech.com/reference/configure-firebase
+- Set up source account: https://docs.capillarytech.com/reference/set-up-source-account
+- Configure gateway: https://docs.capillarytech.com/reference/configure-gateway
+- Install SDK: https://docs.capillarytech.com/reference/installing-sdk
+- Initialise SDK: https://docs.capillarytech.com/reference/sdk-initialisation
+- Set up events tracking: https://docs.capillarytech.com/reference/track-events
+- Push notifications: https://docs.capillarytech.com/reference/push-notification
+- In-app messaging: https://docs.capillarytech.com/reference/in-app-messaging
+- Notification center: https://docs.capillarytech.com/reference/configure-notification-center
+- Xiaomi push notification (Push Amplification): https://docs.capillarytech.com/reference/xiaomi-push-notification
+- iOS SDK: https://docs.capillarytech.com/reference/overview_ios_sdk
+- Set up source account: https://docs.capillarytech.com/reference/set-up-source-account-ios
+- Configure gateway: https://docs.capillarytech.com/reference/configure-gateway-ios
+- Install SDK: https://docs.capillarytech.com/reference/install-sdk
+- Initialise SDK: https://docs.capillarytech.com/reference/initialise-ios-sdk
+- Set up events tracking: https://docs.capillarytech.com/reference/set-up-events-tracking
+- Push notifications: https://docs.capillarytech.com/reference/configure-push-notifications
+- In-app messaging: https://docs.capillarytech.com/reference/in-app-messaging_ios
+- Notification center: https://docs.capillarytech.com/reference/configure-notification-center_ios
+- Setting up React native project for Hydra SDK: https://docs.capillarytech.com/reference/setting-up-react-native-project-for-hydra-sdk
+- Integrate Push Notifications into your React Native project: https://docs.capillarytech.com/reference/push-notification-for-hydra-sdk
+- Integrate In-App messaging into your React Native project: https://docs.capillarytech.com/reference/in-app-messaging-for-hydra-sdk
+- Integrate Notification center into your React Native project: https://docs.capillarytech.com/reference/notification-center
+
+## Plugins (2 links):
+- Shopify plugin: https://docs.capillarytech.com/reference/shopify-plugin
+- Magento plugin: https://docs.capillarytech.com/reference/magento-plugin

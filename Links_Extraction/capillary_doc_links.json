@@ -1,0 +1,5302 @@
+{
+  "GetTING Started": [
+    {
+      "title": "Introduction",
+      "url": "https://docs.capillarytech.com/docs/introduction"
+    },
+    {
+      "title": "Accessing Capillary",
+      "url": "https://docs.capillarytech.com/docs/accessing-capillary"
+    },
+    {
+      "title": "Home page tour",
+      "url": "https://docs.capillarytech.com/docs/home-page-tour"
+    }
+  ],
+  "Engage+": [
+    {
+      "title": "Introduction to Engage+",
+      "url": "https://docs.capillarytech.com/docs/introduction-to-engage"
+    },
+    {
+      "title": "Engage+ Overview",
+      "url": "https://docs.capillarytech.com/docs/engage-overview"
+    },
+    {
+      "title": "Getting Started",
+      "url": "https://docs.capillarytech.com/docs/getting-started"
+    },
+    {
+      "title": "Create a Campaign (Old UI)",
+      "url": "https://docs.capillarytech.com/docs/campaigns-1"
+    },
+    {
+      "title": "Create a Campaign (New UI)",
+      "url": "https://docs.capillarytech.com/docs/create-a-campaign"
+    },
+    {
+      "title": "Schedule message",
+      "url": "https://docs.capillarytech.com/docs/schedule-message"
+    },
+    {
+      "title": "Search/Filter campaigns",
+      "url": "https://docs.capillarytech.com/docs/searchfilter-campaigns"
+    },
+    {
+      "title": "MLP Scope in Campaign",
+      "url": "https://docs.capillarytech.com/docs/mlp-scope-in-campaign"
+    },
+    {
+      "title": "Key Social Media KPI Definitions",
+      "url": "https://docs.capillarytech.com/docs/key-social-media-kpi-definitions"
+    },
+    {
+      "title": "Marketing objective",
+      "url": "https://docs.capillarytech.com/docs/marketing-objective"
+    },
+    {
+      "title": "Modify a campaign",
+      "url": "https://docs.capillarytech.com/docs/modify-a-campaign"
+    },
+    {
+      "title": "Creatives",
+      "url": "https://docs.capillarytech.com/docs/creatives"
+    },
+    {
+      "title": "Create email template",
+      "url": "https://docs.capillarytech.com/docs/create-email-template"
+    },
+    {
+      "title": "Create SMS template",
+      "url": "https://docs.capillarytech.com/docs/create-sms-template"
+    },
+    {
+      "title": "Create mobile push template",
+      "url": "https://docs.capillarytech.com/docs/create-mobile-push-template"
+    },
+    {
+      "title": "Create WeChat template",
+      "url": "https://docs.capillarytech.com/docs/create-wechat-template"
+    },
+    {
+      "title": "Create call task template",
+      "url": "https://docs.capillarytech.com/docs/create-call-task-template"
+    },
+    {
+      "title": "Create line template",
+      "url": "https://docs.capillarytech.com/docs/create-line-template"
+    },
+    {
+      "title": "Create viber template",
+      "url": "https://docs.capillarytech.com/docs/create-viber-template"
+    },
+    {
+      "title": "Create RCS template",
+      "url": "https://docs.capillarytech.com/docs/create-rcs-template"
+    },
+    {
+      "title": "Create WhatsApp template",
+      "url": "https://docs.capillarytech.com/docs/create-whatsapp-template"
+    },
+    {
+      "title": "Create Zalo template",
+      "url": "https://docs.capillarytech.com/docs/create-zalo-template"
+    },
+    {
+      "title": "In-app message",
+      "url": "https://docs.capillarytech.com/docs/in-app-message"
+    },
+    {
+      "title": "Campaign settings",
+      "url": "https://docs.capillarytech.com/docs/campaign-settings"
+    },
+    {
+      "title": "Delivery settings",
+      "url": "https://docs.capillarytech.com/docs/delivery-settings"
+    },
+    {
+      "title": "Enable tracking of clicked links",
+      "url": "https://docs.capillarytech.com/docs/enable-tracking-of-clicked-links"
+    },
+    {
+      "title": "Incentive related settings",
+      "url": "https://docs.capillarytech.com/docs/incentive-related-settings"
+    },
+    {
+      "title": "Report notification and failure alert settings",
+      "url": "https://docs.capillarytech.com/docs/report-notification-and-failure-alert-settings"
+    },
+    {
+      "title": "Create test user group",
+      "url": "https://docs.capillarytech.com/docs/create-test-user-group"
+    },
+    {
+      "title": "Create custom labels for call tasks",
+      "url": "https://docs.capillarytech.com/docs/create-custom-labels-for-call-tasks"
+    },
+    {
+      "title": "Communication Limit",
+      "url": "https://docs.capillarytech.com/docs/communication-limit"
+    },
+    {
+      "title": "WhatsApp setup",
+      "url": "https://docs.capillarytech.com/docs/whatsapp-setup"
+    },
+    {
+      "title": "Email setup",
+      "url": "https://docs.capillarytech.com/docs/email-setup"
+    },
+    {
+      "title": "Advanced settings",
+      "url": "https://docs.capillarytech.com/docs/advanced-settings"
+    },
+    {
+      "title": "Cart promotions",
+      "url": "https://docs.capillarytech.com/docs/cart-promotions"
+    },
+    {
+      "title": "Gift Vouchers",
+      "url": "https://docs.capillarytech.com/docs/gift-vouchers-1"
+    },
+    {
+      "title": "Referral Configuration",
+      "url": "https://docs.capillarytech.com/docs/referral-configuration"
+    },
+    {
+      "title": "Message optimization strategies",
+      "url": "https://docs.capillarytech.com/docs/message-personalization"
+    },
+    {
+      "title": "Channel priority",
+      "url": "https://docs.capillarytech.com/docs/channel-priority"
+    },
+    {
+      "title": "Audience management",
+      "url": "https://docs.capillarytech.com/docs/audience-management"
+    },
+    {
+      "title": "Audience group filters",
+      "url": "https://docs.capillarytech.com/docs/audience-group-filters"
+    },
+    {
+      "title": "Loyalty information based filters",
+      "url": "https://docs.capillarytech.com/docs/loyalty-information-based-filter"
+    },
+    {
+      "title": "Transaction based filters",
+      "url": "https://docs.capillarytech.com/docs/transaction-based-filters"
+    },
+    {
+      "title": "Campaigns & coupons based filters",
+      "url": "https://docs.capillarytech.com/docs/campaigns-coupons-based-filters"
+    },
+    {
+      "title": "User profile based filters",
+      "url": "https://docs.capillarytech.com/docs/user-profile-based-filters"
+    },
+    {
+      "title": "Common filter options (in filters)",
+      "url": "https://docs.capillarytech.com/docs/common-filter-optionsin-filters"
+    },
+    {
+      "title": "Lead based filters",
+      "url": "https://docs.capillarytech.com/docs/lead-based-filters"
+    },
+    {
+      "title": "AI powered filters",
+      "url": "https://docs.capillarytech.com/docs/ai-powered-filters"
+    },
+    {
+      "title": "Purchase pattern/behavior based filters",
+      "url": "https://docs.capillarytech.com/docs/purchase-patternbehavior-based-filters"
+    },
+    {
+      "title": "Audience Reachability",
+      "url": "https://docs.capillarytech.com/docs/audience-reachability"
+    },
+    {
+      "title": "Split Audience List",
+      "url": "https://docs.capillarytech.com/docs/split-audience-list"
+    },
+    {
+      "title": "Content management",
+      "url": "https://docs.capillarytech.com/docs/content-management"
+    },
+    {
+      "title": "Create SMS content",
+      "url": "https://docs.capillarytech.com/docs/create-sms-content"
+    },
+    {
+      "title": "Create email content",
+      "url": "https://docs.capillarytech.com/docs/create-email-content"
+    },
+    {
+      "title": "Barcode in email",
+      "url": "https://docs.capillarytech.com/docs/barcode-generation"
+    },
+    {
+      "title": "Create mobile push content",
+      "url": "https://docs.capillarytech.com/docs/create-mobile-push-content"
+    },
+    {
+      "title": "Create call task content",
+      "url": "https://docs.capillarytech.com/docs/create-call-task-content"
+    },
+    {
+      "title": "Create line content",
+      "url": "https://docs.capillarytech.com/docs/create-line-content"
+    },
+    {
+      "title": "Create viber content",
+      "url": "https://docs.capillarytech.com/docs/create-viber-content"
+    },
+    {
+      "title": "Create WhatsApp content",
+      "url": "https://docs.capillarytech.com/docs/create-whatsapp-content"
+    },
+    {
+      "title": "Create RCS content",
+      "url": "https://docs.capillarytech.com/docs/create-rcs-content"
+    },
+    {
+      "title": "Create wechat content",
+      "url": "https://docs.capillarytech.com/docs/create-wechat-content"
+    },
+    {
+      "title": "Partner broadcast campaigns",
+      "url": "https://docs.capillarytech.com/docs/partner-broadcast-campaigns"
+    },
+    {
+      "title": "Personalisation",
+      "url": "https://docs.capillarytech.com/docs/labels"
+    },
+    {
+      "title": "Add Dynamic Content Using Liquid",
+      "url": "https://docs.capillarytech.com/docs/liquid-language-in-messages"
+    },
+    {
+      "title": "Add Dynamic Content Using Custom Fields",
+      "url": "https://docs.capillarytech.com/docs/add-dynamic-content-using-custom-fields"
+    },
+    {
+      "title": "Incentive management",
+      "url": "https://docs.capillarytech.com/docs/incentive-management"
+    },
+    {
+      "title": "Points strategy",
+      "url": "https://docs.capillarytech.com/docs/points-strategy"
+    },
+    {
+      "title": "Cart Promotions",
+      "url": "https://docs.capillarytech.com/docs/cart-catalog-promotions"
+    },
+    {
+      "title": "Gift vouchers",
+      "url": "https://docs.capillarytech.com/docs/gift-vouchers"
+    },
+    {
+      "title": "Badges in campaigns",
+      "url": "https://docs.capillarytech.com/docs/badges-in-campaigns"
+    },
+    {
+      "title": "Offers",
+      "url": "https://docs.capillarytech.com/docs/offer-"
+    },
+    {
+      "title": "Introduction to Offers",
+      "url": "https://docs.capillarytech.com/docs/introduction-to-offers"
+    },
+    {
+      "title": "Getting Started",
+      "url": "https://docs.capillarytech.com/docs/create-offer-1"
+    },
+    {
+      "title": "Coupon Management",
+      "url": "https://docs.capillarytech.com/docs/manage-coupons"
+    },
+    {
+      "title": "Using Offers in Campaigns",
+      "url": "https://docs.capillarytech.com/docs/using-offers-in-campaigns"
+    },
+    {
+      "title": "Event Notifications",
+      "url": "https://docs.capillarytech.com/docs/offer-event-notifications"
+    },
+    {
+      "title": "Reporting",
+      "url": "https://docs.capillarytech.com/docs/offer-reporting"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://docs.capillarytech.com/docs/faq-1"
+    },
+    {
+      "title": "Message Schedule",
+      "url": "https://docs.capillarytech.com/docs/message-schedule"
+    },
+    {
+      "title": "Options to schedule messages",
+      "url": "https://docs.capillarytech.com/docs/options-to-schedule-messages"
+    },
+    {
+      "title": "Time personalization",
+      "url": "https://docs.capillarytech.com/docs/time-personalization"
+    },
+    {
+      "title": "Blackout time",
+      "url": "https://docs.capillarytech.com/docs/blackout-time"
+    },
+    {
+      "title": "Campaign message management",
+      "url": "https://docs.capillarytech.com/docs/campaign-message-management"
+    },
+    {
+      "title": "Create message",
+      "url": "https://docs.capillarytech.com/docs/create-message"
+    },
+    {
+      "title": "Approve message",
+      "url": "https://docs.capillarytech.com/docs/approve-message"
+    },
+    {
+      "title": "Reject message",
+      "url": "https://docs.capillarytech.com/docs/reject-message"
+    },
+    {
+      "title": "Stop message",
+      "url": "https://docs.capillarytech.com/docs/stop-message"
+    },
+    {
+      "title": "View details",
+      "url": "https://docs.capillarytech.com/docs/view-details-failed-messages"
+    },
+    {
+      "title": "Reports",
+      "url": "https://docs.capillarytech.com/docs/view-campaign-reports"
+    },
+    {
+      "title": "Journeys",
+      "url": "https://docs.capillarytech.com/docs/journeys"
+    },
+    {
+      "title": "Create journey",
+      "url": "https://docs.capillarytech.com/docs/create-journeys"
+    },
+    {
+      "title": "Configure journey",
+      "url": "https://docs.capillarytech.com/docs/configure-journey"
+    },
+    {
+      "title": "Building blocks of a journey",
+      "url": "https://docs.capillarytech.com/docs/building-blocks-of-a-journey"
+    },
+    {
+      "title": "A/B Testing",
+      "url": "https://docs.capillarytech.com/docs/ab-testing_overview"
+    },
+    {
+      "title": "Duplicate journey",
+      "url": "https://docs.capillarytech.com/docs/duplicate-journey"
+    },
+    {
+      "title": "Store CSV upload",
+      "url": "https://docs.capillarytech.com/docs/store-csv-upload"
+    },
+    {
+      "title": "Journey Versions",
+      "url": "https://docs.capillarytech.com/docs/journey-versions"
+    },
+    {
+      "title": "Test Journey",
+      "url": "https://docs.capillarytech.com/docs/testpreview-journey"
+    },
+    {
+      "title": "Block-Level Reporting in Journeys",
+      "url": "https://docs.capillarytech.com/docs/block-level-report-of-journeys"
+    },
+    {
+      "title": "Search User Journey History",
+      "url": "https://docs.capillarytech.com/docs/search-user-journey-history"
+    },
+    {
+      "title": "Configure Cart Promotions and Gift Vouchers",
+      "url": "https://docs.capillarytech.com/docs/create-cart-or-catalog-promotions"
+    },
+    {
+      "title": "Configure Earning Condition",
+      "url": "https://docs.capillarytech.com/docs/configure-earning-condition"
+    },
+    {
+      "title": "Configure Earning Condition (for Rewards Promotion)",
+      "url": "https://docs.capillarytech.com/docs/configure-earning-condition-for-rewards-promotion"
+    },
+    {
+      "title": "Define Cart Evaluation & Cart Promotion Benefits",
+      "url": "https://docs.capillarytech.com/docs/define-cart-evaluation-promotion-benefits"
+    },
+    {
+      "title": "Add Meta Information",
+      "url": "https://docs.capillarytech.com/docs/add-meta-information"
+    },
+    {
+      "title": "Cart Promotion Earning & Expiry Communications",
+      "url": "https://docs.capillarytech.com/docs/promotion-earning-expiry-communications"
+    },
+    {
+      "title": "Configure gift vouchers",
+      "url": "https://docs.capillarytech.com/docs/configure-gift-vouchers"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://docs.capillarytech.com/docs/faqs-1"
+    },
+    {
+      "title": "Communication Channels",
+      "url": "https://docs.capillarytech.com/docs/communication-channels"
+    },
+    {
+      "title": "LINE",
+      "url": "https://docs.capillarytech.com/docs/line-overview"
+    },
+    {
+      "title": "Getting Started",
+      "url": "https://docs.capillarytech.com/docs/line-prerequisites"
+    },
+    {
+      "title": "Configuration",
+      "url": "https://docs.capillarytech.com/docs/line-configuration"
+    },
+    {
+      "title": "Sending Campaign Messages",
+      "url": "https://docs.capillarytech.com/docs/line-sending-campaign-messages"
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "url": "https://docs.capillarytech.com/docs/line-faqs"
+    },
+    {
+      "title": "Push Notifications",
+      "url": "https://docs.capillarytech.com/docs/push-notifications"
+    },
+    {
+      "title": "Creating and Sending Push Notifications",
+      "url": "https://docs.capillarytech.com/docs/creating-and-sending-push-notifications"
+    },
+    {
+      "title": "Optimizing delivery",
+      "url": "https://docs.capillarytech.com/docs/optimizing-delivery"
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "url": "https://docs.capillarytech.com/docs/frequently-asked-questions"
+    },
+    {
+      "title": "WhatsApp",
+      "url": "https://docs.capillarytech.com/docs/whatsapp"
+    },
+    {
+      "title": "Sending messages based on subscription status",
+      "url": "https://docs.capillarytech.com/docs/whatsapp-subscription-managment"
+    },
+    {
+      "title": "Use case",
+      "url": "https://docs.capillarytech.com/docs/campaign-use-cases"
+    }
+  ],
+  "Insights+": [
+    {
+      "title": "Getting started",
+      "url": "https://docs.capillarytech.com/docs/insights_overview"
+    },
+    {
+      "title": "Product navigation",
+      "url": "https://docs.capillarytech.com/docs/insights-product-navigation"
+    },
+    {
+      "title": "Terms and abbreviations",
+      "url": "https://docs.capillarytech.com/docs/terms-and-abbreviations"
+    },
+    {
+      "title": "KPI and dimensions",
+      "url": "https://docs.capillarytech.com/docs/kpi-and-dimensions"
+    },
+    {
+      "title": "List of KPIs and Dimensions",
+      "url": "https://docs.capillarytech.com/docs/list-of-kpis-and-dimesions"
+    },
+    {
+      "title": "Charts",
+      "url": "https://docs.capillarytech.com/docs/create-normal-migration-charts"
+    },
+    {
+      "title": "Create Chart",
+      "url": "https://docs.capillarytech.com/docs/create-chart"
+    },
+    {
+      "title": "View Chart Details",
+      "url": "https://docs.capillarytech.com/docs/view-chart-details"
+    },
+    {
+      "title": "Edit Chart",
+      "url": "https://docs.capillarytech.com/docs/edit-or-modify-chart"
+    },
+    {
+      "title": "Delete Chart",
+      "url": "https://docs.capillarytech.com/docs/delete-chart"
+    },
+    {
+      "title": "Advanced Filter",
+      "url": "https://docs.capillarytech.com/docs/advanced-filter"
+    },
+    {
+      "title": "Reporting",
+      "url": "https://docs.capillarytech.com/docs/reports-and-charts"
+    },
+    {
+      "title": "Types of Reports",
+      "url": "https://docs.capillarytech.com/docs/overview-1"
+    },
+    {
+      "title": "Standard Report",
+      "url": "https://docs.capillarytech.com/docs/reporting-standard-report"
+    },
+    {
+      "title": "Custom Report",
+      "url": "https://docs.capillarytech.com/docs/reporting-custom-report"
+    },
+    {
+      "title": "Overview",
+      "url": "https://docs.capillarytech.com/docs/custom-reports-overview"
+    },
+    {
+      "title": "Create and Publish Custom Report",
+      "url": "https://docs.capillarytech.com/docs/create"
+    },
+    {
+      "title": "Edit or Delete Custom Report",
+      "url": "https://docs.capillarytech.com/docs/edit-or-delete"
+    },
+    {
+      "title": "Share Custom Report",
+      "url": "https://docs.capillarytech.com/docs/share-report"
+    },
+    {
+      "title": "Archive Custom Report",
+      "url": "https://docs.capillarytech.com/docs/insights-archive-report"
+    },
+    {
+      "title": "Managing Reports",
+      "url": "https://docs.capillarytech.com/docs/managing-reports"
+    },
+    {
+      "title": "View or Access Report",
+      "url": "https://docs.capillarytech.com/docs/view-or-access-report"
+    },
+    {
+      "title": "Analyse reports Based on Audience Groups",
+      "url": "https://docs.capillarytech.com/docs/add-audience-group"
+    },
+    {
+      "title": "Download Report",
+      "url": "https://docs.capillarytech.com/docs/download-report"
+    },
+    {
+      "title": "Explore Charts in Reports (Explore Mode)",
+      "url": "https://docs.capillarytech.com/docs/explore-charts-in-reports-explore-mode"
+    },
+    {
+      "title": "Apply Dimensions to Charts",
+      "url": "https://docs.capillarytech.com/docs/apply-dimensions-to-charts"
+    },
+    {
+      "title": "Target Setting & Tracking at KPI level",
+      "url": "https://docs.capillarytech.com/docs/target-setting"
+    },
+    {
+      "title": "Schedule Report",
+      "url": "https://docs.capillarytech.com/docs/insights-schedule-report"
+    },
+    {
+      "title": "Share Report URL",
+      "url": "https://docs.capillarytech.com/docs/share-report-url"
+    },
+    {
+      "title": "Filters",
+      "url": "https://docs.capillarytech.com/docs/date-range-filter-comparison-with-previous-period-1"
+    },
+    {
+      "title": "Apply filters in report",
+      "url": "https://docs.capillarytech.com/docs/apply-filters-in-report-1"
+    },
+    {
+      "title": "Audience group filter in reports",
+      "url": "https://docs.capillarytech.com/docs/audience-group-filter-in-reports"
+    },
+    {
+      "title": "Fact & Dimension Tables",
+      "url": "https://docs.capillarytech.com/docs/fact-dimension-tables"
+    },
+    {
+      "title": "Fact tables",
+      "url": "https://docs.capillarytech.com/docs/fact-tables"
+    },
+    {
+      "title": "Bill Line Items Fact Table",
+      "url": "https://docs.capillarytech.com/docs/bill-line-items-fact-table"
+    },
+    {
+      "title": "Daily Till Summary Fact Table",
+      "url": "https://docs.capillarytech.com/docs/daily-till-summary-fact-table"
+    },
+    {
+      "title": "Payment Details Fact Table",
+      "url": "https://docs.capillarytech.com/docs/payment-details-fact"
+    },
+    {
+      "title": "Return Bill Line Item Fact Table",
+      "url": "https://docs.capillarytech.com/docs/return-bill-line-item-fact-table"
+    },
+    {
+      "title": "Customer Summary Fact Table",
+      "url": "https://docs.capillarytech.com/docs/customer-summary-members-fact-table"
+    },
+    {
+      "title": "Profile Users Fact Table",
+      "url": "https://docs.capillarytech.com/docs/profile-users-fact-table"
+    },
+    {
+      "title": "Registration Event Fact Table",
+      "url": "https://docs.capillarytech.com/docs/fact_registration-event"
+    },
+    {
+      "title": "Nsadmin Messages Fact Table",
+      "url": "https://docs.capillarytech.com/docs/nsadmin-messages-fact-table"
+    },
+    {
+      "title": "Goodwill Requests Fact Table",
+      "url": "https://docs.capillarytech.com/docs/goodwill-requests-fact-table"
+    },
+    {
+      "title": "Points Fact Tables",
+      "url": "https://docs.capillarytech.com/docs/points-fact-table"
+    },
+    {
+      "title": "Coupons Fact Table",
+      "url": "https://docs.capillarytech.com/docs/coupons-fact-table"
+    },
+    {
+      "title": "Badges Fact Table",
+      "url": "https://docs.capillarytech.com/docs/badges-fact-table"
+    },
+    {
+      "title": "Streaks Fact Table",
+      "url": "https://docs.capillarytech.com/docs/fact_streaks"
+    },
+    {
+      "title": "Journeys Fact Table",
+      "url": "https://docs.capillarytech.com/docs/journeys-fact-table"
+    },
+    {
+      "title": "Milestones Fact Table",
+      "url": "https://docs.capillarytech.com/docs/fact_milestones"
+    },
+    {
+      "title": "Rewards Fact Tables",
+      "url": "https://docs.capillarytech.com/docs/rewards-fact-table"
+    },
+    {
+      "title": "Invitation Sent Fact Table",
+      "url": "https://docs.capillarytech.com/docs/invitation-sent-fact-table"
+    },
+    {
+      "title": "Referrals Fact Table",
+      "url": "https://docs.capillarytech.com/docs/referrals-fact-table"
+    },
+    {
+      "title": "Referrers Fact Table",
+      "url": "https://docs.capillarytech.com/docs/referrers-fact-table"
+    },
+    {
+      "title": "Contact Info Fact Table",
+      "url": "https://docs.capillarytech.com/docs/contact-info-fact-table"
+    },
+    {
+      "title": "Response Info Fact Table",
+      "url": "https://docs.capillarytech.com/docs/response-info-fact-table"
+    },
+    {
+      "title": "Communication Credits Log Fact Table",
+      "url": "https://docs.capillarytech.com/docs/communication-credits-log-fact-table"
+    },
+    {
+      "title": "Email Click Stats Fact Table",
+      "url": "https://docs.capillarytech.com/docs/email-click-stats-fact-table"
+    },
+    {
+      "title": "Custom Field Data Fact Table",
+      "url": "https://docs.capillarytech.com/docs/custom-field-data-fact-table"
+    },
+    {
+      "title": "Customer Merge Log Fact Table",
+      "url": "https://docs.capillarytech.com/docs/customer-merge-log-fact-table"
+    },
+    {
+      "title": "Customer Notes Fact Table",
+      "url": "https://docs.capillarytech.com/docs/customer-notes-fact-table"
+    },
+    {
+      "title": "Issue Tracker Fact Table",
+      "url": "https://docs.capillarytech.com/docs/issue-tracker-fact-table"
+    },
+    {
+      "title": "Call Task Customer Status Fact Table",
+      "url": "https://docs.capillarytech.com/docs/call-task-customer-status-fact-table"
+    },
+    {
+      "title": "Slab Change Log Fact Table",
+      "url": "https://docs.capillarytech.com/docs/slab-change-log-fact-table"
+    },
+    {
+      "title": "Dimension tables",
+      "url": "https://docs.capillarytech.com/docs/dimension-tables"
+    },
+    {
+      "title": "Use case based schema explain",
+      "url": "https://docs.capillarytech.com/docs/1-points-awardeddeducted-scenarios"
+    },
+    {
+      "title": "Return after redemption scenarios",
+      "url": "https://docs.capillarytech.com/docs/return-after-redemption-scenarios"
+    },
+    {
+      "title": "Customer Segmentation",
+      "url": "https://docs.capillarytech.com/docs/customer-segmentation"
+    },
+    {
+      "title": "Create segments through file upload",
+      "url": "https://docs.capillarytech.com/docs/create-segments-through-file-upload"
+    },
+    {
+      "title": "Create segments using scheduled FTP upload",
+      "url": "https://docs.capillarytech.com/docs/create-segments-using-scheduled-ftp-upload"
+    },
+    {
+      "title": "Create segments using filters",
+      "url": "https://docs.capillarytech.com/docs/create-segments-using-filters"
+    },
+    {
+      "title": "Data export",
+      "url": "https://docs.capillarytech.com/docs/export"
+    },
+    {
+      "title": "Data export FAQs",
+      "url": "https://docs.capillarytech.com/docs/data-export-faqs"
+    },
+    {
+      "title": "Standard templates",
+      "url": "https://docs.capillarytech.com/docs/standard-templates-1"
+    },
+    {
+      "title": "Return Transactions Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/return-transactions-standard-export-template"
+    },
+    {
+      "title": "Responsed Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/response-info-standard-export-template"
+    },
+    {
+      "title": "Contacted Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/contacted-standard-export-template"
+    },
+    {
+      "title": "Transactions Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/transactions-standard-export-template"
+    },
+    {
+      "title": "Payment Mode Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/payment-mode-standard-export-template"
+    },
+    {
+      "title": "Tracker Value Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/tracker-value-standard-export-template"
+    },
+    {
+      "title": "Customer Merge Event Log Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/customer-merge-event-log-standard-export-template"
+    },
+    {
+      "title": "Slab Change Log Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/slab-change-log-standard-export-template"
+    },
+    {
+      "title": "Issue Trackers Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/issue-trackers-standard-export-template"
+    },
+    {
+      "title": "Messages Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/messages-standard-export-template"
+    },
+    {
+      "title": "Call Tasks Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/call-tasks-standard-export-template"
+    },
+    {
+      "title": "Footfall Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/footfall-standard-export-template"
+    },
+    {
+      "title": "Profiles Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/profiles-2-standard-export-template"
+    },
+    {
+      "title": "Points Standard Export Templates",
+      "url": "https://docs.capillarytech.com/docs/points-standard-export-template"
+    },
+    {
+      "title": "Members Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/members-standard-export-template"
+    },
+    {
+      "title": "Coupons Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/coupons-standard-export-template"
+    },
+    {
+      "title": "Badges Standard Export Templates",
+      "url": "https://docs.capillarytech.com/docs/badges-standard-export-template"
+    },
+    {
+      "title": "Registration Event Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/registration-event-standard-export-template"
+    },
+    {
+      "title": "Goodwill Requests Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/goodwill-requests-standard-export-template"
+    },
+    {
+      "title": "Invitation Sent Standard Export Template",
+      "url": "https://docs.capillarytech.com/docs/invitation-sent-standard-export-template"
+    },
+    {
+      "title": "Dimensions & attributes",
+      "url": "https://docs.capillarytech.com/docs/dimensions-attributes"
+    },
+    {
+      "title": "Custom templates",
+      "url": "https://docs.capillarytech.com/docs/custom-templates"
+    },
+    {
+      "title": "Configure SFTP server for data export",
+      "url": "https://docs.capillarytech.com/docs/configure-ftp-server-for-data-export"
+    },
+    {
+      "title": "Schedule an export job & fetch details",
+      "url": "https://docs.capillarytech.com/docs/schedule-an-export-job-fetch-details"
+    },
+    {
+      "title": "Create an export job (Step 1 of 3)",
+      "url": "https://docs.capillarytech.com/docs/create-an-export-job-step-1-of-3"
+    },
+    {
+      "title": "Select data templates (Step 2 of 3)",
+      "url": "https://docs.capillarytech.com/docs/select-data-templates-step-2-of-3"
+    },
+    {
+      "title": "Modifying template & creating schedule (Step 3 of 3)",
+      "url": "https://docs.capillarytech.com/docs/modifying-template-creating-schedule-step-3-of-3"
+    },
+    {
+      "title": "Editing an export job",
+      "url": "https://docs.capillarytech.com/docs/editing-an-export-job"
+    },
+    {
+      "title": "Reuse an export job (duplicate)",
+      "url": "https://docs.capillarytech.com/docs/reuse-an-export-job-duplicate"
+    },
+    {
+      "title": "Exporting audience group",
+      "url": "https://docs.capillarytech.com/docs/exporting-audience-group"
+    },
+    {
+      "title": "Use cases on data export",
+      "url": "https://docs.capillarytech.com/docs/use-cases-on-data-export"
+    },
+    {
+      "title": "External Facts",
+      "url": "https://docs.capillarytech.com/docs/external_facts"
+    },
+    {
+      "title": "Fraud Management",
+      "url": "https://docs.capillarytech.com/docs/fraud-management-insights"
+    },
+    {
+      "title": "Fraud Detection Rules",
+      "url": "https://docs.capillarytech.com/docs/fraud-detection-rules"
+    },
+    {
+      "title": "Methodology",
+      "url": "https://docs.capillarytech.com/docs/methodology"
+    },
+    {
+      "title": "Use Case for Score Calculation",
+      "url": "https://docs.capillarytech.com/docs/use-case-for-score-calculation"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://docs.capillarytech.com/docs/faqs-10"
+    },
+    {
+      "title": "BI Tool Connector",
+      "url": "https://docs.capillarytech.com/docs/bi-tool-connector"
+    },
+    {
+      "title": "Steps to connect to BI Tool (PowerBi, Tableau)",
+      "url": "https://docs.capillarytech.com/docs/steps-to-connect-to-bi-tool-powerbi-tableau"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://docs.capillarytech.com/docs/bi-tool-connector-faq"
+    },
+    {
+      "title": "Custom Namespace for Organisation",
+      "url": "https://docs.capillarytech.com/docs/configure-custom-namespace-for-organisation"
+    },
+    {
+      "title": "Databricks",
+      "url": "https://docs.capillarytech.com/docs/getting-started-databricks"
+    },
+    {
+      "title": "Mask Data in Databricks",
+      "url": "https://docs.capillarytech.com/docs/mask-data-in-databricks"
+    },
+    {
+      "title": "Running Databricks jobs automatically after ETL completion",
+      "url": "https://docs.capillarytech.com/docs/automated-notebook-execution-based-on-etl-completion"
+    },
+    {
+      "title": "Data Encryption Settings",
+      "url": "https://docs.capillarytech.com/docs/data-encryption-settings"
+    }
+  ],
+  "Capillary Data Platform": [
+    {
+      "title": "Entities Management",
+      "url": "https://docs.capillarytech.com/docs/data-entities"
+    },
+    {
+      "title": "Customer entity",
+      "url": "https://docs.capillarytech.com/docs/customer_entity"
+    },
+    {
+      "title": "Setup Store hierarchy",
+      "url": "https://docs.capillarytech.com/docs/store-hierarchy"
+    },
+    {
+      "title": "Setup Transactions",
+      "url": "https://docs.capillarytech.com/docs/set-transactions"
+    },
+    {
+      "title": "Handling of rejected transactions",
+      "url": "https://docs.capillarytech.com/docs/handling-of-rejected-transactions"
+    },
+    {
+      "title": "Setup Behavioral events",
+      "url": "https://docs.capillarytech.com/docs/setup-test-behavioral-events"
+    },
+    {
+      "title": "Setup Cards",
+      "url": "https://docs.capillarytech.com/docs/card"
+    },
+    {
+      "title": "Setup User Groups",
+      "url": "https://docs.capillarytech.com/docs/user-group"
+    },
+    {
+      "title": "Setup Customer Hierarchy",
+      "url": "https://docs.capillarytech.com/docs/hierarchy"
+    },
+    {
+      "title": "Setup Entities and Fields",
+      "url": "https://docs.capillarytech.com/docs/data-fields"
+    },
+    {
+      "title": "Create Search Filter for Entities",
+      "url": "https://docs.capillarytech.com/docs/create-search-filter"
+    },
+    {
+      "title": "Member Care",
+      "url": "https://docs.capillarytech.com/docs/member-care"
+    },
+    {
+      "title": "Register customers",
+      "url": "https://docs.capillarytech.com/docs/register-customers"
+    },
+    {
+      "title": "Search customer/coupon",
+      "url": "https://docs.capillarytech.com/docs/search-customercoupon"
+    },
+    {
+      "title": "Issue & update cards",
+      "url": "https://docs.capillarytech.com/docs/issue-update-cards"
+    },
+    {
+      "title": "Manage ID change requests",
+      "url": "https://docs.capillarytech.com/docs/manage-change-request"
+    },
+    {
+      "title": "Issue goodwill points & coupons",
+      "url": "https://docs.capillarytech.com/docs/issue-goodwill-points-coupons"
+    },
+    {
+      "title": "Retro transactions",
+      "url": "https://docs.capillarytech.com/docs/tag-not-interested-transactions"
+    },
+    {
+      "title": "Reallocate mobile numbers",
+      "url": "https://docs.capillarytech.com/docs/reallocate-mobile-numbers"
+    },
+    {
+      "title": "Manage customer feedback",
+      "url": "https://docs.capillarytech.com/docs/manage-customer-feedback-1"
+    },
+    {
+      "title": "Member Care New UI",
+      "url": "https://docs.capillarytech.com/docs/member-care-new-ui"
+    },
+    {
+      "title": "Customer overview",
+      "url": "https://docs.capillarytech.com/docs/customer_overview"
+    },
+    {
+      "title": "Loyalty details",
+      "url": "https://docs.capillarytech.com/docs/view-loyalty_details"
+    },
+    {
+      "title": "Event details",
+      "url": "https://docs.capillarytech.com/docs/view-event_details"
+    },
+    {
+      "title": "Incentive details",
+      "url": "https://docs.capillarytech.com/docs/view-incentive_details"
+    },
+    {
+      "title": "Communication details",
+      "url": "https://docs.capillarytech.com/docs/view-communication_details"
+    },
+    {
+      "title": "Identifier change request",
+      "url": "https://docs.capillarytech.com/docs/manage-id-change_requests"
+    },
+    {
+      "title": "Points & coupons request",
+      "url": "https://docs.capillarytech.com/docs/issue-goodwill-points_coupons"
+    },
+    {
+      "title": "Retro transaction request",
+      "url": "https://docs.capillarytech.com/docs/retro_transaction"
+    },
+    {
+      "title": "Session Logs",
+      "url": "https://docs.capillarytech.com/docs/session_logs"
+    },
+    {
+      "title": "Group view",
+      "url": "https://docs.capillarytech.com/docs/group_view"
+    },
+    {
+      "title": "Advanced points breakup view",
+      "url": "https://docs.capillarytech.com/docs/advanced-points-breakup_view"
+    },
+    {
+      "title": "Connect+",
+      "url": "https://docs.capillarytech.com/docs/connectplus_overview"
+    },
+    {
+      "title": "Getting started",
+      "url": "https://docs.capillarytech.com/docs/connectplus_getting_started"
+    },
+    {
+      "title": "Using  expressions for data transformation",
+      "url": "https://docs.capillarytech.com/docs/know-about-expressions-in-connect"
+    },
+    {
+      "title": "Configure blocks",
+      "url": "https://docs.capillarytech.com/docs/configure-blocks-connectplus"
+    },
+    {
+      "title": "Connect to Source",
+      "url": "https://docs.capillarytech.com/docs/connect-to-source"
+    },
+    {
+      "title": "Decrypt Data",
+      "url": "https://docs.capillarytech.com/docs/decrypt-data"
+    },
+    {
+      "title": "Connect to Destination",
+      "url": "https://docs.capillarytech.com/docs/connect-to-destination"
+    },
+    {
+      "title": "Transform Data",
+      "url": "https://docs.capillarytech.com/docs/transform-data"
+    },
+    {
+      "title": "Join Data",
+      "url": "https://docs.capillarytech.com/docs/join-data"
+    },
+    {
+      "title": "CSV-To-XML-Converter",
+      "url": "https://docs.capillarytech.com/docs/csv-to-xml-converter"
+    },
+    {
+      "title": "Push to S3",
+      "url": "https://docs.capillarytech.com/docs/push-to-s3"
+    },
+    {
+      "title": "Encrypt Data",
+      "url": "https://docs.capillarytech.com/docs/encrypt-data"
+    },
+    {
+      "title": "Schedule Trigger",
+      "url": "https://docs.capillarytech.com/docs/schedule-trigger"
+    },
+    {
+      "title": "Rebuild Headers / Define Headers and Transform Data",
+      "url": "https://docs.capillarytech.com/docs/rebuild-headers-define-headers-and-transform-data"
+    },
+    {
+      "title": "Mask Contents in a CSV",
+      "url": "https://docs.capillarytech.com/docs/mask-contents-in-a-csv"
+    },
+    {
+      "title": "Invoke Neo Iteratively",
+      "url": "https://docs.capillarytech.com/docs/invoke-neo-iteratively"
+    },
+    {
+      "title": "Convert JSON to CSV/Avro Format",
+      "url": "https://docs.capillarytech.com/docs/convert-json-to-csvavro-format"
+    },
+    {
+      "title": "Convert CSV to JSON",
+      "url": "https://docs.capillarytech.com/docs/convert-csv-to-json"
+    },
+    {
+      "title": "Event Notification Block",
+      "url": "https://docs.capillarytech.com/docs/event-notification-block-"
+    },
+    {
+      "title": "Explore templates",
+      "url": "https://docs.capillarytech.com/docs/explore-templates"
+    },
+    {
+      "title": "Test and control template",
+      "url": "https://docs.capillarytech.com/docs/test_and_control"
+    },
+    {
+      "title": "Add transaction template",
+      "url": "https://docs.capillarytech.com/docs/add_transaction"
+    },
+    {
+      "title": "File transfer templates",
+      "url": "https://docs.capillarytech.com/docs/file-transfer-templates"
+    },
+    {
+      "title": "Data reconciliation template",
+      "url": "https://docs.capillarytech.com/docs/data_reconciliation_template"
+    },
+    {
+      "title": "Transaction line item merge template",
+      "url": "https://docs.capillarytech.com/docs/transaction-line-item-merge"
+    },
+    {
+      "title": "PII cleanup template",
+      "url": "https://docs.capillarytech.com/docs/pii_cleanup_template"
+    },
+    {
+      "title": "Add customer template",
+      "url": "https://docs.capillarytech.com/docs/customer_v2_add"
+    },
+    {
+      "title": "Create or update Badges",
+      "url": "https://docs.capillarytech.com/docs/create_badges"
+    },
+    {
+      "title": "Import Earned Badges of Customer in Bulk",
+      "url": "https://docs.capillarytech.com/docs/import-earned-badges-of-customer-template"
+    },
+    {
+      "title": "CSV to XML conversion template",
+      "url": "https://docs.capillarytech.com/docs/csv_to_xml_conversion"
+    },
+    {
+      "title": "Coupon redeem template",
+      "url": "https://docs.capillarytech.com/docs/coupon-redeem"
+    },
+    {
+      "title": "Workspace & user management",
+      "url": "https://docs.capillarytech.com/docs/workspace-user-management"
+    },
+    {
+      "title": "Audience Reload from FTP",
+      "url": "https://docs.capillarytech.com/docs/audience-reload-from-ftp"
+    },
+    {
+      "title": "Onboard users to Intouch",
+      "url": "https://docs.capillarytech.com/docs/onboard-users-to-intouch"
+    },
+    {
+      "title": "Card update template",
+      "url": "https://docs.capillarytech.com/docs/card-update-template"
+    },
+    {
+      "title": "FTP to S3",
+      "url": "https://docs.capillarytech.com/docs/ftp-to-s3"
+    },
+    {
+      "title": "Behavioural events ingestion",
+      "url": "https://docs.capillarytech.com/docs/behavioural-events-ingestion"
+    },
+    {
+      "title": "Goodwill points issue template",
+      "url": "https://docs.capillarytech.com/docs/goodwill-points-issue-template"
+    },
+    {
+      "title": "Earned badges for customer template",
+      "url": "https://docs.capillarytech.com/docs/earned-badges-for-customer-template"
+    },
+    {
+      "title": "Retro transaction template",
+      "url": "https://docs.capillarytech.com/docs/retro-transaction-template"
+    },
+    {
+      "title": "Create Rewards Template",
+      "url": "https://docs.capillarytech.com/docs/create-rewards_connectplus-template"
+    },
+    {
+      "title": "Update Rewards Template",
+      "url": "https://docs.capillarytech.com/docs/update-reward-connectplus"
+    },
+    {
+      "title": "Force generate barcode template",
+      "url": "https://docs.capillarytech.com/docs/force-generate-barcode-template"
+    },
+    {
+      "title": "Databricks job trigger template",
+      "url": "https://docs.capillarytech.com/docs/connectplus-databricks-job-trigger-template"
+    },
+    {
+      "title": "SFTP to SFTP with Headers Definition",
+      "url": "https://docs.capillarytech.com/docs/sftp-to-sftp-with-headers-definition"
+    },
+    {
+      "title": "Pull Data from API",
+      "url": "https://docs.capillarytech.com/docs/pull-data-from-api"
+    },
+    {
+      "title": "Analyse dataflow performance",
+      "url": "https://docs.capillarytech.com/docs/analyse-dataflow-performance"
+    },
+    {
+      "title": "Troubleshooting guide",
+      "url": "https://docs.capillarytech.com/docs/troubleshooting-guide-connectplus"
+    },
+    {
+      "title": "DIY Templates",
+      "url": "https://docs.capillarytech.com/docs/diy-templates-connectplus"
+    },
+    {
+      "title": "Data import",
+      "url": "https://docs.capillarytech.com/docs/data-import-"
+    },
+    {
+      "title": "Transactions profiles",
+      "url": "https://docs.capillarytech.com/docs/transactions-profiles"
+    },
+    {
+      "title": "Customer profiles",
+      "url": "https://docs.capillarytech.com/docs/customer-profiles"
+    },
+    {
+      "title": "Inventory profiles",
+      "url": "https://docs.capillarytech.com/docs/inventory-profiles"
+    },
+    {
+      "title": "Org entities",
+      "url": "https://docs.capillarytech.com/docs/org-entities"
+    },
+    {
+      "title": "Points & Slabs",
+      "url": "https://docs.capillarytech.com/docs/points-slabs"
+    },
+    {
+      "title": "Points deductions",
+      "url": "https://docs.capillarytech.com/docs/points-deductions"
+    },
+    {
+      "title": "Points expiry",
+      "url": "https://docs.capillarytech.com/docs/points-expiry"
+    },
+    {
+      "title": "Other import profiles",
+      "url": "https://docs.capillarytech.com/docs/other-import-profiles"
+    },
+    {
+      "title": "Data cleanup",
+      "url": "https://docs.capillarytech.com/docs/data-cleanup"
+    },
+    {
+      "title": "Target loyalty",
+      "url": "https://docs.capillarytech.com/docs/target-loyalty-1"
+    },
+    {
+      "title": "Company",
+      "url": "https://docs.capillarytech.com/docs/company"
+    },
+    {
+      "title": "View import jobs",
+      "url": "https://docs.capillarytech.com/docs/view-import-jobs-1"
+    },
+    {
+      "title": "Fetch import details by import ID",
+      "url": "https://docs.capillarytech.com/docs/fetching-import-details-by-import-id"
+    },
+    {
+      "title": "Downloading reports (After temp DB import)",
+      "url": "https://docs.capillarytech.com/docs/downloading-reports-after-temp-db-import"
+    },
+    {
+      "title": "Mark stores as inactive using the data import",
+      "url": "https://docs.capillarytech.com/docs/mark-stores-as-inactive-using-the-data-import"
+    },
+    {
+      "title": "Event notification",
+      "url": "https://docs.capillarytech.com/docs/configure_event_notification"
+    },
+    {
+      "title": "Add event notification account",
+      "url": "https://docs.capillarytech.com/docs/add-event-notification-account"
+    },
+    {
+      "title": "Edit/Delete event notification",
+      "url": "https://docs.capillarytech.com/docs/editdelete-event-notification"
+    },
+    {
+      "title": "Consuming event notifications",
+      "url": "https://docs.capillarytech.com/docs/consuming-event-notifications"
+    },
+    {
+      "title": "Event schema (Payload)",
+      "url": "https://docs.capillarytech.com/docs/event-schema-payload"
+    },
+    {
+      "title": "Fraud Management",
+      "url": "https://docs.capillarytech.com/docs/fraud-detection"
+    },
+    {
+      "title": "(New) Request Workflow",
+      "url": "https://docs.capillarytech.com/docs/new-request-workflow"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://docs.capillarytech.com/docs/new-request-flow-introduction"
+    },
+    {
+      "title": "Configuring Request workflow for Customer Enrolment",
+      "url": "https://docs.capillarytech.com/docs/configuring-issue-badges-request-workflow"
+    },
+    {
+      "title": "Configuring Request Workflow for Badge Issuance",
+      "url": "https://docs.capillarytech.com/docs/configuring-earn-badge-request-workflow"
+    },
+    {
+      "title": "Configuring Request Workflow for Customer Status Change",
+      "url": "https://docs.capillarytech.com/docs/configuring-customer-status-change-request-workflow"
+    },
+    {
+      "title": "Configuring Points Redemption Request Workflow",
+      "url": "https://docs.capillarytech.com/docs/configuring-points-redemption-request-workflow"
+    },
+    {
+      "title": "Configuring Goodwill Points Request Workflow",
+      "url": "https://docs.capillarytech.com/docs/configuring-goodwill-points-request-workflow"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://docs.capillarytech.com/docs/new-request-workflow-faq"
+    }
+  ],
+  "Loyalty+": [
+    {
+      "title": "Introduction to Loyalty+",
+      "url": "https://docs.capillarytech.com/docs/loyalty-overview"
+    },
+    {
+      "title": "Features of loyalty+",
+      "url": "https://docs.capillarytech.com/docs/features-of-loyalty"
+    },
+    {
+      "title": "Types of Loyalty Programs we support",
+      "url": "https://docs.capillarytech.com/docs/types-of-loyalty-programs-we-support"
+    },
+    {
+      "title": "Glossary",
+      "url": "https://docs.capillarytech.com/docs/glossary-1"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://docs.capillarytech.com/docs/faqs"
+    },
+    {
+      "title": "Loyalty guides",
+      "url": "https://docs.capillarytech.com/docs/loyalty-guides"
+    },
+    {
+      "title": "Retro guide",
+      "url": "https://docs.capillarytech.com/docs/retro-guide"
+    },
+    {
+      "title": "Loyalty Settings",
+      "url": "https://docs.capillarytech.com/docs/loyalty-settings-2"
+    },
+    {
+      "title": "Points Promotion",
+      "url": "https://docs.capillarytech.com/docs/points-promotion"
+    },
+    {
+      "title": "Points rolling expiry",
+      "url": "https://docs.capillarytech.com/docs/points-rolling-expiry"
+    },
+    {
+      "title": "Advanced Loyalty Features",
+      "url": "https://docs.capillarytech.com/docs/create-a-multi-loyalty-program"
+    },
+    {
+      "title": "User Group loyalty",
+      "url": "https://docs.capillarytech.com/docs/group-loyalty"
+    },
+    {
+      "title": "Behavioral Loyalty",
+      "url": "https://docs.capillarytech.com/docs/behavioral-loyalty"
+    },
+    {
+      "title": "Referral Programs",
+      "url": "https://docs.capillarytech.com/docs/referral-programs"
+    },
+    {
+      "title": "Subscription program",
+      "url": "https://docs.capillarytech.com/docs/subscription-program"
+    },
+    {
+      "title": "Coalition program",
+      "url": "https://docs.capillarytech.com/docs/coalition-program"
+    },
+    {
+      "title": "Milestones (also known as Target loyalty)",
+      "url": "https://docs.capillarytech.com/docs/milestones-new-flow"
+    },
+    {
+      "title": "Unified target/milestones",
+      "url": "https://docs.capillarytech.com/docs/unified-milestones"
+    },
+    {
+      "title": "Alternate Currencies",
+      "url": "https://docs.capillarytech.com/docs/alternate-currencies"
+    },
+    {
+      "title": "Streaks",
+      "url": "https://docs.capillarytech.com/docs/streaks"
+    },
+    {
+      "title": "Overview",
+      "url": "https://docs.capillarytech.com/docs/overview-streaks"
+    },
+    {
+      "title": "Configure Streaks",
+      "url": "https://docs.capillarytech.com/docs/configure-streaks"
+    },
+    {
+      "title": "Connect the streak to loyalty promotions",
+      "url": "https://docs.capillarytech.com/docs/connect-the-streak-to-loyalty-promotions"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://docs.capillarytech.com/docs/faq"
+    },
+    {
+      "title": "Loyalty+ Reporting",
+      "url": "https://docs.capillarytech.com/docs/point-conditions"
+    },
+    {
+      "title": "Loyalty Standard Report",
+      "url": "https://docs.capillarytech.com/docs/loyalty-standard-report"
+    },
+    {
+      "title": "Loyalty Sales Report",
+      "url": "https://docs.capillarytech.com/docs/standard-loyalty-reports"
+    },
+    {
+      "title": "Loyalty Customer Summary Report",
+      "url": "https://docs.capillarytech.com/docs/loyalty-customer-summary-report"
+    },
+    {
+      "title": "Points",
+      "url": "https://docs.capillarytech.com/docs/points-2"
+    },
+    {
+      "title": "Points Report (new)",
+      "url": "https://docs.capillarytech.com/docs/points-report-new"
+    },
+    {
+      "title": "Non Member Report",
+      "url": "https://docs.capillarytech.com/docs/loyalty-sales-report"
+    },
+    {
+      "title": "Points Redemption Custom Fields",
+      "url": "https://docs.capillarytech.com/docs/redemption-custom-field"
+    },
+    {
+      "title": "Programs Home Page",
+      "url": "https://docs.capillarytech.com/docs/dashboard"
+    },
+    {
+      "title": "Loyalty+ settings",
+      "url": "https://docs.capillarytech.com/docs/loyalty-settings-1"
+    },
+    {
+      "title": "Strategies",
+      "url": "https://docs.capillarytech.com/docs/building-blocks-of-loyalty"
+    },
+    {
+      "title": "Tiers",
+      "url": "https://docs.capillarytech.com/docs/strategies_tiers"
+    },
+    {
+      "title": "Tier Upgrade",
+      "url": "https://docs.capillarytech.com/docs/tier-upgrade"
+    },
+    {
+      "title": "Tier Renewal & Downgrade",
+      "url": "https://docs.capillarytech.com/docs/tier-downgrade-renewal"
+    },
+    {
+      "title": "View tier configuration",
+      "url": "https://docs.capillarytech.com/docs/view-tier-configuration"
+    },
+    {
+      "title": "Create Tiers and Configure Tier Upgrade Conditions",
+      "url": "https://docs.capillarytech.com/docs/create-tiers-and-configure-tier-upgrade-conditions"
+    },
+    {
+      "title": "Configure Validity and Renewal Conditions",
+      "url": "https://docs.capillarytech.com/docs/configure-renewal-conditions"
+    },
+    {
+      "title": "Configure Tier Downgrade",
+      "url": "https://docs.capillarytech.com/docs/configure-tier-downgrade"
+    },
+    {
+      "title": "Use Cases",
+      "url": "https://docs.capillarytech.com/docs/use-cases"
+    },
+    {
+      "title": "Integrations",
+      "url": "https://docs.capillarytech.com/docs/integrations"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://docs.capillarytech.com/docs/faqs-tier"
+    },
+    {
+      "title": "Points",
+      "url": "https://docs.capillarytech.com/docs/points"
+    },
+    {
+      "title": "Communication",
+      "url": "https://docs.capillarytech.com/docs/communication"
+    },
+    {
+      "title": "Offers/Coupons",
+      "url": "https://docs.capillarytech.com/docs/create-and-configure-offers-condition"
+    },
+    {
+      "title": "Advanced Settings",
+      "url": "https://docs.capillarytech.com/docs/loyalty-org-settingsdf"
+    },
+    {
+      "title": "Trackers",
+      "url": "https://docs.capillarytech.com/docs/trackers"
+    },
+    {
+      "title": "Workflows",
+      "url": "https://docs.capillarytech.com/docs/workflows"
+    },
+    {
+      "title": "Customer Activities",
+      "url": "https://docs.capillarytech.com/docs/activities"
+    },
+    {
+      "title": "Auto points conversion to reward",
+      "url": "https://docs.capillarytech.com/docs/auto-points-conversion-to-reward"
+    },
+    {
+      "title": "Actions",
+      "url": "https://docs.capillarytech.com/docs/actions"
+    },
+    {
+      "title": "Rule Writing",
+      "url": "https://docs.capillarytech.com/docs/rule-writing"
+    },
+    {
+      "title": "Advanced Capping",
+      "url": "https://docs.capillarytech.com/docs/advanced-capping"
+    },
+    {
+      "title": "Profiles & attributes",
+      "url": "https://docs.capillarytech.com/docs/profiles"
+    },
+    {
+      "title": "Profile : Current Customer",
+      "url": "https://docs.capillarytech.com/docs/avgbasket-size"
+    },
+    {
+      "title": "Attributes - Customer Identity",
+      "url": "https://docs.capillarytech.com/docs/attributes-namefirst-namelast-name"
+    },
+    {
+      "title": "Attributes - KPIs (Customer Points)",
+      "url": "https://docs.capillarytech.com/docs/attributes-current-customer-points"
+    },
+    {
+      "title": "Attributes - Custom Field",
+      "url": "https://docs.capillarytech.com/docs/attributes-custom-field"
+    },
+    {
+      "title": "Attributes - Slab Information",
+      "url": "https://docs.capillarytech.com/docs/attribute-slab-information"
+    },
+    {
+      "title": "Attributes - User Segment (EI)",
+      "url": "https://docs.capillarytech.com/docs/user-segment-ei-attributes"
+    },
+    {
+      "title": "Attributes - KPIs (Transaction Data)",
+      "url": "https://docs.capillarytech.com/docs/attributes-kpis"
+    },
+    {
+      "title": "Attributes - Registration Date",
+      "url": "https://docs.capillarytech.com/docs/attribute-joindate"
+    },
+    {
+      "title": "Attributes - Other",
+      "url": "https://docs.capillarytech.com/docs/attribute-loyalty-information-1"
+    },
+    {
+      "title": "Attributes - Customer status & label",
+      "url": "https://docs.capillarytech.com/docs/attribute-customer-status-label"
+    },
+    {
+      "title": "Profile : Current Transaction",
+      "url": "https://docs.capillarytech.com/docs/profile-current-transactioncurrenttxn"
+    },
+    {
+      "title": "Attributes - KPI (Basket)",
+      "url": "https://docs.capillarytech.com/docs/a"
+    },
+    {
+      "title": "Attributes - Transaction Number/ID",
+      "url": "https://docs.capillarytech.com/docs/attributes-based-on-customer-identity"
+    },
+    {
+      "title": "Attributes - Custom Fields (Transaction)",
+      "url": "https://docs.capillarytech.com/docs/attributes-custom-fields"
+    },
+    {
+      "title": "Attribute - Transaction Value",
+      "url": "https://docs.capillarytech.com/docs/attribute-transaction-value"
+    },
+    {
+      "title": "Attribute - Discount",
+      "url": "https://docs.capillarytech.com/docs/attribute-discount"
+    },
+    {
+      "title": "Attribute - Date",
+      "url": "https://docs.capillarytech.com/docs/attribute-date-transactionpurchase-date"
+    },
+    {
+      "title": "Attribute - Note",
+      "url": "https://docs.capillarytech.com/docs/attribute-using-standard-field"
+    },
+    {
+      "title": "Profile : Current Line Item",
+      "url": "https://docs.capillarytech.com/docs/profile-current-line-item"
+    },
+    {
+      "title": "Attribute - Line Item Information",
+      "url": "https://docs.capillarytech.com/docs/attribute-line-item-information"
+    },
+    {
+      "title": "Attributes - discount & discPercentage",
+      "url": "https://docs.capillarytech.com/docs/attribute-discount-1"
+    },
+    {
+      "title": "Attributes - Line Item Properties",
+      "url": "https://docs.capillarytech.com/docs/attributes-line-item-properties"
+    },
+    {
+      "title": "Profile : Current Event",
+      "url": "https://docs.capillarytech.com/docs/current-event"
+    },
+    {
+      "title": "Attribute - Target Based",
+      "url": "https://docs.capillarytech.com/docs/attribute-target-based"
+    },
+    {
+      "title": "Attribute - Loyalty Information",
+      "url": "https://docs.capillarytech.com/docs/attribute-loyalty-information"
+    },
+    {
+      "title": "Attributes - Custom Field",
+      "url": "https://docs.capillarytech.com/docs/attributes-custom-field-1"
+    },
+    {
+      "title": "Profile : Current Store",
+      "url": "https://docs.capillarytech.com/docs/profile-current-store"
+    },
+    {
+      "title": "Attribute : Code",
+      "url": "https://docs.capillarytech.com/docs/attribute-code"
+    },
+    {
+      "title": "Profile : Current Tracker",
+      "url": "https://docs.capillarytech.com/docs/profile-currenttracker"
+    },
+    {
+      "title": "Attributes - Tracker",
+      "url": "https://docs.capillarytech.com/docs/attributes-tracker"
+    },
+    {
+      "title": "Loyalty+ Promotions",
+      "url": "https://docs.capillarytech.com/docs/loyalty-promotions-basic-and-advanced"
+    },
+    {
+      "title": "Getting started",
+      "url": "https://docs.capillarytech.com/docs/loyalty-promotions"
+    },
+    {
+      "title": "Types of promotions",
+      "url": "https://docs.capillarytech.com/docs/advanced-loyalty-promotions"
+    },
+    {
+      "title": "Available to Issue loyalty promotion",
+      "url": "https://docs.capillarytech.com/docs/available-to-issue-promotion"
+    },
+    {
+      "title": "Direct issue loyalty promotion",
+      "url": "https://docs.capillarytech.com/docs/direct-issue-loyalty-promotion"
+    },
+    {
+      "title": "Enrol & Issue loyalty promotion",
+      "url": "https://docs.capillarytech.com/docs/enrol-issue-loyalty-promotion"
+    },
+    {
+      "title": "Loyalty Promotion Priority Order & Stacking Strategy",
+      "url": "https://docs.capillarytech.com/docs/loyalty-promotion-priority-order-stacking-strategy"
+    },
+    {
+      "title": "RBAC (Role-based access control)",
+      "url": "https://docs.capillarytech.com/docs/rbac-role-based-access-control"
+    },
+    {
+      "title": "Workflow simulation",
+      "url": "https://docs.capillarytech.com/docs/cart-event-simulation"
+    },
+    {
+      "title": "Transaction Add",
+      "url": "https://docs.capillarytech.com/docs/simulate-transaction-add"
+    },
+    {
+      "title": "Badges",
+      "url": "https://docs.capillarytech.com/docs/customer_badges"
+    },
+    {
+      "title": "Introduction to Badges",
+      "url": "https://docs.capillarytech.com/docs/introduction-to-badges"
+    },
+    {
+      "title": "Type of Badges",
+      "url": "https://docs.capillarytech.com/docs/type-of-badges"
+    },
+    {
+      "title": "Getting Started",
+      "url": "https://docs.capillarytech.com/docs/getting-started-badges"
+    },
+    {
+      "title": "Enabling & Creating a Badge",
+      "url": "https://docs.capillarytech.com/docs/enabling-creating-a-badge"
+    },
+    {
+      "title": "Viewing Badges",
+      "url": "https://docs.capillarytech.com/docs/viewing-badges"
+    },
+    {
+      "title": "Glossary of Terms",
+      "url": "https://docs.capillarytech.com/docs/glossary-of-terms"
+    },
+    {
+      "title": "Configuration for Badges",
+      "url": "https://docs.capillarytech.com/docs/configuration-for-badges"
+    },
+    {
+      "title": "Custom Field Information for Badges",
+      "url": "https://docs.capillarytech.com/docs/custom-field-information-for-badges"
+    },
+    {
+      "title": "Grouping and Ranking of Badges",
+      "url": "https://docs.capillarytech.com/docs/grouping-and-ranking-of-badges"
+    },
+    {
+      "title": "Managing Badges",
+      "url": "https://docs.capillarytech.com/docs/managing-badges"
+    },
+    {
+      "title": "Deactivating and Activating Badges",
+      "url": "https://docs.capillarytech.com/docs/activating-and-deactivating-badges"
+    },
+    {
+      "title": "Issuing Badges and Revoking via Loyalty Workflows and Promotions",
+      "url": "https://docs.capillarytech.com/docs/issuing-badges-and-revoking-via-loyalty-workflows-and-promotions"
+    },
+    {
+      "title": "Enrolling and Issuing Badges from Campaigns",
+      "url": "https://docs.capillarytech.com/docs/enrolling-and-issuing-badges-from-campaigns"
+    },
+    {
+      "title": "Enrolling and Issuing Badges from Journeys",
+      "url": "https://docs.capillarytech.com/docs/enrolling-and-issuing-badges-from-journeys"
+    },
+    {
+      "title": "Historical Data Migration of Badges",
+      "url": "https://docs.capillarytech.com/docs/historical-data-migration-of-badges"
+    },
+    {
+      "title": "Retro Enrolment and Issue of Badges",
+      "url": "https://docs.capillarytech.com/docs/retro-enrolment-and-issue-of-badges"
+    },
+    {
+      "title": "Badges Event Notification",
+      "url": "https://docs.capillarytech.com/docs/badges-event-notification"
+    },
+    {
+      "title": "Badges Reporting",
+      "url": "https://docs.capillarytech.com/docs/badges-reporting"
+    },
+    {
+      "title": "Badges in Membercare",
+      "url": "https://docs.capillarytech.com/docs/badges-in-membercare"
+    },
+    {
+      "title": "Rewards Catalog",
+      "url": "https://docs.capillarytech.com/docs/rewards-catalog"
+    },
+    {
+      "title": "Getting Started with Rewards Catalog",
+      "url": "https://docs.capillarytech.com/docs/getting-started-with-rewards-catalog"
+    },
+    {
+      "title": "Sample Rewards Catalog for Various Verticals",
+      "url": "https://docs.capillarytech.com/docs/sample-rewards-catalog-for-various-verticals"
+    },
+    {
+      "title": "Optimizing Your Rewards Budget & Catalog Inventory",
+      "url": "https://docs.capillarytech.com/docs/optimizing-your-rewards-budget-catalog-inventory"
+    },
+    {
+      "title": "Enhancing Rewards Catalog with Custom Fields",
+      "url": "https://docs.capillarytech.com/docs/enhancing-rewards-catalog-with-custom-fields"
+    },
+    {
+      "title": "Running Attractive Discounts on Rewards Catalog",
+      "url": "https://docs.capillarytech.com/docs/running-attractive-discounts-on-rewards-catalog"
+    },
+    {
+      "title": "Point Redemption for Unified Multiple Loyalty Programs",
+      "url": "https://docs.capillarytech.com/docs/point-redemption-for-unified-multiple-loyalty-programs"
+    },
+    {
+      "title": "Viewing Rewards Catalog Events in MemberCare",
+      "url": "https://docs.capillarytech.com/docs/viewing-rewards-catalog-events-in-membercare"
+    },
+    {
+      "title": "Reducing Reward Checkout Failures",
+      "url": "https://docs.capillarytech.com/docs/reducing-reward-checkout-failures"
+    },
+    {
+      "title": "Personalizing the Rewards Catalog",
+      "url": "https://docs.capillarytech.com/docs/personalizing-the-catalog-with-program-tier-scope"
+    },
+    {
+      "title": "Redeeming Points from User Groups",
+      "url": "https://docs.capillarytech.com/docs/redeeming-points-from-user-groups"
+    },
+    {
+      "title": "Ownership concept in Rewards Catalog",
+      "url": "https://docs.capillarytech.com/docs/ownership-concept-in-rewards-catalog"
+    },
+    {
+      "title": "Grouping and Ranking in Rewards Catalog",
+      "url": "https://docs.capillarytech.com/docs/grouping-and-ranking-in-rewards-catalog"
+    },
+    {
+      "title": "Point Redemption Controls for the Catalog",
+      "url": "https://docs.capillarytech.com/docs/point-redemption-controls-for-the-catalog"
+    },
+    {
+      "title": "Different payment modes for rewards in the catalog",
+      "url": "https://docs.capillarytech.com/docs/pointscash-journeys-in-rewards-catalog"
+    },
+    {
+      "title": "Reward Tracking with Status and Custom Fields in Reward Fulfillment",
+      "url": "https://docs.capillarytech.com/docs/reward-tracking-with-status-and-custom-fields-in-reward-fulfillment"
+    },
+    {
+      "title": "Rewards Event Notification",
+      "url": "https://docs.capillarytech.com/docs/rewards-event-notification"
+    },
+    {
+      "title": "Issue Catalog Reward from Loyalty Workflow",
+      "url": "https://docs.capillarytech.com/docs/issue-catalog-reward-from-loyalty-workflow"
+    },
+    {
+      "title": "Games",
+      "url": "https://docs.capillarytech.com/docs/games_overview"
+    },
+    {
+      "title": "CataBoom games",
+      "url": "https://docs.capillarytech.com/docs/cataboom-games"
+    },
+    {
+      "title": "Customerglu games",
+      "url": "https://docs.capillarytech.com/docs/customerglu"
+    },
+    {
+      "title": "Marvel games",
+      "url": "https://docs.capillarytech.com/docs/marvel-games"
+    }
+  ],
+  "ADMIN CONTROLS": [
+    {
+      "title": "Organization",
+      "url": "https://docs.capillarytech.com/docs/organization-management"
+    },
+    {
+      "title": "Org management",
+      "url": "https://docs.capillarytech.com/docs/org-management"
+    },
+    {
+      "title": "(Old) User management",
+      "url": "https://docs.capillarytech.com/docs/user-management"
+    },
+    {
+      "title": "(New) User Management",
+      "url": "https://docs.capillarytech.com/docs/new-user-management-overview"
+    },
+    {
+      "title": "Types of Users in the Organisation",
+      "url": "https://docs.capillarytech.com/docs/types-of-users-in-the-organisation"
+    },
+    {
+      "title": "Managing Permissions for the Users",
+      "url": "https://docs.capillarytech.com/docs/managing-permissions"
+    },
+    {
+      "title": "List of Standard Permission Sets",
+      "url": "https://docs.capillarytech.com/docs/list-of-standard-permission-sets"
+    },
+    {
+      "title": "Manage Custom Permission Sets",
+      "url": "https://docs.capillarytech.com/docs/custom-permission-sets"
+    },
+    {
+      "title": "Assigning Permission Set to Users",
+      "url": "https://docs.capillarytech.com/docs/assigning-permission-set-to-users"
+    },
+    {
+      "title": "Managing Permission for Users in Multiple Orgs",
+      "url": "https://docs.capillarytech.com/docs/managing-permission-for-users-in-multiple-orgs"
+    },
+    {
+      "title": "Onboarding and Managing Users",
+      "url": "https://docs.capillarytech.com/docs/onboarding-user"
+    },
+    {
+      "title": "FAQs on User Management",
+      "url": "https://docs.capillarytech.com/docs/faqs-on-user-management"
+    },
+    {
+      "title": "Credit management",
+      "url": "https://docs.capillarytech.com/docs/credit-management"
+    },
+    {
+      "title": "Setup Localization",
+      "url": "https://docs.capillarytech.com/docs/language"
+    },
+    {
+      "title": "Localisation management",
+      "url": "https://docs.capillarytech.com/docs/translation-management"
+    },
+    {
+      "title": "Single Sign On (SSO)",
+      "url": "https://docs.capillarytech.com/docs/sso-integration"
+    },
+    {
+      "title": "API Gateway Integration with CIAM Platforms",
+      "url": "https://docs.capillarytech.com/docs/api-gateway-integration-with-ciam-platforms"
+    },
+    {
+      "title": "API security",
+      "url": "https://docs.capillarytech.com/docs/api-access"
+    },
+    {
+      "title": "Authentication",
+      "url": "https://docs.capillarytech.com/docs/api-client"
+    },
+    {
+      "title": "Authorization",
+      "url": "https://docs.capillarytech.com/docs/access-group"
+    },
+    {
+      "title": "Data privacy",
+      "url": "https://docs.capillarytech.com/docs/subscription-management-1"
+    },
+    {
+      "title": "Unified subscription",
+      "url": "https://docs.capillarytech.com/docs/setup-unified-subscription"
+    },
+    {
+      "title": "Setup OTP verification Rules",
+      "url": "https://docs.capillarytech.com/docs/setup-otp-verification-rules"
+    },
+    {
+      "title": "Mask OTPs",
+      "url": "https://docs.capillarytech.com/docs/mask-otps"
+    },
+    {
+      "title": "PII deletion",
+      "url": "https://docs.capillarytech.com/docs/pii-configuration"
+    },
+    {
+      "title": "Classify Potentially Sensitive Information (PSI)",
+      "url": "https://docs.capillarytech.com/docs/classify-potentially-sensitive-information-psi"
+    },
+    {
+      "title": "Encrypt PII data",
+      "url": "https://docs.capillarytech.com/docs/encrypt-pii-data"
+    },
+    {
+      "title": "Channel configuration",
+      "url": "https://docs.capillarytech.com/docs/channel-configuration"
+    },
+    {
+      "title": "Reset Password Using Import",
+      "url": "https://docs.capillarytech.com/docs/reset-password-using-import"
+    }
+  ],
+  "Developer DOcs": [
+    {
+      "title": "Extension",
+      "url": "https://docs.capillarytech.com/docs/extension"
+    },
+    {
+      "title": "Quickstart for Neo Extension",
+      "url": "https://docs.capillarytech.com/docs/neo-quick-start"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://docs.capillarytech.com/docs/introduction-to-extension-platform"
+    },
+    {
+      "title": "Overview",
+      "url": "https://docs.capillarytech.com/docs/overview-neo"
+    },
+    {
+      "title": "Enabling & Managing Access to Neo",
+      "url": "https://docs.capillarytech.com/docs/access-management-neo"
+    },
+    {
+      "title": "Introduction to the UI",
+      "url": "https://docs.capillarytech.com/docs/introduction-to-the-ui-neo"
+    },
+    {
+      "title": "Core Concepts",
+      "url": "https://docs.capillarytech.com/docs/core-concepts"
+    },
+    {
+      "title": "Dataflow & Building Blocks",
+      "url": "https://docs.capillarytech.com/docs/dataflows"
+    },
+    {
+      "title": "Tags & Filters in Dataflow",
+      "url": "https://docs.capillarytech.com/docs/tags-filters-in-dataflow"
+    },
+    {
+      "title": "Block Libraries",
+      "url": "https://docs.capillarytech.com/docs/block-libraries"
+    },
+    {
+      "title": "Configuration & Setup",
+      "url": "https://docs.capillarytech.com/docs/configuration-setup"
+    },
+    {
+      "title": "Configuring Conditions",
+      "url": "https://docs.capillarytech.com/docs/configuring-conditions"
+    },
+    {
+      "title": "Configuring Relations",
+      "url": "https://docs.capillarytech.com/docs/configuring-relations"
+    },
+    {
+      "title": "Configuring Caching",
+      "url": "https://docs.capillarytech.com/docs/configuring-caching"
+    },
+    {
+      "title": "Building Block Configuration",
+      "url": "https://docs.capillarytech.com/docs/building-block-configuration"
+    },
+    {
+      "title": "Trigger Block",
+      "url": "https://docs.capillarytech.com/docs/trigger"
+    },
+    {
+      "title": "Schema Block",
+      "url": "https://docs.capillarytech.com/docs/json-schema-block"
+    },
+    {
+      "title": "Script Block",
+      "url": "https://docs.capillarytech.com/docs/script-block"
+    },
+    {
+      "title": "API Request Block",
+      "url": "https://docs.capillarytech.com/docs/api-request-block"
+    },
+    {
+      "title": "GET Mongo Block",
+      "url": "https://docs.capillarytech.com/docs/get-mongo"
+    },
+    {
+      "title": "PUT Mongo Block",
+      "url": "https://docs.capillarytech.com/docs/put-mongo"
+    },
+    {
+      "title": "Bulk Upsert Mongo Block",
+      "url": "https://docs.capillarytech.com/docs/bulk-upsert-mongo"
+    },
+    {
+      "title": "Redis Evict Block",
+      "url": "https://docs.capillarytech.com/docs/redis-evict"
+    },
+    {
+      "title": "Kafka Block",
+      "url": "https://docs.capillarytech.com/docs/neo-kafka-block"
+    },
+    {
+      "title": "HMAC Block",
+      "url": "https://docs.capillarytech.com/docs/hmac-block"
+    },
+    {
+      "title": "Encrypt Block",
+      "url": "https://docs.capillarytech.com/docs/encrypt-block"
+    },
+    {
+      "title": "Decrypt Block",
+      "url": "https://docs.capillarytech.com/docs/decrypt-block"
+    },
+    {
+      "title": "OAuth Block",
+      "url": "https://docs.capillarytech.com/docs/capillarys-oauth-block"
+    },
+    {
+      "title": "OrgContextSwitch Block",
+      "url": "https://docs.capillarytech.com/docs/orgcontextswitch-block"
+    },
+    {
+      "title": "Manage Dataflow",
+      "url": "https://docs.capillarytech.com/docs/manage-dataflow"
+    },
+    {
+      "title": "Composing a Dataflow",
+      "url": "https://docs.capillarytech.com/docs/composing-a-neo_dataflow"
+    },
+    {
+      "title": "Editing a Dataflow",
+      "url": "https://docs.capillarytech.com/docs/editing-a-dataflow"
+    },
+    {
+      "title": "Deactivating and Activating a Dataflow",
+      "url": "https://docs.capillarytech.com/docs/deactivating-a-dataflow"
+    },
+    {
+      "title": "Viewing Dataflow List",
+      "url": "https://docs.capillarytech.com/docs/viewing-dataflow-list"
+    },
+    {
+      "title": "Neo DAO Functions",
+      "url": "https://docs.capillarytech.com/docs/neo-dao-functions"
+    },
+    {
+      "title": "Execution & Monitoring",
+      "url": "https://docs.capillarytech.com/docs/execution-monitoring"
+    },
+    {
+      "title": "Advanced Features",
+      "url": "https://docs.capillarytech.com/docs/advanced-features"
+    },
+    {
+      "title": "Access Sensitive Data in Neo Dataflows Using Configuration Manager",
+      "url": "https://docs.capillarytech.com/docs/configuration-manager"
+    },
+    {
+      "title": "Approval Flow & Versioning",
+      "url": "https://docs.capillarytech.com/docs/approval-flow"
+    },
+    {
+      "title": "API Extension Catalogue",
+      "url": "https://docs.capillarytech.com/docs/api_extension_catalogue_intro"
+    },
+    {
+      "title": "Adding Extensions to the Catalogue",
+      "url": "https://docs.capillarytech.com/docs/adding-extensions-to-the-catalogue"
+    },
+    {
+      "title": "Punches Calculator Extension",
+      "url": "https://docs.capillarytech.com/docs/punches-calculator-extension-1"
+    },
+    {
+      "title": "Airmiles Calculator Extension",
+      "url": "https://docs.capillarytech.com/docs/airmiles-calculator-extension"
+    },
+    {
+      "title": "Dev Console",
+      "url": "https://docs.capillarytech.com/docs/dev-console"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://docs.capillarytech.com/docs/introduction-dev-console"
+    },
+    {
+      "title": "Handle Deployment",
+      "url": "https://docs.capillarytech.com/docs/handle-deployment"
+    },
+    {
+      "title": "View API Logs",
+      "url": "https://docs.capillarytech.com/docs/log-viewer"
+    },
+    {
+      "title": "View API Performance Metrics",
+      "url": "https://docs.capillarytech.com/docs/platform-metrics"
+    },
+    {
+      "title": "Save Extension Configurations",
+      "url": "https://docs.capillarytech.com/docs/extension-configuration"
+    },
+    {
+      "title": "Connect and Manage DB",
+      "url": "https://docs.capillarytech.com/docs/db-management"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://docs.capillarytech.com/docs/faqs-13"
+    }
+  ],
+  "Smart Store+": [
+    {
+      "title": "InStore application",
+      "url": "https://docs.capillarytech.com/docs/instore"
+    },
+    {
+      "title": "System requirements for installing InStore",
+      "url": "https://docs.capillarytech.com/docs/system-requirements-for-installing-instore"
+    },
+    {
+      "title": "General questions",
+      "url": "https://docs.capillarytech.com/docs/general-questions"
+    },
+    {
+      "title": "Instore installation guide",
+      "url": "https://docs.capillarytech.com/docs/instore-installation-guide"
+    },
+    {
+      "title": "How to's",
+      "url": "https://docs.capillarytech.com/docs/how-tos"
+    },
+    {
+      "title": "URLs to be whitelisted for InStore installation",
+      "url": "https://docs.capillarytech.com/docs/urls-to-be-whitelisted-for-instore-installation"
+    },
+    {
+      "title": "FAQs - store center and InStore",
+      "url": "https://docs.capillarytech.com/docs/faqs-store-center-and-instore"
+    },
+    {
+      "title": "Troubleshooting guide",
+      "url": "https://docs.capillarytech.com/docs/troubleshooting-guide"
+    },
+    {
+      "title": "Upload logs from InStore (for staff)",
+      "url": "https://docs.capillarytech.com/docs/upload-logs-from-instore-for-staff"
+    },
+    {
+      "title": "Instore Web-App",
+      "url": "https://docs.capillarytech.com/docs/instore-web-app"
+    },
+    {
+      "title": "Store center",
+      "url": "https://docs.capillarytech.com/docs/store-center"
+    },
+    {
+      "title": "Store center web service integration document",
+      "url": "https://docs.capillarytech.com/docs/store-center-web-service-integration-document"
+    },
+    {
+      "title": "Store center - data sync details document",
+      "url": "https://docs.capillarytech.com/docs/store-center-data-sync-details-document"
+    },
+    {
+      "title": "Lead management system",
+      "url": "https://docs.capillarytech.com/docs/lead-management-system-1"
+    },
+    {
+      "title": "Visitor metrix",
+      "url": "https://docs.capillarytech.com/docs/visitor-metrix"
+    },
+    {
+      "title": "Determining the mounting location",
+      "url": "https://docs.capillarytech.com/docs/determining-the-mounting-location"
+    },
+    {
+      "title": "Installing the device",
+      "url": "https://docs.capillarytech.com/docs/installing-the-device"
+    },
+    {
+      "title": "Setting up WiFi connection to the device",
+      "url": "https://docs.capillarytech.com/docs/setting-up-wifi-connection-to-the-device"
+    },
+    {
+      "title": "Configuring VisitorMetrix through InStore",
+      "url": "https://docs.capillarytech.com/docs/configuring-visitormetrix-through-instore"
+    },
+    {
+      "title": "Configuring the staff counter switch",
+      "url": "https://docs.capillarytech.com/docs/configuring-the-staff-counter-switch"
+    },
+    {
+      "title": "VisitorMetrix FAQs",
+      "url": "https://docs.capillarytech.com/docs/visitormetrix-faqs"
+    },
+    {
+      "title": "Troubleshooting VisitorMetrix",
+      "url": "https://docs.capillarytech.com/docs/troubleshooting-visitormetrix"
+    },
+    {
+      "title": "VisitorMetrix Best Practices",
+      "url": "https://docs.capillarytech.com/docs/visitormetrix-best-practices"
+    },
+    {
+      "title": "VisitorMetrix- Installation",
+      "url": "https://docs.capillarytech.com/docs/visitormetrix-installation"
+    },
+    {
+      "title": "VisitorMetrix Configuration for InStore, Bypass and FFCR",
+      "url": "https://docs.capillarytech.com/docs/visitormetrix-configuration-for-instore-bypass-and-ffcr"
+    },
+    {
+      "title": "VisitorSense",
+      "url": "https://docs.capillarytech.com/docs/visitorsense"
+    },
+    {
+      "title": "Installing VisitorMetrix",
+      "url": "https://docs.capillarytech.com/docs/installing-visitormetrix"
+    },
+    {
+      "title": "Installing CaptureEdge",
+      "url": "https://docs.capillarytech.com/docs/installing-captureedge"
+    },
+    {
+      "title": "Configuring VisitorSense",
+      "url": "https://docs.capillarytech.com/docs/configuring-visitorsense"
+    },
+    {
+      "title": "Configuring the Staff Counter Switch",
+      "url": "https://docs.capillarytech.com/docs/configuring-the-staff-counter-switch-1"
+    },
+    {
+      "title": "VisitorSense FAQs",
+      "url": "https://docs.capillarytech.com/docs/visitorsense-faqs"
+    },
+    {
+      "title": "VisitorMetrix Troubleshooting Guide",
+      "url": "https://docs.capillarytech.com/docs/visitormetrix-troubleshooting-guide"
+    },
+    {
+      "title": "VisitorTrax Overview",
+      "url": "https://docs.capillarytech.com/docs/visitortrax-overview"
+    },
+    {
+      "title": "Device Installation",
+      "url": "https://docs.capillarytech.com/docs/device-installation"
+    },
+    {
+      "title": "Device Configuration",
+      "url": "https://docs.capillarytech.com/docs/device-configuration"
+    },
+    {
+      "title": "Zone Configuration",
+      "url": "https://docs.capillarytech.com/docs/zone-configuration"
+    },
+    {
+      "title": "VisitorTrax Report",
+      "url": "https://docs.capillarytech.com/docs/visitortrax-report"
+    },
+    {
+      "title": "Store2Door+",
+      "url": "https://docs.capillarytech.com/docs/store2door"
+    },
+    {
+      "title": "Create & Activate Staff Account",
+      "url": "https://docs.capillarytech.com/docs/create-activate-staff-account"
+    },
+    {
+      "title": "Create Call Task",
+      "url": "https://docs.capillarytech.com/docs/create-call-task"
+    },
+    {
+      "title": "Setup WhatsApp Business Account",
+      "url": "https://docs.capillarytech.com/docs/setup-whatsapp-business-account"
+    },
+    {
+      "title": "Create Store-Level Custom Fields for S2D+",
+      "url": "https://docs.capillarytech.com/docs/create-store-level-custom-fields-for-s2d"
+    },
+    {
+      "title": "Send Task Messages through StoreMax",
+      "url": "https://docs.capillarytech.com/docs/send-task-messages-through-storemax"
+    },
+    {
+      "title": "Create Order on Anywhere Commerce Platform(ACP)",
+      "url": "https://docs.capillarytech.com/docs/create-order-on-anywhere-commerce-platformacp"
+    },
+    {
+      "title": "S2D+ FAQs - Internal",
+      "url": "https://docs.capillarytech.com/docs/s2d-faqs-internal"
+    },
+    {
+      "title": "S2D+ FAQs - Client",
+      "url": "https://docs.capillarytech.com/docs/s2d-faqs-client"
+    },
+    {
+      "title": "View Leaderboard",
+      "url": "https://docs.capillarytech.com/docs/view-leaderboard"
+    },
+    {
+      "title": "View and Manage Tasks",
+      "url": "https://docs.capillarytech.com/docs/view-and-manage-tasks"
+    },
+    {
+      "title": "View Reports",
+      "url": "https://docs.capillarytech.com/docs/view-reports"
+    },
+    {
+      "title": "Register a customer",
+      "url": "https://docs.capillarytech.com/docs/register-a-customer"
+    },
+    {
+      "title": "Add or sell products",
+      "url": "https://docs.capillarytech.com/docs/add-or-sell-products"
+    },
+    {
+      "title": "Other Features",
+      "url": "https://docs.capillarytech.com/docs/other-features"
+    }
+  ],
+  "Announcements": [
+    {
+      "title": "Product Highlights",
+      "url": "https://docs.capillarytech.com/docs/product-highlights"
+    },
+    {
+      "title": "Loyalty alone won’t increase ACV. This will.",
+      "url": "https://docs.capillarytech.com/docs/loyalty-alone-wont-increase-acv-this-will"
+    },
+    {
+      "title": "Your Customers Want Rewards—And So Do Their Friends 💰",
+      "url": "https://docs.capillarytech.com/docs/your-customers-want-rewardsand-so-do-their-friends"
+    },
+    {
+      "title": "An easy fix for app-onboarding drop-offs",
+      "url": "https://docs.capillarytech.com/docs/an-easy-fix-for-app-onboarding-drop-offs"
+    },
+    {
+      "title": "Finalists at the Oscars (you can too!)",
+      "url": "https://docs.capillarytech.com/docs/finalists-at-the-oscars-you-can-too"
+    },
+    {
+      "title": "Is your loyalty program social?",
+      "url": "https://docs.capillarytech.com/docs/is-your-loyalty-program-social"
+    },
+    {
+      "title": "Your customers want more points 💰",
+      "url": "https://docs.capillarytech.com/docs/your-customers-want-more-points"
+    },
+    {
+      "title": "Loyalty program differentiation in 3 tested ways",
+      "url": "https://docs.capillarytech.com/docs/loyalty-program-differentiation-in-3-tested-ways"
+    },
+    {
+      "title": "Avoid these 2 loyalty program mistakes",
+      "url": "https://docs.capillarytech.com/docs/avoid-these-2-loyalty-program-mistakes"
+    },
+    {
+      "title": "3 common loyalty blindspots",
+      "url": "https://docs.capillarytech.com/docs/3-common-loyalty-blindspots"
+    },
+    {
+      "title": "Do you really need a loyalty app? 🤔",
+      "url": "https://docs.capillarytech.com/docs/do-you-really-need-a-loyalty-app"
+    },
+    {
+      "title": "Want to build emotional loyalty? Some tactical advice.",
+      "url": "https://docs.capillarytech.com/docs/want-to-build-emotional-loyalty-some-tactical-advice"
+    },
+    {
+      "title": "One trick to 3X the odds of customer conversion",
+      "url": "https://docs.capillarytech.com/docs/one-trick-to-3x-the-odds-of-customer-conversion"
+    },
+    {
+      "title": "Is your loyalty program the best–everywhere?",
+      "url": "https://docs.capillarytech.com/docs/is-your-loyalty-program-the-besteverywhere"
+    },
+    {
+      "title": "Does your gamified loyalty program have surprises?",
+      "url": "https://docs.capillarytech.com/docs/does-your-gamified-loyalty-program-have-surprises"
+    },
+    {
+      "title": "Struggling to procure customer data from IT? Do this",
+      "url": "https://docs.capillarytech.com/docs/struggling-to-procure-customer-data-from-it-do-this"
+    },
+    {
+      "title": "Reward redemptions low? Try this.",
+      "url": "https://docs.capillarytech.com/docs/reward-redemptions-low-try-this"
+    },
+    {
+      "title": "You’re missing out on insights to grow your loyalty program 👀",
+      "url": "https://docs.capillarytech.com/docs/youre-missing-out-on-insights-to-grow-your-loyalty-program"
+    },
+    {
+      "title": "Using Milestones? Think beyond gamification 🎮",
+      "url": "https://docs.capillarytech.com/docs/using-milestones-think-beyond-gamification"
+    },
+    {
+      "title": "Cookies delivered! Is traditional marketing back?",
+      "url": "https://docs.capillarytech.com/docs/cookies-delivered-is-traditional-marketing-back"
+    },
+    {
+      "title": "Improve customers’ experiences without collecting more data",
+      "url": "https://docs.capillarytech.com/docs/improve-customers-experiences-without-collecting-more-data"
+    },
+    {
+      "title": "Sending personalized marketing comms the better way 📨",
+      "url": "https://docs.capillarytech.com/docs/sending-personalized-marketing-comms-the-better-way"
+    },
+    {
+      "title": "Money Saving Tip: Terminate your WhatsApp BSP Partnership 💸",
+      "url": "https://docs.capillarytech.com/docs/money-saving-tip-terminate-your-whatsapp-bsp-partnership"
+    },
+    {
+      "title": "Want to improve loyalty program ROI? 🤔",
+      "url": "https://docs.capillarytech.com/docs/want-to-improve-loyalty-program-roi"
+    },
+    {
+      "title": "Your loyalty program needs a capable data platform",
+      "url": "https://docs.capillarytech.com/docs/your-loyalty-program-needs-a-capable-data-platform"
+    },
+    {
+      "title": "Successfully moved a billion records (& reduced downtime for you!)",
+      "url": "https://docs.capillarytech.com/docs/successfully-moved-a-billion-records-reduced-downtime-for-you"
+    },
+    {
+      "title": "Engagement pays with Milestones 💸",
+      "url": "https://docs.capillarytech.com/docs/engagement-pays-with-milestones"
+    },
+    {
+      "title": "Try Connect+ for 7 days. No change? We make it better.",
+      "url": "https://docs.capillarytech.com/docs/try-connect-for-7-days-no-change-we-make-it-better"
+    },
+    {
+      "title": "Defining Loyalty ROI of 2024: Clarissa Schealer’s expert guidance",
+      "url": "https://docs.capillarytech.com/docs/defining-loyalty-roi-of-2024-clarissa-schealers-expert-guidance"
+    },
+    {
+      "title": "A letter from Aira: Campaign setups got blazingly fast ⚡",
+      "url": "https://docs.capillarytech.com/docs/a-letter-from-aira-campaign-setups-got-blazingly-fast"
+    },
+    {
+      "title": "Can badges alone facilitate long-term loyalty? 🤔",
+      "url": "https://docs.capillarytech.com/docs/can-badges-alone-facilitate-long-term-loyalty"
+    },
+    {
+      "title": "Do your customers care about badges? 🤔",
+      "url": "https://docs.capillarytech.com/docs/do-your-customers-care-about-badges"
+    },
+    {
+      "title": "2 ways to increase repeat purchases with Capillary Journeys!",
+      "url": "https://docs.capillarytech.com/docs/2-ways-to-increase-repeat-purchases-with-capillary-journeys"
+    },
+    {
+      "title": "2 ways reel in buyers beyond the festive season🤠 | Mobile SDK",
+      "url": "https://docs.capillarytech.com/docs/2-ways-reel-in-buyers-beyond-the-festive-season-mobile-sdk"
+    },
+    {
+      "title": "Introducing Rewards+: Where Loyalty Meets Rewards!",
+      "url": "https://docs.capillarytech.com/docs/introducing-rewards-where-loyalty-meets-rewards"
+    },
+    {
+      "title": "Code: LEAKPUTTY?CONFIGURATION",
+      "url": "https://docs.capillarytech.com/docs/code-leakputtyconfiguration"
+    },
+    {
+      "title": "Your guide to overcoming the next customer data crisis ⚠️",
+      "url": "https://docs.capillarytech.com/docs/your-guide-to-overcoming-the-next-customer-data-crisis-%EF%B8%8F"
+    },
+    {
+      "title": "Gamify brand experiences in four interesting ways! 🏓",
+      "url": "https://docs.capillarytech.com/docs/gamify-brand-experiences-in-four-interesting-ways"
+    },
+    {
+      "title": "Focus on customer engagement this economic downturn 🤫",
+      "url": "https://docs.capillarytech.com/docs/focus-on-customer-engagement-this-economic-downturn"
+    },
+    {
+      "title": "Engagement = 0? 🥹 Our product can help.",
+      "url": "https://docs.capillarytech.com/docs/engagement-0-our-product-can-help"
+    },
+    {
+      "title": "Protect your loyalty program from fraud🔐",
+      "url": "https://docs.capillarytech.com/docs/protect-your-loyalty-program-from-fraud"
+    },
+    {
+      "title": "Clearing crumbs 🍪 | CDP in a cookieless world",
+      "url": "https://docs.capillarytech.com/docs/clearing-crumbs-cdp-in-a-cookieless-world"
+    },
+    {
+      "title": "One Rewards Catalog, Multiple Reward Structures 🤹",
+      "url": "https://docs.capillarytech.com/docs/one-rewards-catalog-multiple-reward-structures"
+    },
+    {
+      "title": "We have a tool to hook your buyers to your brand 🔗",
+      "url": "https://docs.capillarytech.com/docs/we-have-a-tool-to-hook-your-buyers-to-your-brand"
+    },
+    {
+      "title": "A good Loyalty Program is your brand’s REAL hero!",
+      "url": "https://docs.capillarytech.com/docs/a-good-loyalty-program-is-your-brands-real-hero"
+    },
+    {
+      "title": "We’re expanding Aira’s capabilities",
+      "url": "https://docs.capillarytech.com/docs/were-expanding-airas-capabilities"
+    },
+    {
+      "title": "Ask Captain Bhuvanesh Gogineni - Senior Engagement Manager, Customer Success!",
+      "url": "https://docs.capillarytech.com/docs/ask-captain-bhuvanesh-gogineni-senior-engagement-manager-customer-success"
+    },
+    {
+      "title": "Want to increase your WhatsApp Engagement? Try using Buttons!",
+      "url": "https://docs.capillarytech.com/docs/want-to-increase-your-whatsapp-engagement-try-using-buttons"
+    },
+    {
+      "title": "Industry Tailored Data Management",
+      "url": "https://docs.capillarytech.com/docs/industry-tailored-data-management"
+    },
+    {
+      "title": "Ads personalization",
+      "url": "https://docs.capillarytech.com/docs/ads-personalization"
+    },
+    {
+      "title": "How a Capillary Marketer uses Engage+",
+      "url": "https://docs.capillarytech.com/docs/how-a-capillary-marketer-uses-engage"
+    },
+    {
+      "title": "Capillary's interactive Email builder",
+      "url": "https://docs.capillarytech.com/docs/capillarys-interactive-email-builder"
+    },
+    {
+      "title": "The Art of Emotional Loyalty, and how to ace it 🧘",
+      "url": "https://docs.capillarytech.com/docs/the-art-of-emotional-loyalty-and-how-to-ace-it"
+    },
+    {
+      "title": "Meet AskAira: your ROI-boosting AI genie!",
+      "url": "https://docs.capillarytech.com/docs/meet-askaira-your-roi-boosting-ai-genie"
+    },
+    {
+      "title": "Success story: The secret to delicious customer experiences",
+      "url": "https://docs.capillarytech.com/docs/success-story-the-secret-to-delicious-customer-experiences"
+    },
+    {
+      "title": "Ask Captain Siew Hoon – Senior Manager, Presales",
+      "url": "https://docs.capillarytech.com/docs/ask-captain-siew-hoon-senior-manager-presales"
+    },
+    {
+      "title": "Analyze, experiment, and execute with ease with the most powerful segmentation tools!",
+      "url": "https://docs.capillarytech.com/docs/analyze-experiment-and-execute-with-ease-with-the-most-powerful-segmentation-tools"
+    },
+    {
+      "title": "Build your dream campaigns!",
+      "url": "https://docs.capillarytech.com/docs/build-your-dream-campaigns"
+    },
+    {
+      "title": "Activate data in the most interesting ways!",
+      "url": "https://docs.capillarytech.com/docs/activate-data-in-the-most-interesting-ways"
+    },
+    {
+      "title": "Looking for a win-win engagement? We’ve got you!",
+      "url": "https://docs.capillarytech.com/docs/looking-for-a-win-win-engagement-weve-got-you"
+    },
+    {
+      "title": "Loyalty, Engage, Platforms & Insights - the holy trifecta!",
+      "url": "https://docs.capillarytech.com/docs/loyalty-engage-platforms-inisghts-the-holy-trifecta"
+    },
+    {
+      "title": "Capillary’s creative studio",
+      "url": "https://docs.capillarytech.com/docs/capillarys-creative-studio"
+    },
+    {
+      "title": "Create favorable customer habits with infinte loops",
+      "url": "https://docs.capillarytech.com/docs/create-favorable-customer-habits-with-infinte-loops"
+    },
+    {
+      "title": "Success Story - Milestone Loyalty",
+      "url": "https://docs.capillarytech.com/docs/success-story-milestone-loyalty"
+    },
+    {
+      "title": "Multiple Loyalty Programs",
+      "url": "https://docs.capillarytech.com/docs/multiple-loyalty-programs"
+    },
+    {
+      "title": "Customer first Data Guardians",
+      "url": "https://docs.capillarytech.com/docs/customer-first-data-guardians"
+    },
+    {
+      "title": "Gold Standard Enterprise Readiness",
+      "url": "https://docs.capillarytech.com/docs/gold-standard-enterprise-readiness"
+    },
+    {
+      "title": "Playtime for Marketers",
+      "url": "https://docs.capillarytech.com/docs/playtime-for-marketers"
+    },
+    {
+      "title": "Experiential Loyalty",
+      "url": "https://docs.capillarytech.com/docs/experiential-loyalty"
+    },
+    {
+      "title": "2023 Product Vision",
+      "url": "https://docs.capillarytech.com/docs/2023-product-vision"
+    },
+    {
+      "title": "Campaigns- Seal the deal with the best upselling strategy",
+      "url": "https://docs.capillarytech.com/docs/campaigns-seal-the-deal-with-the-best-upselling-strategy"
+    },
+    {
+      "title": "Personalising campaigns with Capillary",
+      "url": "https://docs.capillarytech.com/docs/personalising-campaigns-with-capillary"
+    },
+    {
+      "title": "Capillary's Funnel Chart",
+      "url": "https://docs.capillarytech.com/docs/capillarys-funnel-chart"
+    },
+    {
+      "title": "Migration Charts with Insights+",
+      "url": "https://docs.capillarytech.com/docs/migration-charts-with-insights"
+    },
+    {
+      "title": "Multi Loyalty Program",
+      "url": "https://docs.capillarytech.com/docs/multi-loyalty-program"
+    },
+    {
+      "title": "Capillary's Emotional Loyalty",
+      "url": "https://docs.capillarytech.com/docs/capillarys-emotional-loyalty"
+    },
+    {
+      "title": "Capillary's User Documentation",
+      "url": "https://docs.capillarytech.com/docs/capillarys-user-documentation"
+    },
+    {
+      "title": "Customer Segmentation with Capillary Insights+",
+      "url": "https://docs.capillarytech.com/docs/customer-segmentation-with-capillary-insights"
+    },
+    {
+      "title": "CRM Ads",
+      "url": "https://docs.capillarytech.com/docs/crm-ads"
+    },
+    {
+      "title": "Capillary's Group Loyalty",
+      "url": "https://docs.capillarytech.com/docs/capillarys-group-loyalty"
+    },
+    {
+      "title": "Cart Promotions",
+      "url": "https://docs.capillarytech.com/docs/cart-promotions-2"
+    },
+    {
+      "title": "Capillary's Coalition Loyalty",
+      "url": "https://docs.capillarytech.com/docs/capillarys-coalition-loyalty"
+    },
+    {
+      "title": "All new Member Care UI experience",
+      "url": "https://docs.capillarytech.com/docs/all-new-member-care-ui-experience"
+    },
+    {
+      "title": "Introducing Navigation Panel in Insights+",
+      "url": "https://docs.capillarytech.com/docs/introducing-navigation-panel-in-insights"
+    },
+    {
+      "title": "WhatsApp Marketing",
+      "url": "https://docs.capillarytech.com/docs/whatsapp-marketing"
+    },
+    {
+      "title": "Nudges",
+      "url": "https://docs.capillarytech.com/docs/nudges"
+    },
+    {
+      "title": "Subscription-based loyalty",
+      "url": "https://docs.capillarytech.com/docs/subscription-based-loyalty"
+    },
+    {
+      "title": "Release Notes",
+      "url": "https://docs.capillarytech.com/docs/2025"
+    },
+    {
+      "title": "2025",
+      "url": "https://docs.capillarytech.com/docs/january-february-march-2025"
+    },
+    {
+      "title": "2024",
+      "url": "https://docs.capillarytech.com/docs/january-february-march24"
+    },
+    {
+      "title": "April-May-June 2024",
+      "url": "https://docs.capillarytech.com/docs/april-may-june24"
+    },
+    {
+      "title": "July-August-September 2024",
+      "url": "https://docs.capillarytech.com/docs/july-august-september24"
+    },
+    {
+      "title": "October-November-December 2024",
+      "url": "https://docs.capillarytech.com/docs/october-november-december24"
+    },
+    {
+      "title": "2023",
+      "url": "https://docs.capillarytech.com/docs/january-february-march23"
+    },
+    {
+      "title": "April-May-June 2023",
+      "url": "https://docs.capillarytech.com/docs/april-may-june23"
+    },
+    {
+      "title": "July-August-September 2023",
+      "url": "https://docs.capillarytech.com/docs/july-august-september23"
+    },
+    {
+      "title": "October-November-December 2023",
+      "url": "https://docs.capillarytech.com/docs/october-november-december23"
+    },
+    {
+      "title": "2022",
+      "url": "https://docs.capillarytech.com/docs/january-february-march22"
+    },
+    {
+      "title": "April-May-June 2022",
+      "url": "https://docs.capillarytech.com/docs/april-may-june22"
+    },
+    {
+      "title": "July-August-September 2022",
+      "url": "https://docs.capillarytech.com/docs/july-august-september22"
+    },
+    {
+      "title": "October-November-December 2022",
+      "url": "https://docs.capillarytech.com/docs/october-november-december22"
+    },
+    {
+      "title": "2021",
+      "url": "https://docs.capillarytech.com/docs/january-february-march21"
+    },
+    {
+      "title": "April-May-June 2021",
+      "url": "https://docs.capillarytech.com/docs/april-may-june21"
+    },
+    {
+      "title": "July-August-September 2021",
+      "url": "https://docs.capillarytech.com/docs/july-august-september21"
+    },
+    {
+      "title": "October-November-December 2021",
+      "url": "https://docs.capillarytech.com/docs/october-november-december21"
+    }
+  ],
+  "Rewards+": [
+    {
+      "title": "Overview",
+      "url": "https://docs.capillarytech.com/docs/overview-rewards_plus"
+    }
+  ],
+  "api documentation": [
+    {
+      "title": "Getting Started",
+      "url": "https://docs.capillarytech.com/reference/apioverview"
+    },
+    {
+      "title": "API reference index",
+      "url": "https://docs.capillarytech.com/reference/api-index"
+    },
+    {
+      "title": "Authentication",
+      "url": "https://docs.capillarytech.com/reference/authentication"
+    },
+    {
+      "title": "OAuth",
+      "url": "https://docs.capillarytech.com/reference/oauth"
+    },
+    {
+      "title": "Basic authentication",
+      "url": "https://docs.capillarytech.com/reference/basic-authentication"
+    },
+    {
+      "title": "Auth for consumer or end-customer apps",
+      "url": "https://docs.capillarytech.com/reference/auth-for-consumer-or-end-customer-apps"
+    },
+    {
+      "title": "Authorisation",
+      "url": "https://docs.capillarytech.com/reference/authorisation"
+    },
+    {
+      "title": "Rate limits",
+      "url": "https://docs.capillarytech.com/reference/rate-limits"
+    },
+    {
+      "title": "API status codes",
+      "url": "https://docs.capillarytech.com/reference/errors-and-warnings"
+    },
+    {
+      "title": "Timezone Management",
+      "url": "https://docs.capillarytech.com/reference/timezone-management"
+    },
+    {
+      "title": "Make your first API request",
+      "url": "https://docs.capillarytech.com/reference/make-your-first-api-call"
+    },
+    {
+      "title": "Customer (V1)",
+      "url": "https://docs.capillarytech.com/reference/customer"
+    },
+    {
+      "title": "Recommendations",
+      "url": "https://docs.capillarytech.com/reference/recommendations"
+    },
+    {
+      "title": "Get User Recommendationsget",
+      "url": "https://docs.capillarytech.com/reference/get-user-recommendations"
+    },
+    {
+      "title": "Get Item Recommendationsget",
+      "url": "https://docs.capillarytech.com/reference/get-item-recommendations"
+    },
+    {
+      "title": "Get Cart Recommendationsget",
+      "url": "https://docs.capillarytech.com/reference/get-cart-recommendations"
+    },
+    {
+      "title": "Change identifier on Auth enginepost",
+      "url": "https://docs.capillarytech.com/reference/change_identifier-on-auth-engine"
+    },
+    {
+      "title": "Add Customerpost",
+      "url": "https://docs.capillarytech.com/reference/add-customer"
+    },
+    {
+      "title": "Update customer detailsput",
+      "url": "https://docs.capillarytech.com/reference/update-customer-details_v1api"
+    },
+    {
+      "title": "Update Customer Identifierput",
+      "url": "https://docs.capillarytech.com/reference/update-customer-identifiers-1"
+    },
+    {
+      "title": "Search Customersget",
+      "url": "https://docs.capillarytech.com/reference/search-customers"
+    },
+    {
+      "title": "Get customer detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-details-v1api"
+    },
+    {
+      "title": "Get Customer Transactionsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-transactions"
+    },
+    {
+      "title": "Get Customer Redemptionsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-redemptions"
+    },
+    {
+      "title": "Add/Update Customer Notespost",
+      "url": "https://docs.capillarytech.com/reference/addupdate-customer-notes"
+    },
+    {
+      "title": "Get Customer Notesget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-notes"
+    },
+    {
+      "title": "Get Customer Interactionsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-interactions"
+    },
+    {
+      "title": "Add Ticketpost",
+      "url": "https://docs.capillarytech.com/reference/add-ticket"
+    },
+    {
+      "title": "Get Ticket Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-ticket-details"
+    },
+    {
+      "title": "Get Referral Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-referral-details"
+    },
+    {
+      "title": "Add/Update Customer Preferencespost",
+      "url": "https://docs.capillarytech.com/reference/addupdate-customer-preferences"
+    },
+    {
+      "title": "Get Customer Preferencesget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-preferences"
+    },
+    {
+      "title": "Update Subscription Detailspost",
+      "url": "https://docs.capillarytech.com/reference/update-subscription-details-1"
+    },
+    {
+      "title": "Get Subscription Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-subscription-details-1"
+    },
+    {
+      "title": "Customer (V2)",
+      "url": "https://docs.capillarytech.com/reference/customer-1"
+    },
+    {
+      "title": "Add Customerpost",
+      "url": "https://docs.capillarytech.com/reference/v2-add-customer"
+    },
+    {
+      "title": "Get Customer IDget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-id"
+    },
+    {
+      "title": "Update Identifier/Issue Cardpost",
+      "url": "https://docs.capillarytech.com/reference/update-identifiersissue-card"
+    },
+    {
+      "title": "Upsert customerpost",
+      "url": "https://docs.capillarytech.com/reference/customer-upsert-api"
+    },
+    {
+      "title": "Associate Customerpost",
+      "url": "https://docs.capillarytech.com/reference/associate-customer"
+    },
+    {
+      "title": "Get Customer Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-details-v2"
+    },
+    {
+      "title": "Get customer hierarchy in a user groupget",
+      "url": "https://docs.capillarytech.com/reference/customer-hierarchy"
+    },
+    {
+      "title": "Update Customer Detailsput",
+      "url": "https://docs.capillarytech.com/reference/update-customer-detail"
+    },
+    {
+      "title": "Update association detailsput",
+      "url": "https://docs.capillarytech.com/reference/update-association-details"
+    },
+    {
+      "title": "Search Customersget",
+      "url": "https://docs.capillarytech.com/reference/search-customers-1"
+    },
+    {
+      "title": "Update Subscription Detailspost",
+      "url": "https://docs.capillarytech.com/reference/update-subscription-details"
+    },
+    {
+      "title": "Get Subscription Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-subscription-details-1-1"
+    },
+    {
+      "title": "Get Customer Tracker Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get_v2-customers-customerid-trackers"
+    },
+    {
+      "title": "Get Points Expiry Scheduleget",
+      "url": "https://docs.capillarytech.com/reference/get-points-expiry-schedule"
+    },
+    {
+      "title": "Get Points Expiry Schedule (Light API)get",
+      "url": "https://docs.capillarytech.com/reference/get-points-expiry-schedule-light-api"
+    },
+    {
+      "title": "Get Loyalty Eventsget",
+      "url": "https://docs.capillarytech.com/reference/get-loyalty-events"
+    },
+    {
+      "title": "Get Loyalty Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-loyalty-details-1"
+    },
+    {
+      "title": "Get Points Transfer Summaryget",
+      "url": "https://docs.capillarytech.com/reference/get-points-transfer-summary"
+    },
+    {
+      "title": "Get Points Balanceget",
+      "url": "https://docs.capillarytech.com/reference/get-points-balance"
+    },
+    {
+      "title": "Get Customer Tierget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-tier"
+    },
+    {
+      "title": "Get Points Conversion Scheduleget",
+      "url": "https://docs.capillarytech.com/reference/get-points-conversion-schedule"
+    },
+    {
+      "title": "Get Detailed Customer Coupon Dataget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-coupons-detailed"
+    },
+    {
+      "title": "Get Retro Requestsget",
+      "url": "https://docs.capillarytech.com/reference/get-retro-requests"
+    },
+    {
+      "title": "Get Identifier Change Requestsget",
+      "url": "https://docs.capillarytech.com/reference/get-identifier-change-requests"
+    },
+    {
+      "title": "Get Goodwill Requestsget",
+      "url": "https://docs.capillarytech.com/reference/get-goodwill-requests"
+    },
+    {
+      "title": "Request Goodwill points (Group)post",
+      "url": "https://docs.capillarytech.com/reference/get-goodwill-request-group"
+    },
+    {
+      "title": "Add Customer Imagepost",
+      "url": "https://docs.capillarytech.com/reference/add-customer-image"
+    },
+    {
+      "title": "Delete Customer Imagedelete",
+      "url": "https://docs.capillarytech.com/reference/delete-customer-image"
+    },
+    {
+      "title": "Link/Delink Cardpost",
+      "url": "https://docs.capillarytech.com/reference/linkdelink-card"
+    },
+    {
+      "title": "Get Customer Status Logget",
+      "url": "https://docs.capillarytech.com/reference/get-status-log-1"
+    },
+    {
+      "title": "Get Customer Subscription Logget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-subscription-log"
+    },
+    {
+      "title": "Get Customer Imageget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-image"
+    },
+    {
+      "title": "Get user group customer tracker detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-user-group-customer-tracker-details"
+    },
+    {
+      "title": "Get customer transactionsget",
+      "url": "https://docs.capillarytech.com/reference/v2api-get-customer-transactions"
+    },
+    {
+      "title": "Get Customer Interactionsget",
+      "url": "https://docs.capillarytech.com/reference/v2get-customer-interactions"
+    },
+    {
+      "title": "Status codes",
+      "url": "https://docs.capillarytech.com/reference/status-codes-customer"
+    },
+    {
+      "title": "Customer (V2 Lookup)",
+      "url": "https://docs.capillarytech.com/reference/customer-lookup"
+    },
+    {
+      "title": "Update Customer Detailsput",
+      "url": "https://docs.capillarytech.com/reference/update-customers-lookup"
+    },
+    {
+      "title": "Get Customer Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-details"
+    },
+    {
+      "title": "Update Customer Statusput",
+      "url": "https://docs.capillarytech.com/reference/update-customer-status"
+    },
+    {
+      "title": "Get Subscription Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-subscription-details"
+    },
+    {
+      "title": "Get Customer Loyalty Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-loyalty-details"
+    },
+    {
+      "title": "Get Retro Requestsget",
+      "url": "https://docs.capillarytech.com/reference/get-retro-requests-1"
+    },
+    {
+      "title": "Add Customer Imagepost",
+      "url": "https://docs.capillarytech.com/reference/set-customer-image-1"
+    },
+    {
+      "title": "Get Referrals (Lookup)get",
+      "url": "https://docs.capillarytech.com/reference/get-referrals-lookup"
+    },
+    {
+      "title": "Get Customer Recommendationsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-recommendations"
+    },
+    {
+      "title": "Get Points Balanceget",
+      "url": "https://docs.capillarytech.com/reference/get_points_balance"
+    },
+    {
+      "title": "Get Customer Tierget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-tier-1"
+    },
+    {
+      "title": "Get Points Conversion Scheduleget",
+      "url": "https://docs.capillarytech.com/reference/get-points-conversion-schedule-1"
+    },
+    {
+      "title": "Customer Labels",
+      "url": "https://docs.capillarytech.com/reference/customer-labels"
+    },
+    {
+      "title": "Add Labelspost",
+      "url": "https://docs.capillarytech.com/reference/add-labels"
+    },
+    {
+      "title": "Get Org Labelsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-labels"
+    },
+    {
+      "title": "Tag Customers (to Labels)post",
+      "url": "https://docs.capillarytech.com/reference/tag-customers-to-labels"
+    },
+    {
+      "title": "Get Customer Labelsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-labels"
+    },
+    {
+      "title": "Search Customers by Labelget",
+      "url": "https://docs.capillarytech.com/reference/search-customers-by-labels"
+    },
+    {
+      "title": "Transaction",
+      "url": "https://docs.capillarytech.com/reference/transaction"
+    },
+    {
+      "title": "Add Transactionpost",
+      "url": "https://docs.capillarytech.com/reference/add-transaction"
+    },
+    {
+      "title": "Add Transaction with Local Currencypost",
+      "url": "https://docs.capillarytech.com/reference/add-transaction-with-local-currency"
+    },
+    {
+      "title": "Update Transaction Detailspost",
+      "url": "https://docs.capillarytech.com/reference/update-transaction-details"
+    },
+    {
+      "title": "Cancel Transaction Lineitempost",
+      "url": "https://docs.capillarytech.com/reference/cancel-transaction-lineitem"
+    },
+    {
+      "title": "Get Transaction Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get_transaction_detailsv1"
+    },
+    {
+      "title": "Return Transactionpost",
+      "url": "https://docs.capillarytech.com/reference/return-transaction"
+    },
+    {
+      "title": "Retro Transactionpost",
+      "url": "https://docs.capillarytech.com/reference/retro-transaction"
+    },
+    {
+      "title": "Transaction (V2)",
+      "url": "https://docs.capillarytech.com/reference/transaction_apis"
+    },
+    {
+      "title": "Add/Return transaction (single)post",
+      "url": "https://docs.capillarytech.com/reference/add-transaction-single"
+    },
+    {
+      "title": "Add/Return Transaction(bulk)post",
+      "url": "https://docs.capillarytech.com/reference/addreturn-transaction-bulk"
+    },
+    {
+      "title": "Update Transactionput",
+      "url": "https://docs.capillarytech.com/reference/update-transaction"
+    },
+    {
+      "title": "Update Transactions in Bulkput",
+      "url": "https://docs.capillarytech.com/reference/update-transaction-bulk"
+    },
+    {
+      "title": "Get Transaction Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-transaction-details"
+    },
+    {
+      "title": "Get transaction details using bill numberget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-transaction-details-with-bill-number"
+    },
+    {
+      "title": "Simulation transaction addpost",
+      "url": "https://docs.capillarytech.com/reference/simulate_transactionadd"
+    },
+    {
+      "title": "Expose Evaluation log for an eventpost",
+      "url": "https://docs.capillarytech.com/reference/expose-evaluation-log-for-an-event"
+    },
+    {
+      "title": "Status codes",
+      "url": "https://docs.capillarytech.com/reference/transaction-status-codes"
+    },
+    {
+      "title": "Transaction rejection",
+      "url": "https://docs.capillarytech.com/reference/getrejectedtransactions"
+    },
+    {
+      "title": "getReTriggerStatusget",
+      "url": "https://docs.capillarytech.com/reference/getretriggerstatus"
+    },
+    {
+      "title": "markFailedput",
+      "url": "https://docs.capillarytech.com/reference/markfailed"
+    },
+    {
+      "title": "retriggerTransactionAddpost",
+      "url": "https://docs.capillarytech.com/reference/retriggertransactionadd"
+    },
+    {
+      "title": "Coupon",
+      "url": "https://docs.capillarytech.com/reference/coupon-1"
+    },
+    {
+      "title": "Issue Couponpost",
+      "url": "https://docs.capillarytech.com/reference/issue-coupon-1"
+    },
+    {
+      "title": "Resend Couponget",
+      "url": "https://docs.capillarytech.com/reference/resend-coupon"
+    },
+    {
+      "title": "Redeem Couponpost",
+      "url": "https://docs.capillarytech.com/reference/redeem-coupon"
+    },
+    {
+      "title": "Get Coupon detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-coupon-detail"
+    },
+    {
+      "title": "Get Customer Couponsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-coupons"
+    },
+    {
+      "title": "Is Coupon Redeemableget",
+      "url": "https://docs.capillarytech.com/reference/is-coupon-redeemable"
+    },
+    {
+      "title": "Get Coupon series detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-coupon-series-details-1"
+    },
+    {
+      "title": "Coupon (V2 APIs)",
+      "url": "https://docs.capillarytech.com/reference/coupon"
+    },
+    {
+      "title": "Create coupon seriespost",
+      "url": "https://docs.capillarytech.com/reference/create-coupon-series"
+    },
+    {
+      "title": "Update coupon seriesput",
+      "url": "https://docs.capillarytech.com/reference/update-coupon-series"
+    },
+    {
+      "title": "Get coupon series detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-coupon-series-details"
+    },
+    {
+      "title": "Issue single couponpost",
+      "url": "https://docs.capillarytech.com/reference/issue-single-coupon"
+    },
+    {
+      "title": "Issue bulk couponspost",
+      "url": "https://docs.capillarytech.com/reference/issue-bulk-coupons"
+    },
+    {
+      "title": "Issue multiple coupons to a customer from a seriespost",
+      "url": "https://docs.capillarytech.com/reference/issue-bulk-coupon-with-count-from-series"
+    },
+    {
+      "title": "Redeem single couponpost",
+      "url": "https://docs.capillarytech.com/reference/redeem-single-coupon"
+    },
+    {
+      "title": "Redeem bulk couponspost",
+      "url": "https://docs.capillarytech.com/reference/redeem-bulk-coupons"
+    },
+    {
+      "title": "Check if coupon is Redeemableget",
+      "url": "https://docs.capillarytech.com/reference/check-if-coupon-is-redeemable"
+    },
+    {
+      "title": "Reactivate redeemed couponpost",
+      "url": "https://docs.capillarytech.com/reference/reactivate-redeemed-coupon"
+    },
+    {
+      "title": "Get coupon detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-coupon-details"
+    },
+    {
+      "title": "Get All Customer Couponsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-coupons-basic"
+    },
+    {
+      "title": "Update coupon redeem fieldput",
+      "url": "https://docs.capillarytech.com/reference/update-coupon-redeem-field"
+    },
+    {
+      "title": "Update coupon code expiry dateput",
+      "url": "https://docs.capillarytech.com/reference/update-coupon-code-expiry-date"
+    },
+    {
+      "title": "Revoke couponpost",
+      "url": "https://docs.capillarytech.com/reference/revoke-coupon"
+    },
+    {
+      "title": "Coupon Upload (V1 APIs)",
+      "url": "https://docs.capillarytech.com/reference/coupon-upload"
+    },
+    {
+      "title": "Upload Coupons (Batch)post",
+      "url": "https://docs.capillarytech.com/reference/upload-coupons-batch"
+    },
+    {
+      "title": "Upload Redeemed Couponspost",
+      "url": "https://docs.capillarytech.com/reference/upload-redeemed-coupons"
+    },
+    {
+      "title": "Get Uploaded Coupons' Statusget",
+      "url": "https://docs.capillarytech.com/reference/get-uploaded-coupons-status"
+    },
+    {
+      "title": "Get Status of Redeemed Couponsget",
+      "url": "https://docs.capillarytech.com/reference/get-status-of-redeemed-coupons"
+    },
+    {
+      "title": "Points",
+      "url": "https://docs.capillarytech.com/reference/points-v2-api"
+    },
+    {
+      "title": "Check if Points Transferablepost",
+      "url": "https://docs.capillarytech.com/reference/-customer-points-transferrable"
+    },
+    {
+      "title": "Transfer Customer Pointspost",
+      "url": "https://docs.capillarytech.com/reference/transfer-points-customer"
+    },
+    {
+      "title": "Get Points Transfer Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-points-transfer-details"
+    },
+    {
+      "title": "Reverse Redeemed Pointspost",
+      "url": "https://docs.capillarytech.com/reference/reverse-redeemed-points"
+    },
+    {
+      "title": "Group Points Transferrablepost",
+      "url": "https://docs.capillarytech.com/reference/group-points-transferrable"
+    },
+    {
+      "title": "Transfer Group Pointspost",
+      "url": "https://docs.capillarytech.com/reference/transfer-group-points"
+    },
+    {
+      "title": "Convert Promised Pointspost",
+      "url": "https://docs.capillarytech.com/reference/points-unlock-api"
+    },
+    {
+      "title": "Update redeem pointsput",
+      "url": "https://docs.capillarytech.com/reference/update-redeem-points"
+    },
+    {
+      "title": "Deduct points and alternate currencies from userpost",
+      "url": "https://docs.capillarytech.com/reference/deduct-points-and-alternatecurrencies-from-user"
+    },
+    {
+      "title": "Deduct points and alternate currencies from user using userIdpost",
+      "url": "https://docs.capillarytech.com/reference/deduct-points-and-alternatecurrencies-from-user-using-userid"
+    },
+    {
+      "title": "Points (v1.1)",
+      "url": "https://docs.capillarytech.com/reference/points-v11-api"
+    },
+    {
+      "title": "Check If Points Redeemableget",
+      "url": "https://docs.capillarytech.com/reference/check-if-points-redeemable"
+    },
+    {
+      "title": "Issue Validation Code (to redeem points)get",
+      "url": "https://docs.capillarytech.com/reference/issue-validation-code"
+    },
+    {
+      "title": "Redeem Pointspost",
+      "url": "https://docs.capillarytech.com/reference/redeem-points"
+    },
+    {
+      "title": "Points Ledger",
+      "url": "https://docs.capillarytech.com/reference/points-ledger"
+    },
+    {
+      "title": "Get Customer Ledger Balanceget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-ledger-balance"
+    },
+    {
+      "title": "Get Points Ledger Informationget",
+      "url": "https://docs.capillarytech.com/reference/get-ledger-information"
+    },
+    {
+      "title": "Get Points Ledger Explode infoget",
+      "url": "https://docs.capillarytech.com/reference/get-points-ledger-explode-info"
+    },
+    {
+      "title": "Connected Org APIs",
+      "url": "https://docs.capillarytech.com/reference/connectedorgs-get-customer-ledger-info"
+    },
+    {
+      "title": "Get Points Ledger Explode Info in Connected Orgsget",
+      "url": "https://docs.capillarytech.com/reference/connectedorgs-get-customer-ledger-explode-info"
+    },
+    {
+      "title": "Cards",
+      "url": "https://docs.capillarytech.com/reference/cards"
+    },
+    {
+      "title": "Generate Cardspost",
+      "url": "https://docs.capillarytech.com/reference/generate-cards"
+    },
+    {
+      "title": "Get Card Generation Logget",
+      "url": "https://docs.capillarytech.com/reference/get-card-generation-log"
+    },
+    {
+      "title": "Add Card (Single)post",
+      "url": "https://docs.capillarytech.com/reference/add-card-details-single"
+    },
+    {
+      "title": "Update Card Details (Single)put",
+      "url": "https://docs.capillarytech.com/reference/update-card-details-single"
+    },
+    {
+      "title": "Update Card Details (Bulk)put",
+      "url": "https://docs.capillarytech.com/reference/update-card-details-bulk"
+    },
+    {
+      "title": "Get Card Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-card-details"
+    },
+    {
+      "title": "Get Status Logget",
+      "url": "https://docs.capillarytech.com/reference/get-status-log"
+    },
+    {
+      "title": "Limit Active Cards per Customerpost",
+      "url": "https://docs.capillarytech.com/reference/limit-active-cards-per-customer"
+    },
+    {
+      "title": "Add Card Number to a Card Seriespost",
+      "url": "https://docs.capillarytech.com/reference/add-card-number-to-a-card-series"
+    },
+    {
+      "title": "Add External Reference ID to Cardput",
+      "url": "https://docs.capillarytech.com/reference/add-external-reference-id-to-card"
+    },
+    {
+      "title": "Search APIs",
+      "url": "https://docs.capillarytech.com/reference/create-meta-search"
+    },
+    {
+      "title": "Retrieve search criteria detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-meta"
+    },
+    {
+      "title": "Enable search index of older datapost",
+      "url": "https://docs.capillarytech.com/reference/enable-bulk-trigger"
+    },
+    {
+      "title": "Perform searchpost",
+      "url": "https://docs.capillarytech.com/reference/perform-search"
+    },
+    {
+      "title": "Deactivate search criteriadelete",
+      "url": "https://docs.capillarytech.com/reference/deactivate-search-criteria"
+    },
+    {
+      "title": "Badges",
+      "url": "https://docs.capillarytech.com/reference/badges"
+    },
+    {
+      "title": "Create badgespost",
+      "url": "https://docs.capillarytech.com/reference/create-badges-org"
+    },
+    {
+      "title": "Fixed Window Restriction in Badges",
+      "url": "https://docs.capillarytech.com/reference/fixed-window-use-case"
+    },
+    {
+      "title": "Update badgesput",
+      "url": "https://docs.capillarytech.com/reference/update-badges"
+    },
+    {
+      "title": "Get badge by IDget",
+      "url": "https://docs.capillarytech.com/reference/get-badge-by-id"
+    },
+    {
+      "title": "Get all badgesget",
+      "url": "https://docs.capillarytech.com/reference/get-all-badges"
+    },
+    {
+      "title": "Get fixed window detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-fixed-window-details"
+    },
+    {
+      "title": "Claim badgepost",
+      "url": "https://docs.capillarytech.com/reference/claim-badge"
+    },
+    {
+      "title": "Unclaim badgepost",
+      "url": "https://docs.capillarytech.com/reference/unclaim-badge"
+    },
+    {
+      "title": "Update activation status of badgeput",
+      "url": "https://docs.capillarytech.com/reference/update-the-activation-status-of-badge"
+    },
+    {
+      "title": "Enrol customers for badgespost",
+      "url": "https://docs.capillarytech.com/reference/enrol-customers-for-badges"
+    },
+    {
+      "title": "Issue badge (earn)post",
+      "url": "https://docs.capillarytech.com/reference/issue-badge-to-the-customer"
+    },
+    {
+      "title": "Multiple Badge Issuances",
+      "url": "https://docs.capillarytech.com/reference/multiple-badge-issuances"
+    },
+    {
+      "title": "Issue badge to multiple customerspost",
+      "url": "https://docs.capillarytech.com/reference/issue-badge-to-multiple-customers"
+    },
+    {
+      "title": "Import earned (issued) badges of customerpost",
+      "url": "https://docs.capillarytech.com/reference/import-earned-badges-of-customer"
+    },
+    {
+      "title": "Revoke enrolled badgespost",
+      "url": "https://docs.capillarytech.com/reference/revoke-enrolment-of-a-badge"
+    },
+    {
+      "title": "Revoke issued badgepost",
+      "url": "https://docs.capillarytech.com/reference/revoke-issual-of-a-badge"
+    },
+    {
+      "title": "Get badges for customerget",
+      "url": "https://docs.capillarytech.com/reference/get-badges-for-customer"
+    },
+    {
+      "title": "Get all customer badgesget",
+      "url": "https://docs.capillarytech.com/reference/get-all-customer-badges"
+    },
+    {
+      "title": "Get individual badge details of a customerget",
+      "url": "https://docs.capillarytech.com/reference/get-individual-badge-details-of-a-customer"
+    },
+    {
+      "title": "Create badges grouppost",
+      "url": "https://docs.capillarytech.com/reference/create-badges-group"
+    },
+    {
+      "title": "Update badges groupput",
+      "url": "https://docs.capillarytech.com/reference/update-badges-group"
+    },
+    {
+      "title": "Get group by IDget",
+      "url": "https://docs.capillarytech.com/reference/get-group-by-id"
+    },
+    {
+      "title": "Get all groupsget",
+      "url": "https://docs.capillarytech.com/reference/get-all-groups"
+    },
+    {
+      "title": "Create custom field for badgespost",
+      "url": "https://docs.capillarytech.com/reference/create-custom-field"
+    },
+    {
+      "title": "Update badge custom fieldput",
+      "url": "https://docs.capillarytech.com/reference/update-custom-field-badge"
+    },
+    {
+      "title": "Get badge custom field by IDget",
+      "url": "https://docs.capillarytech.com/reference/get-custom-field-by-id"
+    },
+    {
+      "title": "Get all badge custom fieldsget",
+      "url": "https://docs.capillarytech.com/reference/get-all-custom-fields"
+    },
+    {
+      "title": "Rewards Catalog",
+      "url": "https://docs.capillarytech.com/reference/rewards-catalog-api"
+    },
+    {
+      "title": "Create Reward Categorypost",
+      "url": "https://docs.capillarytech.com/reference/create-reward-category"
+    },
+    {
+      "title": "Update Reward Categoryput",
+      "url": "https://docs.capillarytech.com/reference/update-reward-category"
+    },
+    {
+      "title": "Get Reward Categoryget",
+      "url": "https://docs.capillarytech.com/reference/get-reward-category"
+    },
+    {
+      "title": "Create rewardpost",
+      "url": "https://docs.capillarytech.com/reference/post-create-reward"
+    },
+    {
+      "title": "Adding revenue metadata against a reward",
+      "url": "https://docs.capillarytech.com/reference/adding-revenue-metadata-against-a-reward"
+    },
+    {
+      "title": "Update Rewardput",
+      "url": "https://docs.capillarytech.com/reference/put-update-reward"
+    },
+    {
+      "title": "Claim Rewardpost",
+      "url": "https://docs.capillarytech.com/reference/claim-reward"
+    },
+    {
+      "title": "Issue single rewardpost",
+      "url": "https://docs.capillarytech.com/reference/post-issue-user-reward"
+    },
+    {
+      "title": "Reward Issuance with Quantity and Redemption Value Details",
+      "url": "https://docs.capillarytech.com/reference/reward-issuance-with-quantity-and-calculation-scenarios"
+    },
+    {
+      "title": "Issue bulk rewardpost",
+      "url": "https://docs.capillarytech.com/reference/issue-bulk-reward"
+    },
+    {
+      "title": "Idempotency Check for Issuing Reward",
+      "url": "https://docs.capillarytech.com/reference/idempotency-check-for-issuing-reward"
+    },
+    {
+      "title": "Get rewards for userget",
+      "url": "https://docs.capillarytech.com/reference/get-rewards-for-user"
+    },
+    {
+      "title": "Get all brand rewards using Brand IDget",
+      "url": "https://docs.capillarytech.com/reference/get-reward-list"
+    },
+    {
+      "title": "Get reward details by IDget",
+      "url": "https://docs.capillarytech.com/reference/get-reward-details-by-id"
+    },
+    {
+      "title": "Get brand rewardsget",
+      "url": "https://docs.capillarytech.com/reference/get-brands-rewards"
+    },
+    {
+      "title": "Get purchased rewards for user (New API)get",
+      "url": "https://docs.capillarytech.com/reference/get-rewards-for-user-new-api"
+    },
+    {
+      "title": "Get available reward details for user by idget",
+      "url": "https://docs.capillarytech.com/reference/get-user-brand-specific-rewards"
+    },
+    {
+      "title": "Get all reward transactions for a userget",
+      "url": "https://docs.capillarytech.com/reference/get-all-reward-transactions-for-a-user"
+    },
+    {
+      "title": "Get Reward Transaction Details using Reward Transaction IDget",
+      "url": "https://docs.capillarytech.com/reference/get-transaction-details-by-reward-transaction-id"
+    },
+    {
+      "title": "Create catalog promotionpost",
+      "url": "https://docs.capillarytech.com/reference/post-create-catalog-promotion"
+    },
+    {
+      "title": "Update catalog promotionput",
+      "url": "https://docs.capillarytech.com/reference/put-update-catalog-promotion"
+    },
+    {
+      "title": "Get catalog promotion detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-catalog-promotion-details"
+    },
+    {
+      "title": "Get list of promotionsget",
+      "url": "https://docs.capillarytech.com/reference/get-list-of-promotions"
+    },
+    {
+      "title": "Disable promotionput",
+      "url": "https://docs.capillarytech.com/reference/put-disable-promotion"
+    },
+    {
+      "title": "Get available brand rewardsget",
+      "url": "https://docs.capillarytech.com/reference/get-available-brand-rewards"
+    },
+    {
+      "title": "Create custom field for rewardpost",
+      "url": "https://docs.capillarytech.com/reference/post-create-custom-field"
+    },
+    {
+      "title": "Update reward custom fieldput",
+      "url": "https://docs.capillarytech.com/reference/update-custom-field"
+    },
+    {
+      "title": "Get all custom fieldsget",
+      "url": "https://docs.capillarytech.com/reference/get-custom-field"
+    },
+    {
+      "title": "Create reward grouppost",
+      "url": "https://docs.capillarytech.com/reference/create-group-reward"
+    },
+    {
+      "title": "Update rewards groupput",
+      "url": "https://docs.capillarytech.com/reference/update-group-reward"
+    },
+    {
+      "title": "Get rewards groupget",
+      "url": "https://docs.capillarytech.com/reference/get-group-rewards"
+    },
+    {
+      "title": "Get rewards group by IDget",
+      "url": "https://docs.capillarytech.com/reference/get-rewards-group-by-id"
+    },
+    {
+      "title": "Create points restrictionpost",
+      "url": "https://docs.capillarytech.com/reference/create-points-restriction"
+    },
+    {
+      "title": "Update points restrictionput",
+      "url": "https://docs.capillarytech.com/reference/update-points-restriction"
+    },
+    {
+      "title": "Get points constraintsget",
+      "url": "https://docs.capillarytech.com/reference/get-points-constraints"
+    },
+    {
+      "title": "Organisation Level Configuration for Rewards Catalogpost",
+      "url": "https://docs.capillarytech.com/reference/organisation-level-configuration-for-rewards-catalog"
+    },
+    {
+      "title": "Get Organisation Level Configurationget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-organisation-level-configuration-for-rewards-catalog"
+    },
+    {
+      "title": "Create a Vendorpost",
+      "url": "https://docs.capillarytech.com/reference/createvendor"
+    },
+    {
+      "title": "Enable or Disable a Vendorput",
+      "url": "https://docs.capillarytech.com/reference/enable-disable-vendor"
+    },
+    {
+      "title": "Create Vendor Redemptionpost",
+      "url": "https://docs.capillarytech.com/reference/create-vendor-redemption"
+    },
+    {
+      "title": "Get all vendor redemptionsget",
+      "url": "https://docs.capillarytech.com/reference/get-vendor-redemptions-details"
+    },
+    {
+      "title": "Get Vendor list for specific brandget",
+      "url": "https://docs.capillarytech.com/reference/get-vendor-list-for-specific-brand"
+    },
+    {
+      "title": "Get Vendor Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-vendor-explode-info"
+    },
+    {
+      "title": "Upload images to file servicepost",
+      "url": "https://docs.capillarytech.com/reference/post-images-to-file-service"
+    },
+    {
+      "title": "Create fulfillment statuspost",
+      "url": "https://docs.capillarytech.com/reference/create-fulfillment-status"
+    },
+    {
+      "title": "Update fulfillment statusput",
+      "url": "https://docs.capillarytech.com/reference/update-fulfillment-status"
+    },
+    {
+      "title": "Get fulfillment statusget",
+      "url": "https://docs.capillarytech.com/reference/get-fulfillment-status"
+    },
+    {
+      "title": "Update fulfilment status and transaction custom fields for issued rewardsput",
+      "url": "https://docs.capillarytech.com/reference/update-fulfilment-status-and-txn-custom-fields"
+    },
+    {
+      "title": "Create Reward Expiry Reminderpost",
+      "url": "https://docs.capillarytech.com/reference/create-reward-expiry-reminder"
+    },
+    {
+      "title": "Update Reward Expiry Reminderput",
+      "url": "https://docs.capillarytech.com/reference/update-reward-expiry-reminder"
+    },
+    {
+      "title": "Get Reward Expiry Reminderget",
+      "url": "https://docs.capillarytech.com/reference/get-reward-expiry-reminder"
+    },
+    {
+      "title": "Connected Org APIs",
+      "url": "https://docs.capillarytech.com/reference/get-all-available-rewards-for-user-in-a-connected-org"
+    },
+    {
+      "title": "Get reward details by ID in connected orgsget",
+      "url": "https://docs.capillarytech.com/reference/get-reward-details-by-id-in-a-connected-org"
+    },
+    {
+      "title": "Issue Reward in connected orgspost",
+      "url": "https://docs.capillarytech.com/reference/issue-bulk-reward-connected-org"
+    },
+    {
+      "title": "Get purchased rewards for user in connected orgsget",
+      "url": "https://docs.capillarytech.com/reference/get-purchased-rewards-for-user-connected-org"
+    },
+    {
+      "title": "Get all reward transactions for a user in connected orgsget",
+      "url": "https://docs.capillarytech.com/reference/get-all-reward-transactions-for-a-user-in-connected-orgs"
+    },
+    {
+      "title": "Get transaction details by reward transaction ID in connected orgsget",
+      "url": "https://docs.capillarytech.com/reference/get-transaction-details-by-reward-transaction-id-in-connected-orgs"
+    },
+    {
+      "title": "Merge User Rewardspost",
+      "url": "https://docs.capillarytech.com/reference/merge-user-rewards"
+    },
+    {
+      "title": "Get User Reward Merge Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-user-rewards-merge-details"
+    },
+    {
+      "title": "Target/Milestone",
+      "url": "https://docs.capillarytech.com/reference/target-milestones"
+    },
+    {
+      "title": "Milestone & Streaks APIs",
+      "url": "https://docs.capillarytech.com/reference/target-group-1"
+    },
+    {
+      "title": "Create target groupspost",
+      "url": "https://docs.capillarytech.com/reference/create-target-groups"
+    },
+    {
+      "title": "Update target groupput",
+      "url": "https://docs.capillarytech.com/reference/update-target-group"
+    },
+    {
+      "title": "Get target groups based on IDget",
+      "url": "https://docs.capillarytech.com/reference/get-target-groups-id"
+    },
+    {
+      "title": "Get associated target groups of a userget",
+      "url": "https://docs.capillarytech.com/reference/getusertargetgroupdetails"
+    },
+    {
+      "title": "Get Promotion Dataget",
+      "url": "https://docs.capillarytech.com/reference/get-promotion-data-new"
+    },
+    {
+      "title": "Get active targetsget",
+      "url": "https://docs.capillarytech.com/reference/get-active-targets"
+    },
+    {
+      "title": "Get all target groupsget",
+      "url": "https://docs.capillarytech.com/reference/get-target-groups-all"
+    },
+    {
+      "title": "Get target periodsget",
+      "url": "https://docs.capillarytech.com/reference/get-target-periods"
+    },
+    {
+      "title": "Get targets detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-targets"
+    },
+    {
+      "title": "Get target communication templateget",
+      "url": "https://docs.capillarytech.com/reference/get-target-communication-template"
+    },
+    {
+      "title": "Upsert target communicationpost",
+      "url": "https://docs.capillarytech.com/reference/get-target-upload-file"
+    },
+    {
+      "title": "Get target channelsget",
+      "url": "https://docs.capillarytech.com/reference/get-target-channels"
+    },
+    {
+      "title": "Delete target groupdelete",
+      "url": "https://docs.capillarytech.com/reference/delete-target-group"
+    },
+    {
+      "title": "Create target periodpost",
+      "url": "https://docs.capillarytech.com/reference/create-target-period"
+    },
+    {
+      "title": "Update target periodput",
+      "url": "https://docs.capillarytech.com/reference/update-target-period"
+    },
+    {
+      "title": "Create targets (milestone)post",
+      "url": "https://docs.capillarytech.com/reference/create-targets"
+    },
+    {
+      "title": "Modify targetsput",
+      "url": "https://docs.capillarytech.com/reference/modify-target"
+    },
+    {
+      "title": "Deactivate targetdelete",
+      "url": "https://docs.capillarytech.com/reference/get-all-target-groups"
+    },
+    {
+      "title": "Create unified target grouppost",
+      "url": "https://docs.capillarytech.com/reference/create-unified-targets"
+    },
+    {
+      "title": "Update unified targetput",
+      "url": "https://docs.capillarytech.com/reference/update-unified-target"
+    },
+    {
+      "title": "Create streakspost",
+      "url": "https://docs.capillarytech.com/reference/create-streak"
+    },
+    {
+      "title": "Edit streakput",
+      "url": "https://docs.capillarytech.com/reference/edit-streaks"
+    },
+    {
+      "title": "Create target based on Behavioural eventpost",
+      "url": "https://docs.capillarytech.com/reference/create-target-group-based-on-behavioural-event"
+    },
+    {
+      "title": "Create target based on EMF eventpost",
+      "url": "https://docs.capillarytech.com/reference/create-target-based-on-emf-eventss"
+    },
+    {
+      "title": "Create target group based on alternate currenciespost",
+      "url": "https://docs.capillarytech.com/reference/create-target-based-on-alternate-currencies"
+    },
+    {
+      "title": "Get all milestones (target)get",
+      "url": "https://docs.capillarytech.com/reference/get-all-milestones"
+    },
+    {
+      "title": "Enrol/Re-enrol a customer to a milestone/streakpost",
+      "url": "https://docs.capillarytech.com/reference/enrol-customer-to-a-milestone"
+    },
+    {
+      "title": "Unenrol users from a milestone and streakpost",
+      "url": "https://docs.capillarytech.com/reference/un-enrol-users-into-a-milestonestreak"
+    },
+    {
+      "title": "Check the Validity of Milestone / Target Namepost",
+      "url": "https://docs.capillarytech.com/reference/check-validity-of-milestone-name"
+    },
+    {
+      "title": "Get target eventsget",
+      "url": "https://docs.capillarytech.com/reference/get-target-events"
+    },
+    {
+      "title": "User-Created Challenges",
+      "url": "https://docs.capillarytech.com/reference/user-created-challenges"
+    },
+    {
+      "title": "Connected Org APIs",
+      "url": "https://docs.capillarytech.com/reference/connected-org-apis"
+    },
+    {
+      "title": "Enroll/Re-Enroll a Customer to a Milestone or Streakpost",
+      "url": "https://docs.capillarytech.com/reference/connectedorgs-enroll-customer-milestone-or-streak"
+    },
+    {
+      "title": "Unenroll a Customer to from Milestone or Streakpost",
+      "url": "https://docs.capillarytech.com/reference/connectedorgs-unenroll-customer-milestone-or-streak"
+    },
+    {
+      "title": "Get Associated Target Groups of a Userget",
+      "url": "https://docs.capillarytech.com/reference/connectedorgs-get-associated-target-groups-of-a-user"
+    },
+    {
+      "title": "Data Scopes",
+      "url": "https://docs.capillarytech.com/reference/connected-orgs-data-scopes"
+    },
+    {
+      "title": "Leaderboards",
+      "url": "https://docs.capillarytech.com/reference/leaderboards"
+    },
+    {
+      "title": "Get top ranked usersget",
+      "url": "https://docs.capillarytech.com/reference/get-top-ranked-users"
+    },
+    {
+      "title": "Get user rank across target groupsget",
+      "url": "https://docs.capillarytech.com/reference/get-user-ranks-across-target-groups"
+    },
+    {
+      "title": "Loyalty Promotion",
+      "url": "https://docs.capillarytech.com/reference/promotion"
+    },
+    {
+      "title": "Enrol and Issue Promotionpost",
+      "url": "https://docs.capillarytech.com/reference/enrol-and-issue-promotion"
+    },
+    {
+      "title": "Revoke Enrolled and Issued Promotionspost",
+      "url": "https://docs.capillarytech.com/reference/revoke-enrolled-and-issued-promotion"
+    },
+    {
+      "title": "Connected Org APIs",
+      "url": "https://docs.capillarytech.com/reference/connectedorgs-get-promotion-data"
+    },
+    {
+      "title": "User Created Challenge",
+      "url": "https://docs.capillarytech.com/reference/create-promotion-for-ucc"
+    },
+    {
+      "title": "Get promotion by IDget",
+      "url": "https://docs.capillarytech.com/reference/get-promotion-by-id"
+    },
+    {
+      "title": "Get details of all promotionsget",
+      "url": "https://docs.capillarytech.com/reference/get-promotion-details"
+    },
+    {
+      "title": "Get Promotion Data of a Specific Customerget",
+      "url": "https://docs.capillarytech.com/reference/get-promotion-data"
+    },
+    {
+      "title": "Cart Promotions",
+      "url": "https://docs.capillarytech.com/reference/loyalty-cart-promotions"
+    },
+    {
+      "title": "Get Cart Promotion Settingsget",
+      "url": "https://docs.capillarytech.com/reference/get-promotion-settings"
+    },
+    {
+      "title": "Get Promotion Redemptionsget",
+      "url": "https://docs.capillarytech.com/reference/get-promotion-redemptions"
+    },
+    {
+      "title": "Get Cart Promotions code APIget",
+      "url": "https://docs.capillarytech.com/reference/get-promotions-code-api"
+    },
+    {
+      "title": "Get Cart Promotions for a particular tillget",
+      "url": "https://docs.capillarytech.com/reference/get-promotions-for-a-particular-till"
+    },
+    {
+      "title": "Get Lock unlock -Pending cartsget",
+      "url": "https://docs.capillarytech.com/reference/get-lock-unlock-pending-carts"
+    },
+    {
+      "title": "Get Cart Promotions Config APIget",
+      "url": "https://docs.capillarytech.com/reference/get-promotions-config-api"
+    },
+    {
+      "title": "Create Cart Promotionpost",
+      "url": "https://docs.capillarytech.com/reference/create-promotion-1"
+    },
+    {
+      "title": "Set Cart Promotion Settingspost",
+      "url": "https://docs.capillarytech.com/reference/set-promotion-settings"
+    },
+    {
+      "title": "Earn Cart Promotionpost",
+      "url": "https://docs.capillarytech.com/reference/earn-promotion"
+    },
+    {
+      "title": "Deactivate Cart Promotionpost",
+      "url": "https://docs.capillarytech.com/reference/deactivate-promotion"
+    },
+    {
+      "title": "Activate Cart Promotionpost",
+      "url": "https://docs.capillarytech.com/reference/activate-promotion"
+    },
+    {
+      "title": "Post Revoke Earned Cart Promotionpost",
+      "url": "https://docs.capillarytech.com/reference/post-revoke-earned-promotion"
+    },
+    {
+      "title": "Post Earn Cart Promotions in Bulkpost",
+      "url": "https://docs.capillarytech.com/reference/post-earn-promotions-in-bulk"
+    },
+    {
+      "title": "Post Evaluate Cart Promotionspost",
+      "url": "https://docs.capillarytech.com/reference/post-evaluate-promotions"
+    },
+    {
+      "title": "Cancel Cart Evaluationput",
+      "url": "https://docs.capillarytech.com/reference/post-cancel-cart-evaluation"
+    },
+    {
+      "title": "Post Cart Promotions Code link APIpost",
+      "url": "https://docs.capillarytech.com/reference/post-promotions-code-link-api"
+    },
+    {
+      "title": "Get Cart Promotions for a Customerget",
+      "url": "https://docs.capillarytech.com/reference/get-promotions-for-a-customer"
+    },
+    {
+      "title": "Issue Cart Promotionpost",
+      "url": "https://docs.capillarytech.com/reference/issue-cart-promotion"
+    },
+    {
+      "title": "User Group",
+      "url": "https://docs.capillarytech.com/reference/add-group"
+    },
+    {
+      "title": "Update User Groupput",
+      "url": "https://docs.capillarytech.com/reference/update-user-group"
+    },
+    {
+      "title": "Search user groups by name, ID, and mobile numberget",
+      "url": "https://docs.capillarytech.com/reference/get-user-group-details"
+    },
+    {
+      "title": "Delete User Groupdelete",
+      "url": "https://docs.capillarytech.com/reference/delete-user-group"
+    },
+    {
+      "title": "Join Member to Grouppost",
+      "url": "https://docs.capillarytech.com/reference/join-member-to-group"
+    },
+    {
+      "title": "Remove group memberdelete",
+      "url": "https://docs.capillarytech.com/reference/remove-group-member"
+    },
+    {
+      "title": "Transfer Group Memberpost",
+      "url": "https://docs.capillarytech.com/reference/transfer-group-member"
+    },
+    {
+      "title": "Get group transactionsget",
+      "url": "https://docs.capillarytech.com/reference/get-group-transactions"
+    },
+    {
+      "title": "Retrieve user group members listget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-user-group-member-details"
+    },
+    {
+      "title": "Retrieve user group members list with cards & status detailsget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-user-group-members-list-with-cards-status-details"
+    },
+    {
+      "title": "Retrieve Primary & Secondary Member Detailsget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-primary-secondary-member-details"
+    },
+    {
+      "title": "Retrieve group slab/tier log historyget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-group-tier-log-history"
+    },
+    {
+      "title": "Retrieve points expiry schedule of a groupget",
+      "url": "https://docs.capillarytech.com/reference/get-points-expiry-schedule-of-a-group"
+    },
+    {
+      "title": "Retrieve points conversion scheduleget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-points-conversion-schedule"
+    },
+    {
+      "title": "Status codes",
+      "url": "https://docs.capillarytech.com/reference/user-group-status-codes"
+    },
+    {
+      "title": "Update permissionsput",
+      "url": "https://docs.capillarytech.com/reference/update-user-group-permission"
+    },
+    {
+      "title": "Search for groups using the extended fieldspost",
+      "url": "https://docs.capillarytech.com/reference/search-for-groups-using-the-extended-fields"
+    },
+    {
+      "title": "Organization",
+      "url": "https://docs.capillarytech.com/reference/organization"
+    },
+    {
+      "title": "Get Org Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-details"
+    },
+    {
+      "title": "Get Org Entitiesget",
+      "url": "https://docs.capillarytech.com/reference/get-org-entities"
+    },
+    {
+      "title": "Get Org Configurationsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-configurations"
+    },
+    {
+      "title": "Get Org Statisticsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-statistics"
+    },
+    {
+      "title": "Get Top Selling Itemsget",
+      "url": "https://docs.capillarytech.com/reference/get-top-selling-items"
+    },
+    {
+      "title": "Get Org Custom Fieldsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-custom-fields-1"
+    },
+    {
+      "title": "Retrieve Brand IDpost",
+      "url": "https://docs.capillarytech.com/reference/retrieve-brand-id"
+    },
+    {
+      "title": "Get Org Payment Modesget",
+      "url": "https://docs.capillarytech.com/reference/get-org-payment-modes"
+    },
+    {
+      "title": "Organization (V2)",
+      "url": "https://docs.capillarytech.com/reference/organization-api"
+    },
+    {
+      "title": "Add Tillpost",
+      "url": "https://docs.capillarytech.com/reference/add-till-with-new-custom-fields"
+    },
+    {
+      "title": "Update Till with Custom Fieldsput",
+      "url": "https://docs.capillarytech.com/reference/update-till-with-custom-field-info"
+    },
+    {
+      "title": "Get Custom Fieldsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-custom-fields"
+    },
+    {
+      "title": "Get Config Key Valuesget",
+      "url": "https://docs.capillarytech.com/reference/get-organization-configs"
+    },
+    {
+      "title": "Get org till detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-tills"
+    },
+    {
+      "title": "Get Active Tillsget",
+      "url": "https://docs.capillarytech.com/reference/get-active-tills"
+    },
+    {
+      "title": "Get Loyalty Programsget",
+      "url": "https://docs.capillarytech.com/reference/get-loyalty-programs"
+    },
+    {
+      "title": "Add Storepost",
+      "url": "https://docs.capillarytech.com/reference/add-store"
+    },
+    {
+      "title": "Retrieve org hierarchy detailsget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-org-hierarchy-details"
+    },
+    {
+      "title": "Add Store in bulkpost",
+      "url": "https://docs.capillarytech.com/reference/add-store-in-bulk"
+    },
+    {
+      "title": "Communications (v2)",
+      "url": "https://docs.capillarytech.com/reference/v2-send-communication-message"
+    },
+    {
+      "title": "Error code",
+      "url": "https://docs.capillarytech.com/reference/error-code-copy"
+    },
+    {
+      "title": "Communications (v1)",
+      "url": "https://docs.capillarytech.com/reference/communications"
+    },
+    {
+      "title": "Send communication messagepost",
+      "url": "https://docs.capillarytech.com/reference/send-communication-message"
+    },
+    {
+      "title": "Error code",
+      "url": "https://docs.capillarytech.com/reference/error-code"
+    },
+    {
+      "title": "Custom Fields",
+      "url": "https://docs.capillarytech.com/reference/create-a-custom-field"
+    },
+    {
+      "title": "Get Custom Fieldsget",
+      "url": "https://docs.capillarytech.com/reference/get-custom-fields"
+    },
+    {
+      "title": "Tag Custom Field to an Entitypost",
+      "url": "https://docs.capillarytech.com/reference/tag-custom-field-to-an-entity"
+    },
+    {
+      "title": "Audit logs",
+      "url": "https://docs.capillarytech.com/reference/audit-logs"
+    },
+    {
+      "title": "Get audit logs of entitiesget",
+      "url": "https://docs.capillarytech.com/reference/get-entity-audit-logs"
+    },
+    {
+      "title": "Get Audit Logs by event nameget",
+      "url": "https://docs.capillarytech.com/reference/get-audit-logs"
+    },
+    {
+      "title": "PII deletion",
+      "url": "https://docs.capillarytech.com/reference/pii-deletion"
+    },
+    {
+      "title": "Add a PII deletion requestpost",
+      "url": "https://docs.capillarytech.com/reference/add-a-pii-deletion-request"
+    },
+    {
+      "title": "Update PII deletion statusput",
+      "url": "https://docs.capillarytech.com/reference/update-pii-deletion-status"
+    },
+    {
+      "title": "Retrieve request status of PII deletionget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-pii-deletion-request-status"
+    },
+    {
+      "title": "Retrieve PII deletion request detailsget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-pii-deletion-request-details"
+    },
+    {
+      "title": "Error codes",
+      "url": "https://docs.capillarytech.com/reference/pii-deletion-error-codes"
+    },
+    {
+      "title": "Leads",
+      "url": "https://docs.capillarytech.com/reference/leads"
+    },
+    {
+      "title": "Add Leadpatch",
+      "url": "https://docs.capillarytech.com/reference/add-lead-1"
+    },
+    {
+      "title": "Add Lead Substatuspost",
+      "url": "https://docs.capillarytech.com/reference/create-lead-substatus"
+    },
+    {
+      "title": "Update Lead Statusput",
+      "url": "https://docs.capillarytech.com/reference/update-lead-status"
+    },
+    {
+      "title": "Update Lead Followupspost",
+      "url": "https://docs.capillarytech.com/reference/update-lead-followups"
+    },
+    {
+      "title": "Update Leadput",
+      "url": "https://docs.capillarytech.com/reference/update-lead"
+    },
+    {
+      "title": "Configure lead reasonspost",
+      "url": "https://docs.capillarytech.com/reference/set-lead-reasons"
+    },
+    {
+      "title": "Get Lead Status Logget",
+      "url": "https://docs.capillarytech.com/reference/get-lead-status-log"
+    },
+    {
+      "title": "Get Lead follow-upsget",
+      "url": "https://docs.capillarytech.com/reference/get-lead-follow-ups"
+    },
+    {
+      "title": "Get Lead Reasonsget",
+      "url": "https://docs.capillarytech.com/reference/get-lead-reasons"
+    },
+    {
+      "title": "Get Lead Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-lead-details"
+    },
+    {
+      "title": "Get Lead Substatusget",
+      "url": "https://docs.capillarytech.com/reference/get-lead-substatus"
+    },
+    {
+      "title": "Assign Leadget",
+      "url": "https://docs.capillarytech.com/reference/assign-lead"
+    },
+    {
+      "title": "Search leadget",
+      "url": "https://docs.capillarytech.com/reference/search-lead"
+    },
+    {
+      "title": "Staff",
+      "url": "https://docs.capillarytech.com/reference/staff"
+    },
+    {
+      "title": "Add Staff Accountpost",
+      "url": "https://docs.capillarytech.com/reference/add-staff-account"
+    },
+    {
+      "title": "Get Access Tokenpost",
+      "url": "https://docs.capillarytech.com/reference/get-access-token"
+    },
+    {
+      "title": "Edit Staff Detailspost",
+      "url": "https://docs.capillarytech.com/reference/edit-staff-details"
+    },
+    {
+      "title": "Get Staff Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-staff-details"
+    },
+    {
+      "title": "Change Account Passwordpost",
+      "url": "https://docs.capillarytech.com/reference/change-account-password"
+    },
+    {
+      "title": "Send OTPpost",
+      "url": "https://docs.capillarytech.com/reference/send-otp"
+    },
+    {
+      "title": "Validate OTPpost",
+      "url": "https://docs.capillarytech.com/reference/validate-otp-1"
+    },
+    {
+      "title": "Change Identifier (Send OTP)post",
+      "url": "https://docs.capillarytech.com/reference/change-identifier-send-otp"
+    },
+    {
+      "title": "Change Identifier (Validate OTP)post",
+      "url": "https://docs.capillarytech.com/reference/change-identifier-validate-otp"
+    },
+    {
+      "title": "Transfer Staff Userpost",
+      "url": "https://docs.capillarytech.com/reference/transfer-staff-user"
+    },
+    {
+      "title": "Get Staff of Store/Zoneget",
+      "url": "https://docs.capillarytech.com/reference/get-staff-of-storezone"
+    },
+    {
+      "title": "Logout Staff Accountget",
+      "url": "https://docs.capillarytech.com/reference/logout-staff-account"
+    },
+    {
+      "title": "Remove Staff Accountpost",
+      "url": "https://docs.capillarytech.com/reference/remove-staff-account"
+    },
+    {
+      "title": "Behavioral Events",
+      "url": "https://docs.capillarytech.com/reference/behavioral-events-and-status-code"
+    },
+    {
+      "title": "Create Event (Custom)post",
+      "url": "https://docs.capillarytech.com/reference/create-event-custom-be"
+    },
+    {
+      "title": "Update Event (Custom)put",
+      "url": "https://docs.capillarytech.com/reference/update-event-custom"
+    },
+    {
+      "title": "Get Org Eventsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-all-events"
+    },
+    {
+      "title": "Get Running Events Statusget",
+      "url": "https://docs.capillarytech.com/reference/get-running-event-status"
+    },
+    {
+      "title": "Get Customer Eventsget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-events-data"
+    },
+    {
+      "title": "Disable Eventput",
+      "url": "https://docs.capillarytech.com/reference/disable-event"
+    },
+    {
+      "title": "Add Webhookpost",
+      "url": "https://docs.capillarytech.com/reference/add-webhook"
+    },
+    {
+      "title": "Get Events Logsget",
+      "url": "https://docs.capillarytech.com/reference/get-events-logs"
+    },
+    {
+      "title": "Get Events Metaget",
+      "url": "https://docs.capillarytech.com/reference/get-events-meta"
+    },
+    {
+      "title": "Get event data using request IDget",
+      "url": "https://docs.capillarytech.com/reference/get-specific-event-data"
+    },
+    {
+      "title": "Search eventsget",
+      "url": "https://docs.capillarytech.com/reference/search-events"
+    },
+    {
+      "title": "Post Eventpost",
+      "url": "https://docs.capillarytech.com/reference/post-event"
+    },
+    {
+      "title": "Event notification logs",
+      "url": "https://docs.capillarytech.com/reference/event-logs"
+    },
+    {
+      "title": "Get Event Log (by Request ID)get",
+      "url": "https://docs.capillarytech.com/reference/get-event-log-by-request-id-"
+    },
+    {
+      "title": "Get Event Log (by Reference ID)get",
+      "url": "https://docs.capillarytech.com/reference/get-event-log-by-reference-id-"
+    },
+    {
+      "title": "Get Event Log (by Event ID)get",
+      "url": "https://docs.capillarytech.com/reference/get-event-log-by-event-id"
+    },
+    {
+      "title": "Response code",
+      "url": "https://docs.capillarytech.com/reference/response-codes"
+    },
+    {
+      "title": "Company",
+      "url": "https://docs.capillarytech.com/reference/company-1"
+    },
+    {
+      "title": "Add Companypost",
+      "url": "https://docs.capillarytech.com/reference/add-company"
+    },
+    {
+      "title": "Update Companyput",
+      "url": "https://docs.capillarytech.com/reference/update-company"
+    },
+    {
+      "title": "Get Company Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-company-details"
+    },
+    {
+      "title": "Remove Companydelete",
+      "url": "https://docs.capillarytech.com/reference/remove-company"
+    },
+    {
+      "title": "Get Org Companiesget",
+      "url": "https://docs.capillarytech.com/reference/get-org-companies"
+    },
+    {
+      "title": "Get Companies by Extended Field Valuesget",
+      "url": "https://docs.capillarytech.com/reference/get-companies-by-extended-field-values"
+    },
+    {
+      "title": "Request (V1)",
+      "url": "https://docs.capillarytech.com/reference/request"
+    },
+    {
+      "title": "Add Requestpost",
+      "url": "https://docs.capillarytech.com/reference/add-request"
+    },
+    {
+      "title": "Approve Requestspost",
+      "url": "https://docs.capillarytech.com/reference/approve-requests"
+    },
+    {
+      "title": "Reject Requestspost",
+      "url": "https://docs.capillarytech.com/reference/reject-requests"
+    },
+    {
+      "title": "Get Request Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-request-details"
+    },
+    {
+      "title": "Get Request Logsget",
+      "url": "https://docs.capillarytech.com/reference/get-request-log"
+    },
+    {
+      "title": "Requests (V2)",
+      "url": "https://docs.capillarytech.com/reference/requests"
+    },
+    {
+      "title": "Add transaction requestpost",
+      "url": "https://docs.capillarytech.com/reference/add-transaction-request"
+    },
+    {
+      "title": "Update transaction requestput",
+      "url": "https://docs.capillarytech.com/reference/update-transaction-request"
+    },
+    {
+      "title": "Retrieve transaction request statusget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-transaction-request-status"
+    },
+    {
+      "title": "Retrieve  transaction request detailsget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-transaction-request-details"
+    },
+    {
+      "title": "Status event notification",
+      "url": "https://docs.capillarytech.com/reference/request-event-notification"
+    },
+    {
+      "title": "Error codes",
+      "url": "https://docs.capillarytech.com/reference/error-codes"
+    },
+    {
+      "title": "(New) Request workflow",
+      "url": "https://docs.capillarytech.com/reference/request-workflow"
+    },
+    {
+      "title": "Create a request",
+      "url": "https://docs.capillarytech.com/reference/create-a-request"
+    },
+    {
+      "title": "Change customer status requestpost",
+      "url": "https://docs.capillarytech.com/reference/change-customer-status"
+    },
+    {
+      "title": "Points redemption requestpost",
+      "url": "https://docs.capillarytech.com/reference/points-redemption"
+    },
+    {
+      "title": "Issue goodwill points requestpost",
+      "url": "https://docs.capillarytech.com/reference/issue-goodwill-points"
+    },
+    {
+      "title": "Issue/Earn badge requestpost",
+      "url": "https://docs.capillarytech.com/reference/earn-badge-issue-badge-to-single-customercustomer-earns-the-badge"
+    },
+    {
+      "title": "Enrol customers for badgespost",
+      "url": "https://docs.capillarytech.com/reference/issue-badge-enrol-customers-for-badges"
+    },
+    {
+      "title": "Retro transaction - Claim transactionpost",
+      "url": "https://docs.capillarytech.com/reference/retro-transaction-claim-transaction"
+    },
+    {
+      "title": "Approve or reject a requestput",
+      "url": "https://docs.capillarytech.com/reference/approve-or-reject-a-request"
+    },
+    {
+      "title": "Get details of all requestsget",
+      "url": "https://docs.capillarytech.com/reference/get-all-requests"
+    },
+    {
+      "title": "Get details of a particular requestget",
+      "url": "https://docs.capillarytech.com/reference/get-request-info"
+    },
+    {
+      "title": "Error codes",
+      "url": "https://docs.capillarytech.com/reference/error-codes-request-workflow"
+    },
+    {
+      "title": "Partner Program",
+      "url": "https://docs.capillarytech.com/reference/partner-program"
+    },
+    {
+      "title": "Link Customer to Partner Programpost",
+      "url": "https://docs.capillarytech.com/reference/link-customer-to-partner-program"
+    },
+    {
+      "title": "Update Customerpost",
+      "url": "https://docs.capillarytech.com/reference/update-customer"
+    },
+    {
+      "title": "Delink Customerpost",
+      "url": "https://docs.capillarytech.com/reference/delink-customer"
+    },
+    {
+      "title": "Get Customer Activityget",
+      "url": "https://docs.capillarytech.com/reference/get-customer-activity"
+    },
+    {
+      "title": "Get customer activity historyget",
+      "url": "https://docs.capillarytech.com/reference/customeractivityhistories"
+    },
+    {
+      "title": "User Authentication",
+      "url": "https://docs.capillarytech.com/reference/user-authentication"
+    },
+    {
+      "title": "Register Userpost",
+      "url": "https://docs.capillarytech.com/reference/register-users"
+    },
+    {
+      "title": "Authorize Userpost",
+      "url": "https://docs.capillarytech.com/reference/authorize-user"
+    },
+    {
+      "title": "Update Passwordput",
+      "url": "https://docs.capillarytech.com/reference/update-password"
+    },
+    {
+      "title": "OTP",
+      "url": "https://docs.capillarytech.com/reference/otp"
+    },
+    {
+      "title": "Generate OTPpost",
+      "url": "https://docs.capillarytech.com/reference/generate-otp"
+    },
+    {
+      "title": "OTP template guidelines",
+      "url": "https://docs.capillarytech.com/reference/otp-template-guidelines"
+    },
+    {
+      "title": "Validate OTPpost",
+      "url": "https://docs.capillarytech.com/reference/validate-otp"
+    },
+    {
+      "title": "Get OTPget",
+      "url": "https://docs.capillarytech.com/reference/get-otp"
+    },
+    {
+      "title": "Success and error codes",
+      "url": "https://docs.capillarytech.com/reference/success-and-error-codes"
+    },
+    {
+      "title": "Product",
+      "url": "https://docs.capillarytech.com/reference/add-product"
+    },
+    {
+      "title": "Get Product Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-product-details"
+    },
+    {
+      "title": "Search Productsget",
+      "url": "https://docs.capillarytech.com/reference/search-products"
+    },
+    {
+      "title": "Add Product Attributespost",
+      "url": "https://docs.capillarytech.com/reference/add-product-attributes"
+    },
+    {
+      "title": "Get Product Attributesget",
+      "url": "https://docs.capillarytech.com/reference/get-product-attributes"
+    },
+    {
+      "title": "Get Product Categoriesget",
+      "url": "https://docs.capillarytech.com/reference/get-product-categories"
+    },
+    {
+      "title": "Get Product Brandsget",
+      "url": "https://docs.capillarytech.com/reference/get-product-brands"
+    },
+    {
+      "title": "Get Product Colorsget",
+      "url": "https://docs.capillarytech.com/reference/get-product-colors"
+    },
+    {
+      "title": "Get Product Sizesget",
+      "url": "https://docs.capillarytech.com/reference/get-product-sizes"
+    },
+    {
+      "title": "Get Product Meta Sizesget",
+      "url": "https://docs.capillarytech.com/reference/get-product-meta-sizes"
+    },
+    {
+      "title": "Response codes",
+      "url": "https://docs.capillarytech.com/reference/response-codes-1"
+    },
+    {
+      "title": "Store",
+      "url": "https://docs.capillarytech.com/reference/store"
+    },
+    {
+      "title": "Get Store Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-store-details"
+    },
+    {
+      "title": "Get Store Staff Detailsget",
+      "url": "https://docs.capillarytech.com/reference/get-store-staff-details"
+    },
+    {
+      "title": "Get Store Tasksget",
+      "url": "https://docs.capillarytech.com/reference/get-store-tasks"
+    },
+    {
+      "title": "Verify Store Login Credentialsget",
+      "url": "https://docs.capillarytech.com/reference/verify-store-login-credentials"
+    },
+    {
+      "title": "Upload Store Logspost",
+      "url": "https://docs.capillarytech.com/reference/upload-store-logs"
+    },
+    {
+      "title": "Upload Store Reportspost",
+      "url": "https://docs.capillarytech.com/reference/upload-store-reports"
+    },
+    {
+      "title": "Get Store Reportsget",
+      "url": "https://docs.capillarytech.com/reference/get-store-reports"
+    },
+    {
+      "title": "Get Store Configurationsget",
+      "url": "https://docs.capillarytech.com/reference/get-store-configurations"
+    },
+    {
+      "title": "Verify Login Credentialsget",
+      "url": "https://docs.capillarytech.com/reference/verify-login-credentials"
+    },
+    {
+      "title": "Task",
+      "url": "https://docs.capillarytech.com/reference/task"
+    },
+    {
+      "title": "Add Taskspost",
+      "url": "https://docs.capillarytech.com/reference/add-tasks"
+    },
+    {
+      "title": "Update Taskspost",
+      "url": "https://docs.capillarytech.com/reference/update-tasks"
+    },
+    {
+      "title": "Get Tasks Metadataget",
+      "url": "https://docs.capillarytech.com/reference/get-tasks-metadata"
+    },
+    {
+      "title": "Get Task Logsget",
+      "url": "https://docs.capillarytech.com/reference/get-task-logs"
+    },
+    {
+      "title": "Update Status Mappingspost",
+      "url": "https://docs.capillarytech.com/reference/update-status-mappings"
+    },
+    {
+      "title": "Get Status Mappingsget",
+      "url": "https://docs.capillarytech.com/reference/get-status-mappings"
+    },
+    {
+      "title": "Get Task Remindersget",
+      "url": "https://docs.capillarytech.com/reference/get-task-reminders"
+    },
+    {
+      "title": "Create/Update Task Reminderspost",
+      "url": "https://docs.capillarytech.com/reference/createupdate-task-reminders"
+    },
+    {
+      "title": "Retrieve Individual Task Detailsget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-individual-task-details"
+    },
+    {
+      "title": "Customer Authentication (Web/Mobile)",
+      "url": "https://docs.capillarytech.com/reference/first-factor-authentication"
+    },
+    {
+      "title": "First factor authentication",
+      "url": "https://docs.capillarytech.com/reference/generate-authentication-tokenapi"
+    },
+    {
+      "title": "Generate OTPpost",
+      "url": "https://docs.capillarytech.com/reference/generate-otp-api"
+    },
+    {
+      "title": "Validate OTPpost",
+      "url": "https://docs.capillarytech.com/reference/validate-otp-api"
+    },
+    {
+      "title": "Validate Passwordpost",
+      "url": "https://docs.capillarytech.com/reference/validate-password"
+    },
+    {
+      "title": "Regenerate Authentication Tokenpost",
+      "url": "https://docs.capillarytech.com/reference/regenerate-authentication-token"
+    },
+    {
+      "title": "Change Passwordpost",
+      "url": "https://docs.capillarytech.com/reference/change-password"
+    },
+    {
+      "title": "Forget Passwordpost",
+      "url": "https://docs.capillarytech.com/reference/forget-password"
+    },
+    {
+      "title": "Status codes",
+      "url": "https://docs.capillarytech.com/reference/status-codes"
+    },
+    {
+      "title": "Multi-factor authentication",
+      "url": "https://docs.capillarytech.com/reference/multi-factor-authentication"
+    },
+    {
+      "title": "Generate MFA tokenpost",
+      "url": "https://docs.capillarytech.com/reference/generate-mfa-token"
+    },
+    {
+      "title": "Generate MFA OTPpost",
+      "url": "https://docs.capillarytech.com/reference/generate-otp-mfa"
+    },
+    {
+      "title": "Validate MFA OTPpost",
+      "url": "https://docs.capillarytech.com/reference/validate-mfa-otp"
+    },
+    {
+      "title": "MFA password flow",
+      "url": "https://docs.capillarytech.com/reference/mfa-password-flow"
+    },
+    {
+      "title": "Validate passwordpost",
+      "url": "https://docs.capillarytech.com/reference/validate-mfa-password"
+    },
+    {
+      "title": "Change passwordpost",
+      "url": "https://docs.capillarytech.com/reference/change-mfa-password"
+    },
+    {
+      "title": "Forgot passwordpost",
+      "url": "https://docs.capillarytech.com/reference/mfa-forgot-password"
+    },
+    {
+      "title": "Regenerate tokenpost",
+      "url": "https://docs.capillarytech.com/reference/regenerate-token"
+    },
+    {
+      "title": "Delete tokendelete",
+      "url": "https://docs.capillarytech.com/reference/delete-token"
+    },
+    {
+      "title": "Authentication configurations",
+      "url": "https://docs.capillarytech.com/reference/authentication-configurations"
+    },
+    {
+      "title": "Referral",
+      "url": "https://docs.capillarytech.com/reference/refer-customer"
+    },
+    {
+      "title": "Get Referral Codeget",
+      "url": "https://docs.capillarytech.com/reference/get-referrals"
+    },
+    {
+      "title": "Validate Referral Codeget",
+      "url": "https://docs.capillarytech.com/reference/validate-referral-code"
+    },
+    {
+      "title": "DIY Template APIs",
+      "url": "https://docs.capillarytech.com/reference/diy-template-apis"
+    },
+    {
+      "title": "Create DIY Templatepost",
+      "url": "https://docs.capillarytech.com/reference/post-create-api-diy-template-connectplus"
+    },
+    {
+      "title": "Retrieve Workspacesget",
+      "url": "https://docs.capillarytech.com/reference/get-workspaces-diy-connectplus-template"
+    },
+    {
+      "title": "Retrieve Blocks Supported by the Templateget",
+      "url": "https://docs.capillarytech.com/reference/get-processor-diy-connectplus-template"
+    },
+    {
+      "title": "Other APIs",
+      "url": "https://docs.capillarytech.com/reference/get-transaction-earning"
+    },
+    {
+      "title": "Trigger Walk-in Notifications on InStoreget",
+      "url": "https://docs.capillarytech.com/reference/trigger-walk-in-notifications-on-instore"
+    },
+    {
+      "title": "Update Currency Ratiopost",
+      "url": "https://docs.capillarytech.com/reference/update-currency-ratio"
+    },
+    {
+      "title": "Generate Card/customer External IDget",
+      "url": "https://docs.capillarytech.com/reference/generate-card-external-id"
+    },
+    {
+      "title": "Configure Org Extended Fieldpost",
+      "url": "https://docs.capillarytech.com/reference/configure-org-extended-field"
+    },
+    {
+      "title": "Get Org Extended Fieldsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-extended-fields"
+    },
+    {
+      "title": "Create Store Associatespost",
+      "url": "https://docs.capillarytech.com/reference/create-store-associates"
+    },
+    {
+      "title": "Feed (Scan Event)post",
+      "url": "https://docs.capillarytech.com/reference/feed-scan-event"
+    },
+    {
+      "title": "Get Configured Card Limit per Customerget",
+      "url": "https://docs.capillarytech.com/reference/get-configured-card-limit-per-customer"
+    },
+    {
+      "title": "Get Org Sourcesget",
+      "url": "https://docs.capillarytech.com/reference/get-org-sources"
+    },
+    {
+      "title": "Get org configsget",
+      "url": "https://docs.capillarytech.com/reference/get-org-config-key-values"
+    },
+    {
+      "title": "Retrieve extended field config detailsget",
+      "url": "https://docs.capillarytech.com/reference/retrieve-extended-field-config-details"
+    }
+  ],
+  "VULCAN": [
+    {
+      "title": "Introduction",
+      "url": "https://docs.capillarytech.com/reference/introduction-5"
+    },
+    {
+      "title": "Getting Started",
+      "url": "https://docs.capillarytech.com/reference/vulcan-getting-started"
+    },
+    {
+      "title": "Application Development Process",
+      "url": "https://docs.capillarytech.com/reference/application-development-process"
+    },
+    {
+      "title": "API Management on Vulcan",
+      "url": "https://docs.capillarytech.com/reference/api_management_on_vulcan"
+    },
+    {
+      "title": "Examples",
+      "url": "https://docs.capillarytech.com/reference/examples-of-ui-creation"
+    },
+    {
+      "title": "Creating a Microsite Using Vulcan",
+      "url": "https://docs.capillarytech.com/reference/creating-a-microsite-using-vulcan"
+    },
+    {
+      "title": "Customising the Member Care UI",
+      "url": "https://docs.capillarytech.com/reference/customizing-the-member-care-ui"
+    },
+    {
+      "title": "Troubleshooting",
+      "url": "https://docs.capillarytech.com/reference/vulcan-troubleshooting"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://docs.capillarytech.com/reference/vulcan_faq"
+    }
+  ],
+  "mobile SDKs": [
+    {
+      "title": "Android SDK",
+      "url": "https://docs.capillarytech.com/reference/overview_android-sdk"
+    },
+    {
+      "title": "Configure firebase",
+      "url": "https://docs.capillarytech.com/reference/configure-firebase"
+    },
+    {
+      "title": "Set up source account",
+      "url": "https://docs.capillarytech.com/reference/set-up-source-account"
+    },
+    {
+      "title": "Configure gateway",
+      "url": "https://docs.capillarytech.com/reference/configure-gateway"
+    },
+    {
+      "title": "Install SDK",
+      "url": "https://docs.capillarytech.com/reference/installing-sdk"
+    },
+    {
+      "title": "Initialise SDK",
+      "url": "https://docs.capillarytech.com/reference/sdk-initialisation"
+    },
+    {
+      "title": "Set up events tracking",
+      "url": "https://docs.capillarytech.com/reference/track-events"
+    },
+    {
+      "title": "Push notifications",
+      "url": "https://docs.capillarytech.com/reference/push-notification"
+    },
+    {
+      "title": "In-app messaging",
+      "url": "https://docs.capillarytech.com/reference/in-app-messaging"
+    },
+    {
+      "title": "Notification center",
+      "url": "https://docs.capillarytech.com/reference/configure-notification-center"
+    },
+    {
+      "title": "Xiaomi push notification (Push Amplification)",
+      "url": "https://docs.capillarytech.com/reference/xiaomi-push-notification"
+    },
+    {
+      "title": "iOS SDK",
+      "url": "https://docs.capillarytech.com/reference/overview_ios_sdk"
+    },
+    {
+      "title": "Set up source account",
+      "url": "https://docs.capillarytech.com/reference/set-up-source-account-ios"
+    },
+    {
+      "title": "Configure gateway",
+      "url": "https://docs.capillarytech.com/reference/configure-gateway-ios"
+    },
+    {
+      "title": "Install SDK",
+      "url": "https://docs.capillarytech.com/reference/install-sdk"
+    },
+    {
+      "title": "Initialise SDK",
+      "url": "https://docs.capillarytech.com/reference/initialise-ios-sdk"
+    },
+    {
+      "title": "Set up events tracking",
+      "url": "https://docs.capillarytech.com/reference/set-up-events-tracking"
+    },
+    {
+      "title": "Push notifications",
+      "url": "https://docs.capillarytech.com/reference/configure-push-notifications"
+    },
+    {
+      "title": "In-app messaging",
+      "url": "https://docs.capillarytech.com/reference/in-app-messaging_ios"
+    },
+    {
+      "title": "Notification center",
+      "url": "https://docs.capillarytech.com/reference/configure-notification-center_ios"
+    },
+    {
+      "title": "Setting up React native project for Hydra SDK",
+      "url": "https://docs.capillarytech.com/reference/setting-up-react-native-project-for-hydra-sdk"
+    },
+    {
+      "title": "Integrate Push Notifications into your React Native project",
+      "url": "https://docs.capillarytech.com/reference/push-notification-for-hydra-sdk"
+    },
+    {
+      "title": "Integrate In-App messaging into your React Native project",
+      "url": "https://docs.capillarytech.com/reference/in-app-messaging-for-hydra-sdk"
+    },
+    {
+      "title": "Integrate Notification center into your React Native project",
+      "url": "https://docs.capillarytech.com/reference/notification-center"
+    }
+  ],
+  "Plugins": [
+    {
+      "title": "Shopify plugin",
+      "url": "https://docs.capillarytech.com/reference/shopify-plugin"
+    },
+    {
+      "title": "Magento plugin",
+      "url": "https://docs.capillarytech.com/reference/magento-plugin"
+    }
+  ]
+}
